@@ -1,8 +1,8 @@
 ---
+title: "KRISTUS V\_DOMĚ ČP.\_2000"
+subtitle: Obležení
 contentType: prose
 ---
-
-Obležení
 
   
 
@@ -92,12 +92,14 @@ Znám to, ale ať se zasmějem, Limon mi řekl spoustu fórů, měl je nachystan
 
 Limonovi se teď už hrát nechce, na hubeným krku mu jezdí ohryzek nahoru a dolů, jako by už polykal, a oči se mu lesknou, šíleně netrpělivej, ale neboj, vždyť dostaneš svoje, ale pojď si předtím ještě chvilku hrát, vždyť to předtím je přece nejlepší – ale Limon taky musí brzo ráno vstávat a já se to bojím říct, abych ho neurazila, ti kluci zdola jsou všichni děsně hrdý a tak, a děsně netrpěliví a taky zlí, připadám si tady najednou úplně cizí, až z toho jde na mě strach, Limon má prsty jak z ocelovýho plechu a jakoby hranatý, bolí to a on je divokej a už vzteklej, jako by mě chtěl spíš zaškrtit než pomilovat, ale já ti dám ráda, když nám bude spolu hezky v tomhle smutným světě, kde je každej sám, a teda smutnej, a kde je přece tak veselý a krásný být spolu, tak pojď, budem se spolu přece MILOVAT, NE VÁLČIT – _utečem odtud spolu A můžeš si vzít i své kamarády s sebou A tví kamarádi svá děvčata a kytary Půjdem spolu od města k městu A pořád za slunkem dál k jihu Bydlet můžem všichni v jedný místnosti Vždyť jsme mladí, a zač bychom se teda styděli Kdo bude mít chuť, půjde ráno do práce A přinese pro všecky mlíko, cigarety a pomeranče A květiny_
 
+  
+
 NŮŽKAMI OZBROJENÁ MLÁDEŽ starého Dubrovníku stříhá na místních ulicích dlouhé vlasy cizím „beatnikům“. Její aktivitu brzdí policie. Mladí Britové, Holanďané, Švédové, západní Němci a jiní cizozemci leží dlouhé hodiny před kostely a paláci. Kolemjdoucích si nevšímají. V kašnách se koupou nahé dívky a pořádají se sexuální orgie. Před návštěvou Dubrovníku je varoval list Politika Expres.
 
 ## Kdo je kdo  
 Yveta Trojanová (19)
 
-Bosá plavovlasá holčička jen v šatečkách bez kalhotek pod slunečníkem, kam vítr navál hladké hřebínky béžového mořského písku, hrne si ručkama písek přes nohy, pokládá se doň na záda a hrne si jej dál přes tělíčko až k bradě (jako děti v prachu před naším domem) na plážích bulharské Varny nebo Nesebaru, sovětské Soci a rumunské Mamaie.
+_Bosá plavovlasá holčička jen v šatečkách bez kalhotek pod slunečníkem, kam vítr navál hladké hřebínky béžového mořského písku, hrne si ručkama písek přes nohy, pokládá se doň na záda a hrne si jej dál přes tělíčko až k bradě (jako děti v prachu před naším domem) na plážích bulharské Varny nebo Nesebaru, sovětské Soci a rumunské Mamaie._
 
 _„Napřed práce, potom zábava –“ vštěpoval malé Yvetce velice zaměstnaný tatínek, vedoucí úředník ústeckého průmyslového podniku, když si s ním dceruška chtěla hrát. Otec s matkou však pracovali vždy tak dlouho, že na hraní s holčičkou byli pak už zase unaveni – kdypak tedy vlastně po té práci přijde ta zábava?_
 
@@ -533,24 +535,30 @@ Prostě se mi zachtělo odpočinku, květin, vína, lásky a hudby… Zemřu ve
 
 Well, well, well. Dokonale se zničit… nebude to aspoň zábavné? ASI JAK KDYŽ POJDE VYKOPNUTÝ PES.
 
-NA ZASEDÁNÍ britské společnosti pro bezpečný provoz na silnicích stojí před řečnickou tribunou světelný semafor. Řečník začne mluvit, jakmile se objeví zelené světlo. Žluté světlo mu připomene, že by už měl svou řeč ukončit. Červené mu ohlašuje, že čas vymezený pro jeho řeč uplynul.
+_NA ZASEDÁNÍ britské společnosti pro bezpečný provoz na silnicích stojí před řečnickou tribunou světelný semafor. Řečník začne mluvit, jakmile se objeví zelené světlo. Žluté světlo mu připomene, že by už měl svou řeč ukončit. Červené mu ohlašuje, že čas vymezený pro jeho řeč uplynul._
 
-HŘBITOVNÍ KLUB existuje ve Vídni. Jeho členové mají právo na velkém území Ústředního vídeňského hřbitova, kde odpočívají Beethoven, Brahms, Schubert a otec a syn Straussovi, lovit koroptve a bažanty.
+_HŘBITOVNÍ KLUB existuje ve Vídni. Jeho členové mají právo na velkém území Ústředního vídeňského hřbitova, kde odpočívají Beethoven, Brahms, Schubert a otec a syn Straussovi, lovit koroptve a bažanty._
+
+  
 
 HOTEL HOŘEL JEDNÍM PLAMENEM a jeho hosté stáli shromážděni před ním. „Jen se nikdy ničím nerozčilovat,“ povídá jeden host, „Já jsem se v klidu oblékl, zapálil jsem si cigaretu, pak se mi ještě nelíbil uzel na kravatě, proto jsem si ji uvázal ještě jednou. Tak jsem chladnokrevný.“
 
 „Skutečně?“ poznamenal jeden divák, „ale proč jste si neoblékl kalhoty?“
 
-KILOGRAM ŽELEZA, proměněný v rez, váží tři kilogramy.
+  
 
-HLOUBKOVÉ VRTY LEDOVÉ POKRÝVKY skončila nedávno americká vědecká expozice v Antarktidě. Jak se ukázalo, led má sílu 2,5 km. První výzkumy skal pod ledovou pokrývkou ukázaly, že v Antarktidě byly kdysi sopky.
+_KILOGRAM ŽELEZA, proměněný v rez, váží tři kilogramy._
+
+_HLOUBKOVÉ VRTY LEDOVÉ POKRÝVKY skončila nedávno americká vědecká expozice v Antarktidě. Jak se ukázalo, led má sílu 2,5 km. První výzkumy skal pod ledovou pokrývkou ukázaly, že v Antarktidě byly kdysi sopky._
+
+  
 
 ITALSKÁ VOJENSKÁ SPRÁVA oznámila Xaveriovi Strusimu, italskému vojákovi z první světové války bydlícímu v městečku Massfrabei, že mu nebude vyplácen jeho důchod ve výši našich asi 150 korun do té doby, dokud nenahradí vojenský kabát, který ztratil v první světové válce.
 
 ## Kdo je kdo  
 Borek Trojan (45)
 
-Sotva si chlapeček stačil vměstnat do svého dětského rozoumku, že žijeme ve svobodné republice a máme tatíčka prezidenta Beneše, již to neplatilo, neboť byl vyhlášen Protektorát Čechy a Morava a do rodného Brna vtáhly motorizované jednotky okupační německé armády. Otec, bývalý legionář, švec a zapálený vlastenec, vštěpoval pětiletému dítěti nenávist k okupantům, k jejímuž živení stačilo chlapci vídat brněnské Němkyně se síťovkami italských pomerančů, jež byly pouze pro německé děti. Když pak osmiletý hoch ve své nelásce ochabl, zaplanuv obdivem pro skvělou německou tryskovou stíhačku Focke-Wulf 190, do níž mu laskavý nadporučík luftwaffe na výstavišti dovolil vstoupit, byla mu povinná nenávist připomenuta popravou jeho otce.
+_Sotva si chlapeček stačil vměstnat do svého dětského rozoumku, že žijeme ve svobodné republice a máme tatíčka prezidenta Beneše, již to neplatilo, neboť byl vyhlášen Protektorát Čechy a Morava a do rodného Brna vtáhly motorizované jednotky okupační německé armády. Otec, bývalý legionář, švec a zapálený vlastenec, vštěpoval pětiletému dítěti nenávist k okupantům, k jejímuž živení stačilo chlapci vídat brněnské Němkyně se síťovkami italských pomerančů, jež byly pouze pro německé děti. Když pak osmiletý hoch ve své nelásce ochabl, zaplanuv obdivem pro skvělou německou tryskovou stíhačku Focke-Wulf 190, do níž mu laskavý nadporučík luftwaffe na výstavišti dovolil vstoupit, byla mu povinná nenávist připomenuta popravou jeho otce._
 
 _„Ale to se přece nesmí, krást...,“ plísnila Borka matka, když synek při obsazování Brna Rudou armádou vnikl do kanceláří firmy W. Paw­litschek (instalatérský velkozávod), odkudž přinesl domů nůžky a stolní kolébku s pijavým papírem. Chlapec musel svou skrovnou kořist zanést zpět. Setkal se tam přitom s panem V. Petříčkem (instalatérská dílna), jenž se svou manželkou právě odtud odnášel v neckách čtyři psací a jeden elektrický kalkulační stroj. Když pak poctivý hoch viděl v přelakované mercedesce Dipl. Ing. Wenzela Pawlitscheka (zabitého rozhořčenými vlastenci, vesměs příslušníky početné Petříčkovic rodiny) jezdit příslušníky početné Petříčkovic rodiny, zatrpkl a umiňoval si, že příští převrat už takhle hloupě nepropase._
 
@@ -576,7 +584,11 @@ _Jeho neúnavná činnost, při níž nikdy nešetřil sám sebe a které obět
 
 _Padl bojovník, jenž položil svůj život za lepší příští nás všech._
 
+  
+
 (Slečna Broňa Berková se pohřbu nezúčastnila, ježto téhož dne odlétala z ruzyňského letiště se svým snoubencem Ronaldem F. Symingtonem představit se jeho otci a matce, Symington Industries a Symco Enterprises, do Oceanside, Cf., U. S. A.)
+
+  
 
 ROZVEDENÍ MUŽI UMÍRAJÍ častěji než ženatí. Vyplývá to ze statistiky, kterou pořídili pracovníci univerzity v San Francisku. Podle jejich průzkumu se úmrtnost rozvedených pohybuje kolem 26,8 na 100 mužů, zatímco u ženatých je poloviční (12,4). U rozvedených přesahuje normál i počet alkoholiků. Zajímavé je, že všechny nepříznivé ukazatele platí jen u rozvedených mužů. U žen není v tomto směru rozdíl.
 
@@ -646,14 +658,14 @@ Pláču stále víc. Takhle jsem snad ještě nebrečela. Zdvihá se ve mně tě
 
 Můj muž horlivě přitakává, líbá mi ruce a já mu vjíždím prsty do jeho vlasů. Jsou už prokvetlé, ale teplé a husté jako tenkrát… I tak krátké, jako uťaté.
 
-Z KOPULE CIRKUSU SE ZŘÍTILA v březnu letošního roku artistka Marie Sonntagová. Duchapřítomně provedla při pádu ještě salto, které zmírnilo náraz. Tři měsíce ležela nehybně s několika zlomeninami nohou a poraněním páteře a pak začala znovu usilovně trénovat. 15. července vystoupila poprvé v programu. Chodí o berlích, při vystoupení má v očích slzy bolesti, leč obecenstvo nic z toho nepozoruje – své číslo předvádí bez chyby.
+_Z KOPULE CIRKUSU SE ZŘÍTILA v březnu letošního roku artistka Marie Sonntagová. Duchapřítomně provedla při pádu ještě salto, které zmírnilo náraz. Tři měsíce ležela nehybně s několika zlomeninami nohou a poraněním páteře a pak začala znovu usilovně trénovat. 15. července vystoupila poprvé v programu. Chodí o berlích, při vystoupení má v očích slzy bolesti, leč obecenstvo nic z toho nepozoruje – své číslo předvádí bez chyby._
+
+  
 
 NA BLEŠÍM TRHU v roce 1933 koupil Angličan Robert Savage, obchodník s rámy, v Northamptonu za necelou libru šterlinků hezký rám s obrazem. Rám vyleštil, prodal se značným ziskem a obraz uložil do kouta. Po 33 letech se zjistilo, že je to Rubensovo arcidílo Paridův soud, které se až dosud považovalo za ztracené. Znalci tvrdí, že bude vydražen v Londýně nejméně za 250 000 dolarů. Dvaaosmdesátiletá vdova po Robertu Savageovi (nynější majitelka obrazu) sdělila, že její muž Robert vždycky říkal, že je to docela dobrý obraz.
 
-KRISTUS V DOMĚ ČP. 2000
-
-A slovo tělem učiněno jest  
-a přebývalo mezi námi
+> A slovo tělem učiněno jest  
+> a přebývalo mezi námi
 
 — _Ev. Sv. Jana_ 1, 14
 

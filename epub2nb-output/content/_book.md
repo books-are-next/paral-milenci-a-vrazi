@@ -2,18 +2,19 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Milenci a vrazi
   identifier: urn:uuid:47e93c1b-1884-4c77-a98b-1f87cba0a0d4
   author: Vladimír Páral
   publisher: Městská knihovna v Praze
   modified: '2019-03-22T00:00:00.000Z'
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
-  - milenci_a_vrazi_001.html
   - milenci_a_vrazi_002.html
-  - milenci_a_vrazi_003.html
-  - milenci_a_vrazi_004.html
   - milenci_a_vrazi_005.html
   - milenci_a_vrazi_006.html
   - milenci_a_vrazi_007.html
@@ -51,10 +52,15 @@ readingOrder:
   - milenci_a_vrazi_039.html
   - milenci_a_vrazi_040.html
   - milenci_a_vrazi_041.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: milenci_a_vrazi_005.html
+        title: Věnování
+        hiddenTitle: true
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

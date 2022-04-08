@@ -1,8 +1,8 @@
 ---
+title: ''
+subtitle: Obležení
 contentType: prose
 ---
-
-Obležení
 
   
 
@@ -16,4 +16,4 @@ Jdu vstříc… Vrhá se na mne hned u dveří a uchvacuje mě. V týlu mi zn
 
 Ústí nad Labem, Brno, zámek Dobříš, Vysoké Tatry, Karlovy Vary, Zlaté písky, Hamburk, Gagra
 
-18. srpna 1966 – 13. srpna 1968
+_18. srpna 1966 – 13. srpna 1968_

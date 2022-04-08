@@ -1,8 +1,8 @@
 ---
+title: ''
+subtitle: Dobyvatelé
 contentType: prose
 ---
-
-Dobyvatelé
 
 _„Přes spáleniště, přes krvavé řeky  
 jdem vpřed jak proud  

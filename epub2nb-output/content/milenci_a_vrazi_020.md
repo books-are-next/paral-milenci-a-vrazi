@@ -1,8 +1,8 @@
 ---
+title: ''
+subtitle: Dobyvatelé
 contentType: prose
 ---
-
-Dobyvatelé
 
   
 
@@ -234,18 +234,22 @@ U svých ochránců. Což to není hlavní úkol mužů? Žena má za něj toli
 
 Není mi dosud dvacet, ale muže už asi opravdu potřebuji. Zasloužím si ho. Mám na něho právo. CHCI HO – a tak ho budu mít.
 
-WILLIAM TUBMAN, dvaasedmdesátiletý prezident africké republiky Libérie, vysvětloval nedávno v Monrovii novinářům důvody studentského neklidu v Evropě: „Evropské děti jsou od mládí živeny kravským mlékem. To v nich rozvíjí jakýsi kravský instinkt, jenž se jednoho dne promění ve zvířecí zlobu. Ta je ovládá v době studií.“
+_WILLIAM TUBMAN, dvaasedmdesátiletý prezident africké republiky Libérie, vysvětloval nedávno v Monrovii novinářům důvody studentského neklidu v Evropě: „Evropské děti jsou od mládí živeny kravským mlékem. To v nich rozvíjí jakýsi kravský instinkt, jenž se jednoho dne promění ve zvířecí zlobu. Ta je ovládá v době studií.“_
+
+  
 
 V JEDNÉ AMERICKÉ NEMOCNICI se svobodné sestry horlivě snažily získat pozornost mladých lékařů, kteří byli jejich vynalézavostí brzy unaveni. Jeden lékař se vracel po osmnáctihodinové službě pozdě v noci domů. Pod stěračem svého vozu našel lístek: „Jmenuji se Julie Andersenová. Zavolejte mi na číslo 4939975.“
 
 Nevšímavě lístek roztrhal a zahodil. Teprve druhý den ráno si všiml, že pravá strana jeho vozu je téměř demolována nárazem.
+
+  
 
 V MĚSTEČKU COLUMBUS v USA se připravovala velká svatba. Pozvaní hosté v poslední minutě dostali od nevěsty telegram, v němž je žádala, aby si na svatebním oznámení škrtli jméno ženicha Cliff Gardena a vepsali si místo něho Hugha Barnese. Dále telegram oznamoval, že místo a datum sňatku zůstává v platnosti.
 
 ## Kdo je kdo  
 Jana Rybářová (19)
 
-Když maličké Janě tatínek zvěstoval konec druhé světové války, zeptala se čtyřletá holčička, co to bylo ta válka. Poučena, že to zlí vojáci šli na dobré lidi a nyní za to dostali nasekáno, přihlížela pak s dětskou radostí, jak poslední německý voják (jeho pět druhů bylo právě ubito v místním cukrovaru) s roztříštěnou hlavou se marně snažil prchnout tatínkům s vidlemi a kosami přes řeku Ohři. Toho pana vojáka to jistě bolelo, ale tak neměl být zlý a měl nechat dobré lidi na pokoji.
+_Když maličké Janě tatínek zvěstoval konec druhé světové války, zeptala se čtyřletá holčička, co to bylo ta válka. Poučena, že to zlí vojáci šli na dobré lidi a nyní za to dostali nasekáno, přihlížela pak s dětskou radostí, jak poslední německý voják (jeho pět druhů bylo právě ubito v místním cukrovaru) s roztříštěnou hlavou se marně snažil prchnout tatínkům s vidlemi a kosami přes řeku Ohři. Toho pana vojáka to jistě bolelo, ale tak neměl být zlý a měl nechat dobré lidi na pokoji._
 
 _„Pravda vítězí,“ říkal tatínek Alois Rybář, vesnický písmák, samouk a svérázný myslitel svým šesti dětem a co tatínek řekl, to u Rybářů platilo. Děti se před každým jídlem pokřižovaly, drobečky chleba spadlé na zem sebraly, políbily a vhodily do ohně. Jak se srovnáváš s chlebem, tak se srovnáváš s lidmi – nůž na chléb musí být ostrý a řez rovný._
 

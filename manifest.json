@@ -1,0 +1,894 @@
+{
+  "author": "Vladimír Páral",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "paral-milenci-a-vrazi-81b28a3",
+  "languagecode": "cs",
+  "modified": "2019-03-22T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Milenci a vrazi",
+  "revision": "81b28a3",
+  "generatedAt": {
+    "date": "Fri Apr 08 2022 08:28:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649406517907
+  },
+  "documents": [
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "milenci_a_vrazi_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_005.html",
+      "words": 26,
+      "chars": 148,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 1,
+      "prev": "milenci_a_vrazi_002.html",
+      "next": "milenci_a_vrazi_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "— • Milenci a vrazi",
+      "file": "milenci_a_vrazi_006.html",
+      "words": 602,
+      "chars": 3586,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 2,
+      "prev": "milenci_a_vrazi_005.html",
+      "next": "milenci_a_vrazi_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "—",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DOBYVATELÉ\n    (Červený ilustrovaný román na pokračování) • Milenci a vrazi",
+      "file": "milenci_a_vrazi_007.html",
+      "words": 16680,
+      "chars": 100323,
+      "ideas": 577,
+      "role": "chapter",
+      "order": 3,
+      "prev": "milenci_a_vrazi_006.html",
+      "next": "milenci_a_vrazi_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DOBYVATELÉ\n(Červený ilustrovaný román na pokračování)",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kdo je kdo",
+              "id": "kdo-jenbspkdo",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Kdo je kdo",
+              "id": "kdo-jenbspkdo-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "OBLEŽENÍ\n    (Modrý ilustrovaný román na pokračování) • Milenci a vrazi",
+      "file": "milenci_a_vrazi_008.html",
+      "words": 11666,
+      "chars": 70583,
+      "ideas": 304,
+      "role": "chapter",
+      "order": 4,
+      "prev": "milenci_a_vrazi_007.html",
+      "next": "milenci_a_vrazi_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "OBLEŽENÍ\n(Modrý ilustrovaný román na pokračování)",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kdo je kdo",
+              "id": "kdo-jenbspkdo",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Kdo je kdo",
+              "id": "kdo-jenbspkdo-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_009.html",
+      "words": 9960,
+      "chars": 59973,
+      "ideas": 340,
+      "role": "chapter",
+      "order": 5,
+      "prev": "milenci_a_vrazi_008.html",
+      "next": "milenci_a_vrazi_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Co je červené",
+              "id": "conbspjenbspčervené",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_010.html",
+      "words": 9954,
+      "chars": 58815,
+      "ideas": 274,
+      "role": "chapter",
+      "order": 6,
+      "prev": "milenci_a_vrazi_009.html",
+      "next": "milenci_a_vrazi_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kdo je kdo",
+              "id": "kdo-jenbspkdo",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Co je modré",
+              "id": "_co-jenbspmodré_",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_011.html",
+      "words": 4639,
+      "chars": 27717,
+      "ideas": 137,
+      "role": "chapter",
+      "order": 7,
+      "prev": "milenci_a_vrazi_010.html",
+      "next": "milenci_a_vrazi_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_012.html",
+      "words": 4845,
+      "chars": 28667,
+      "ideas": 162,
+      "role": "chapter",
+      "order": 8,
+      "prev": "milenci_a_vrazi_011.html",
+      "next": "milenci_a_vrazi_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_013.html",
+      "words": 7266,
+      "chars": 42574,
+      "ideas": 276,
+      "role": "chapter",
+      "order": 9,
+      "prev": "milenci_a_vrazi_012.html",
+      "next": "milenci_a_vrazi_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_014.html",
+      "words": 1150,
+      "chars": 6606,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 10,
+      "prev": "milenci_a_vrazi_013.html",
+      "next": "milenci_a_vrazi_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_015.html",
+      "words": 1587,
+      "chars": 9228,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 11,
+      "prev": "milenci_a_vrazi_014.html",
+      "next": "milenci_a_vrazi_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_016.html",
+      "words": 1175,
+      "chars": 6403,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 12,
+      "prev": "milenci_a_vrazi_015.html",
+      "next": "milenci_a_vrazi_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_017.html",
+      "words": 1195,
+      "chars": 6462,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 13,
+      "prev": "milenci_a_vrazi_016.html",
+      "next": "milenci_a_vrazi_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_018.html",
+      "words": 6788,
+      "chars": 38124,
+      "ideas": 219,
+      "role": "chapter",
+      "order": 14,
+      "prev": "milenci_a_vrazi_017.html",
+      "next": "milenci_a_vrazi_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_019.html",
+      "words": 2840,
+      "chars": 16066,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 15,
+      "prev": "milenci_a_vrazi_018.html",
+      "next": "milenci_a_vrazi_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_020.html",
+      "words": 6552,
+      "chars": 37646,
+      "ideas": 131,
+      "role": "chapter",
+      "order": 16,
+      "prev": "milenci_a_vrazi_019.html",
+      "next": "milenci_a_vrazi_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kdo je kdo",
+              "id": "kdo-jenbspkdo",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_021.html",
+      "words": 8322,
+      "chars": 47553,
+      "ideas": 289,
+      "role": "chapter",
+      "order": 17,
+      "prev": "milenci_a_vrazi_020.html",
+      "next": "milenci_a_vrazi_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_022.html",
+      "words": 531,
+      "chars": 3103,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 18,
+      "prev": "milenci_a_vrazi_021.html",
+      "next": "milenci_a_vrazi_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_023.html",
+      "words": 479,
+      "chars": 2775,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 19,
+      "prev": "milenci_a_vrazi_022.html",
+      "next": "milenci_a_vrazi_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_024.html",
+      "words": 525,
+      "chars": 2907,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 20,
+      "prev": "milenci_a_vrazi_023.html",
+      "next": "milenci_a_vrazi_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_025.html",
+      "words": 308,
+      "chars": 1719,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 21,
+      "prev": "milenci_a_vrazi_024.html",
+      "next": "milenci_a_vrazi_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_026.html",
+      "words": 607,
+      "chars": 3574,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 22,
+      "prev": "milenci_a_vrazi_025.html",
+      "next": "milenci_a_vrazi_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_027.html",
+      "words": 386,
+      "chars": 2249,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 23,
+      "prev": "milenci_a_vrazi_026.html",
+      "next": "milenci_a_vrazi_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_028.html",
+      "words": 430,
+      "chars": 2418,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 24,
+      "prev": "milenci_a_vrazi_027.html",
+      "next": "milenci_a_vrazi_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_029.html",
+      "words": 659,
+      "chars": 3923,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 25,
+      "prev": "milenci_a_vrazi_028.html",
+      "next": "milenci_a_vrazi_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_030.html",
+      "words": 2847,
+      "chars": 16899,
+      "ideas": 70,
+      "role": "chapter",
+      "order": 26,
+      "prev": "milenci_a_vrazi_029.html",
+      "next": "milenci_a_vrazi_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_031.html",
+      "words": 1016,
+      "chars": 5991,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 27,
+      "prev": "milenci_a_vrazi_030.html",
+      "next": "milenci_a_vrazi_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "MUŽ A ŽENA\n    (Kapesní přehled 20 let jednoho manželství) • Milenci a vrazi",
+      "file": "milenci_a_vrazi_032.html",
+      "words": 11720,
+      "chars": 67585,
+      "ideas": 148,
+      "role": "chapter",
+      "order": 28,
+      "prev": "milenci_a_vrazi_031.html",
+      "next": "milenci_a_vrazi_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "MUŽ A ŽENA\n(Kapesní přehled 20 let jednoho manželství)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_033.html",
+      "words": 14978,
+      "chars": 88844,
+      "ideas": 381,
+      "role": "chapter",
+      "order": 29,
+      "prev": "milenci_a_vrazi_032.html",
+      "next": "milenci_a_vrazi_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kdo je kdo",
+              "id": "kdo-jenbspkdo",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KRISTUS V DOMĚ ČP. 2000 • Milenci a vrazi",
+      "file": "milenci_a_vrazi_034.html",
+      "words": 14715,
+      "chars": 88207,
+      "ideas": 384,
+      "role": "chapter",
+      "order": 30,
+      "prev": "milenci_a_vrazi_033.html",
+      "next": "milenci_a_vrazi_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KRISTUS V DOMĚ ČP. 2000",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kdo je kdo",
+              "id": "kdo-jenbspkdo",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Kdo je kdo",
+              "id": "kdo-jenbspkdo-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "GENERÁLNÍ UKÁJENÍ… 2000\n    (Celodějinná 360° široká\n    řvavě barevná cirkoráma Panavision) • Milenci a vrazi",
+      "file": "milenci_a_vrazi_035.html",
+      "words": 2505,
+      "chars": 15194,
+      "ideas": 55,
+      "role": "chapter",
+      "order": 31,
+      "prev": "milenci_a_vrazi_034.html",
+      "next": "milenci_a_vrazi_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "GENERÁLNÍ UKÁJENÍ… 2000\n(Celodějinná 360° široká\nřvavě barevná cirkoráma Panavision)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_036.html",
+      "words": 346,
+      "chars": 2075,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 32,
+      "prev": "milenci_a_vrazi_035.html",
+      "next": "milenci_a_vrazi_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_037.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 33,
+      "prev": "milenci_a_vrazi_036.html",
+      "next": "milenci_a_vrazi_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_038.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 34,
+      "prev": "milenci_a_vrazi_037.html",
+      "next": "milenci_a_vrazi_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_039.html",
+      "words": 247,
+      "chars": 1392,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 35,
+      "prev": "milenci_a_vrazi_038.html",
+      "next": "milenci_a_vrazi_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ediční poznámka • Milenci a vrazi",
+      "file": "milenci_a_vrazi_040.html",
+      "words": 61,
+      "chars": 421,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 36,
+      "prev": "milenci_a_vrazi_039.html",
+      "next": "milenci_a_vrazi_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ediční poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci a vrazi",
+      "file": "milenci_a_vrazi_041.html",
+      "words": 52,
+      "chars": 341,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 37,
+      "prev": "milenci_a_vrazi_040.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Milenci a vrazi",
+      "file": "colophon.html",
+      "words": 108,
+      "chars": 684,
+      "ideas": 13,
+      "role": "colophon",
+      "order": null,
+      "prev": "milenci_a_vrazi_041.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 147774,
+      "chars": 870815,
+      "ideas": 4176
+    },
+    "chapters": {
+      "words": 147659,
+      "chars": 870091,
+      "ideas": 4159
+    }
+  }
+}

@@ -1,8 +1,8 @@
 ---
+title: ''
+subtitle: Dobyvatelé
 contentType: prose
 ---
-
-Dobyvatelé
 
   
 
@@ -59,6 +59,8 @@ Na posilu si přitáhli ještě Juldu a jakživa jsem neslyšela tolik blbejch 
 A tak zas stěhování zpátky do bejvalý mužský svobodárny v druhým patře, na kavalec vycpanej senem a místo koupelny zas jen u zdi kohoutek, kerej neteče… stejně nebydlím tady ani tady, copak je tohle ňáký bydlení? Tož teď zas nějakej čas, jak jsme předtím nebydleli. Alex musí ale pryč. Půjde do montércimry dolů do přízemí.
 
 Alex se jen zachechtal, v momentě sbalil svůj kufírek a se svým jediným oblekem (a to má, ďábel, s melouchama nejmíň šest tisíc za měsíc) přes ruku se s náma vlídně rozloučil: „Tak čau, ždímačko! Tak zatím, bráško, a pochválen! A ahoj a Wiederschauen – nejdu daleko.“
+
+  
 
 ŠÍLENÝ AKROBATICKÝ POKUS podnikl na tryskovém letadle jeden britský letec: podletěl známý londýnský most Tower Bridge. Britské vojenské orgány nyní vyšetřují, z kterého letiště letoun startoval. Pokus se sice zdařil, ale mohl skončit i hroznou katastrofou – pro letce stejně tak jako pro chodce a automobilisty na mostě.
 
@@ -117,6 +119,8 @@ _Na prašivé strupaté kobyle v čele červených vojsk ghetta vtrhnu do oble�
 „Promiňte…,“ tichým hlasem, jakoby omluvně, za zády kroky a ve výši hlavy ušlechtile vykroužená bílá ženská kolena. Zita Gráfová překročila Borkovy nohy a nasedajíc pak do auta ještě se za Borkem ohlédla, jakoby provinile… jakoby s prosbou… jakoby… se za Borkem žensky ohlédla.
 
 A Borek Trojan upřel na ni své žlutošedé zorničky rozšířené krutou jasnozřivostí předlidského instinktu.
+
+  
 
 UMĚLOU KRÁVU, atrapu z umělých hmot, ale jinak k nerozeznání od živého zvířete, zkonstruovali v USA. Nedává mléko, ale slouží při drezúře koní, kteří se učí zahánět stáda dobytka na rančích. Umělá kráva má tři kolečka skrytá v nohách, která se otáčejí všemi směry, a dálkově ovládaný elektromotor poháněný akumulátorem. Pomocí tohoto zařízení se kráva na pastvě pohybuje jako živá a koně se naučí vyhýbat se ostrým rohům zvířete. Výrobce už prodal 100 kusů těchto krav.
 
@@ -281,5 +285,7 @@ Z chvilky bylo posléze šestačtyřicet minut, když se Boganovi otevřely dve
 A s ocelovým šípem skrytým v nohavici kulhal Bogan Tušl šerem chodby Bílého domu (noha neohebná jak po těžkém zranění) a v duši jásal, MÁME BYT, svůj byt docela jen pro sebe a pro naše maličké, co už brzo přijde, budeme mít každý svůj pokoj, _po_ _obědě na balkoně koňak Budeme se scházet v jídelně a zas se rozejdeme U okna čekám s cigaretou, zda dnes přijde má milenka_ a už klepe, s mou ženou v mém bytě, máme byt, máme byt, máme byt, BYT-PRO-TUŠLA… už je!! Mám byt… a za dva roky budu náměstek, život je nádherný, zázraky se dějí, mám byt – a světlé obdélníky skleněných výplní čtyřiceti kancelářských dveří se vyklenuly do vrchlíku nebe a hvězdičky nasedaly na tu novou galaxii a s dětským jásotem sjížděly Boganovi do klína.
 
 (Pokračování příště)
+
+  
 
 ZLOSTNĚ ODPLIVUJÍ staří šejkové na poušti před mladými muži svého kmene. Náčelníci Beduínů už nerozumějí světu, neboť mladí nechtějí žít ve stanech, chtějí se stěhovat do obytných domů. První sídliště Beduínů se zahradami vzniká v Tel Beerscheba v negevské poušti. Mladí totiž říkají: „Černý stan z kozí kůže je špatná ochrana před letním horkem a studenými větry; kromě toho je to nezdravé.“

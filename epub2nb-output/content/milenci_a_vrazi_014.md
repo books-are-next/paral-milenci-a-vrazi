@@ -1,8 +1,8 @@
 ---
+title: ''
+subtitle: Obležení
 contentType: prose
 ---
-
-Obležení
 
   
 
@@ -67,5 +67,7 @@ Odpoledne v druhém patře kartáčuji Borkovi jeho kratičké a pohádkově h
 Jeho polibky jsou obratnější a prudší, jeho rozšířené zorničky planou proti mým a hoří, chci hořet ještě víc – podsouvám si pod kříž svůj silonový kartáč štětinami proti sobě, chci mít palčivé milování –
 
 Než zemřu.
+
+  
 
 DRÁŽĎANŠTÍ POŽÁRNÍCI hasili neobvyklý požár. V jedné z nejstarších hrobek drážďanské Hofkirche vycházel dým ze sarkofágu polské královny a kurfiřtky saské Marie Alžběty, která byla pochována v r. 1818. Když bylo zvednuto víko rakve, vyšlehly plameny. Jako důvod požáru se pokládá oxidace.

@@ -1,8 +1,8 @@
 ---
+title: ''
+subtitle: Obležení
 contentType: prose
 ---
-
-Obležení
 
   
 
@@ -60,6 +60,8 @@ Provlečením konce řemene kovovou přezkou upravila si Zita smyčku a volným
 
 Zita Gráfová se pokřižovala, pohlédla ke stropu a prudce odkopla opěradlo. Samozřejmě nevzlétla. Zůstala viset za krk.
 
-JEDEN ZE 78 KANDIDÁTŮ SMRTI z věznice San Quentino v San Francisku, odsouzený k smrti pro loupežné přepadení spojené s vraždou v roce 1965, si podal stížnost k Nejvyššímu soudu Kalifornie, protože poprava nebyla ještě provedena. Čekání na smrt je prý krutějším trestem než poprava, míní sedmadvacetiletý odsouzenec.
+_JEDEN ZE 78 KANDIDÁTŮ SMRTI z věznice San Quentino v San Francisku, odsouzený k smrti pro loupežné přepadení spojené s vraždou v roce 1965, si podal stížnost k Nejvyššímu soudu Kalifornie, protože poprava nebyla ještě provedena. Čekání na smrt je prý krutějším trestem než poprava, míní sedmadvacetiletý odsouzenec._
+
+  
 
 51LETÝ Američan ze Seattlu obětoval život pro své dvě děti, s nimiž byl na společné horské túře. V horách byli překvapeni sněhovou bouří provázenou náhlým poklesem teploty. Otec obě děti zabalil do svého těžkého pláště a skryl je v malé jeskyňce, jejíž vchod zatarasil svým tělem, a tak děti chránil před ledovým větrem. Vydržel tak několik hodin, než přišla záchranná horská služba. Našla jej už zmrzlého, ale děti byly celkem v pořádku.

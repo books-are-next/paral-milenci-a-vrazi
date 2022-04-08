@@ -1,8 +1,8 @@
 ---
+title: ''
+subtitle: Dobyvatelé
 contentType: prose
 ---
-
-Dobyvatelé
 
   
 
@@ -114,7 +114,9 @@ _Máš masíčko jak kuřátko A bílý maso já zbožňuju Tohle musíš vydr�
 
 Chci pro Tebe smět vykrvácet Obléklas mi na to boxerské rukavice Teď je už nesundám
 
-POZORUHODNÝ SNÍMEK se podařil ve státě Massachusetts (USA) profesoru H. G. Edgertonovi z technologického ústavu. Zachytil jednou třímiliontinou vteřiny let kulky vystřelené z pušky. Na snímku je okamžik, kdy kulka proletěla jablkem.
+_POZORUHODNÝ SNÍMEK se podařil ve státě Massachusetts (USA) profesoru H. G. Edgertonovi z technologického ústavu. Zachytil jednou třímiliontinou vteřiny let kulky vystřelené z pušky. Na snímku je okamžik, kdy kulka proletěla jablkem._
+
+  
 
 JEDNA POTRAVINÁŘSKÁ FIRMA v Londýně provedla zkoušku s dětmi mladšími pěti let. Mělo být zjištěno, kterým lahůdkám dávají děti přednost. Na velkém stole byly krémové polévky, drůbeží paštiky, bifteky, čokoládová zmrzlina a poháry s jahodami. Děti snědly všecko bez rozdílu.
 
@@ -242,7 +244,9 @@ V podvečer si Tušlovi zdřímli a před půlnocí se rozřinčel budík.
 
 A s prakem, foukačkou, lukem a šípy se vyplížili do teplé noci.
 
-SYSTÉMŮ VRAŽEDNÝCH ÚHOZŮ, kopnutí nohou, úderů kolenem, loktem, bodnutí špičkami prstů a jiných zabijáckých knifů, starých jako Čína nebo Japonsko, je řada: kempo, hakuda, kumiuči, aikido, atemi waza. Nejsmrtelnější z nich, který je ve srovnání s džudem nebo s džiu-džitsu jako kobra vedle užovky, je karate. Kara znamená prázdný, te ruka. Dovoleno je v něm všechno, smysl zápasu je zabít. Karateka vysokého stupně, mistr karate, přerazí prázdnou rukou coulové prkno, hřbet koně, rozdrtí pěstí kámen, prorazí prstem zeď.
+_SYSTÉMŮ VRAŽEDNÝCH ÚHOZŮ, kopnutí nohou, úderů kolenem, loktem, bodnutí špičkami prstů a jiných zabijáckých knifů, starých jako Čína nebo Japonsko, je řada: kempo, hakuda, kumiuči, aikido, atemi waza. Nejsmrtelnější z nich, který je ve srovnání s džudem nebo s džiu-džitsu jako kobra vedle užovky, je karate. Kara znamená prázdný, te ruka. Dovoleno je v něm všechno, smysl zápasu je zabít. Karateka vysokého stupně, mistr karate, přerazí prázdnou rukou coulové prkno, hřbet koně, rozdrtí pěstí kámen, prorazí prstem zeď._
+
+  
 
 NA SHROMÁŽDĚNÍ bavorských lesníků referoval ministerský rada mnichovského ministerstva zemědělství a lesů pan Herrmann Haagen o napjatém poměru mezi pracovníky lesních správ a obyvatelstvem. K odstranění vzájemných nedorozumění doporučil zvláštní „službu obyvatelstvu“. Ať prý lesníci jsou ohleduplní k mileneckým párům v lese a pomohou jim nalézt odlehlá osamělá místečka.
 
@@ -343,6 +347,8 @@ _Na to máš vedle koupelnu To v Palestině tenkrát nebylo_
 _Chtěla bych žít daleko odtud Kde je bezpečí a nikdy se nebude válčit Studentská písnička na bílých plážích Tichého oceánu_
 
 Ty už dávno okupujem „Za deset dnů od okamžiku, kdy byla dána v USA do prodeje deska s poslední písničkou Rolling Stones, bylo jich prodáno 600 000. Písnička se jmenuje Žádost Jejich ďábelského majestátu (Their Satanic Majesties Request)“
+
+  
 
 SYMFONIE PRO DESET rozhlasových přijímačů byla provedena v brazilském přístavním městě Santos. Obsazení orchestru: dirigent, deset majitelů tranzistorů, přičemž každý aparát byl naladěn na jinou vlnu. Posluchači nejvíce aplaudovali v okamžiku, kdy se ze všech přijímačů ozvala reportáž z fotbalového utkání a hromový pokřik – gól. Tím také symfonie vyvrcholila.
 
@@ -688,6 +694,8 @@ _Vezmem si, co chcem_ _My vyhrajem_
 
 (Pokračování příště)
 
-ČLOVĚK MÁ JÍST málo, ale desetkrát denně, doporučuje hamburský profesor Kuhnau. Podle jeho názoru je pro lidské zdraví prospěšnější rozdělit si určitou denní dávku potravin na deset jídel, než je sníst na dvakrát nebo na třikrát… Jedině takový způsob jídla vede k dlouhověkosti a k dobrému zdraví.
+_ČLOVĚK MÁ JÍST málo, ale desetkrát denně, doporučuje hamburský profesor Kuhnau. Podle jeho názoru je pro lidské zdraví prospěšnější rozdělit si určitou denní dávku potravin na deset jídel, než je sníst na dvakrát nebo na třikrát… Jedině takový způsob jídla vede k dlouhověkosti a k dobrému zdraví._
+
+  
 
 V NĚKTERÝCH ODLEHLÝCH MĚSTECH čínského vnitrozemí musí prý obchodníci na tabule výkladních skříní namalovat nápis „Žádný vchod“, aby zabránili pokusům prostoduchých venkovanů projít sklem.

@@ -1,8 +1,8 @@
 ---
+title: ''
+subtitle: Dobyvatelé
 contentType: prose
 ---
-
-Dobyvatelé
 
   
 
@@ -83,5 +83,7 @@ Roman Gráfovic na mě zas čeká na schodech, stojí tady jak fízl, jak prokur
 „Pojď se mnou… Budem si jen povídat a já ti budu hrát…“
 
 „Ne! Já nemůžu… fakticky ne, protože… Protože Julda mě s tebou nepustí.“
+
+  
 
 PO DOBU CELÝCH ŠESTI HODIN držel zdivočelý bezprizorný ovčácký pes v šachu dvě auta na místě určeném pro odpočinek na dálnici u Wiedernbrücku. Nepomohl ani zásah policie se železnými tyčemi. Teprve přivolaný pohodný chytil psa do lasa. Naštěstí pes „jen“ pokousal jednoho z řidičů.

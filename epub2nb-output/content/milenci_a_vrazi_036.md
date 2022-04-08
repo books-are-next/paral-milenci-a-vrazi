@@ -1,10 +1,10 @@
 ---
+title: ''
+subtitle: Neztrácíme užitek pohrom?…
 contentType: prose
 ---
 
-Neztrácíme užitek pohrom?…
-
-Až to už nebude k dívání, naštvou se posléze strašně červení lidé z vnitrozemí Asie, Afriky a Jižní Ameriky, co se v životě nenajedli, a vtrhnou
+_Až to už nebude k dívání, naštvou se posléze strašně červení lidé z vnitrozemí Asie, Afriky a Jižní Ameriky, co se v životě nenajedli, a vtrhnou_
 
 _STOP! Je přece civilizace, a je přece pokrok, a je přece technika, a je přece_
 

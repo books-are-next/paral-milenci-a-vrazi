@@ -1,8 +1,8 @@
 ---
+title: ''
+subtitle: "Obležení, dobyvatelé a\_milenci"
 contentType: prose
 ---
-
-Obležení, dobyvatelé a milenci
 
   
 
@@ -81,5 +81,7 @@ A hudba.
 „Tak teda spolu…,“ a naše ruce se setkaly na násadě koštěte a zametali jsme pod kavalci a mezi kolejemi.
 
 Ťukáme si na potrubí spojující naše dvě podlaží, kdykoli se nám zamane, já kleštěmi BANG a já nůžkami Klap, ráno, večer i v noci a jsou to dlouhé telegramy, je to pořád jeden telegram s jednoslovným textem: MILUJI. A náš dům zní tím štěstím z kovu a tím štěstím se kov potrubí roztahuje do libovolné délky a my dva nosíme každý svůj konec naší společné trubky stále s sebou, do města i do fabriky, a trubka v obou směrech ve dne v noci vysílá a přijímá náš společný vzkaz jednoho druhému – milujem se a jsme stále spolu.
+
+  
 
 LÁSKA NEZNÁ MEZÍ – to znovu dokázal 27letý Richard Shane a 18letá Mary Holmesová. Oba vězňové v trestnici na Long Islandu v USA se s obtížemi domlouvali odtokovou rourou tak dlouho, až se do sebe zamilovali. Slovo dalo slovo a nakonec se rozhodli, že se vezmou. Vězeňské orgány nestály v cestě. Měly jenom podmínku: párek musí jít k oltáři v poutech.

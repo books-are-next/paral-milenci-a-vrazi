@@ -1,8 +1,8 @@
 ---
+title: ''
+subtitle: Dobyvatelé
 contentType: prose
 ---
-
-Dobyvatelé
 
   
 
@@ -234,12 +234,14 @@ Byli jsme spolu v té chatě u řeky… od toho dne už mockrát.
 
 Knockout za knockoutem. Borek v mém objetí rudne, ztrácí dech až chroptí – nebere si toho příliš?… – ale on to _chce_ mít kruté – jako by se mnou spíše umíral, než se těšil… po milování leží jak zavražděný.
 
+  
+
 SINGAPURSKÝ SPORTOVNÍ POTÁPĚČ 37letý T. Buxton zabil po hodinovém boji u pobřeží západní Malajsie více než tři metry dlouhého a 182 kilogramy vážícího bílého žraloka. Nejdříve ho dvakrát postřelil podvodní puškou a nakonec mu zasadil smrtelnou ránu dýkou. Považuje se to za jeden z největších úlovků pod vodou v Asii.
 
 ## Kdo je kdo  
 Broňa Berková (19)
 
-Bosá černovlasá holčička jen v šatečkách bez kalhotek na kraji cesty do zapovězené zahrady luxusní vily, hrne si ručkama písek přes nohy, pokládá se doň na záda a hrne si jej dál přes tělíčko až k bradě (jako děti v Ostende, Biarritzu, Soči, St. Tropez a Miami na pláži v mořském písku) pod rodičovským láskyplným dohledem.
+_Bosá černovlasá holčička jen v šatečkách bez kalhotek na kraji cesty do zapovězené zahrady luxusní vily, hrne si ručkama písek přes nohy, pokládá se doň na záda a hrne si jej dál přes tělíčko až k bradě (jako děti v Ostende, Biarritzu, Soči, St. Tropez a Miami na pláži v mořském písku) pod rodičovským láskyplným dohledem._
 
 _„Ale to přece nesmíš žebrat na pánech…,“ říkal Broně otec, domovník ústecké reprezentační vládní vily, když Broňa nosila domů bonbony a drobné cizí mince – děvčátko je milovalo a rychle se je naučilo znát – od hostí, polských generálů, belgických odborářů, italských velkoprůmyslníků a poslanců estonského republikového sovětu. Když finský velvyslanec daroval žadonící Broně barevnou obrazovou publikaci své nádherné země tisíce jezer, chtěl otec knihu neprodleně dárci vrátit, ale děvčátko přitisklo úlovek ke své dětské hrudi a vydalo jej až po delší půtce, podrápaný nehty a roztrhaný na cáry._
 
@@ -465,7 +467,9 @@ _Jsme chytří a silní Máme hlad A umíme dobře počítat_
 
 _Dostanem co chcem My vyhrajem_
 
-NA USEDLOSTI Alfreda Flügela v Marktschorgastu přivedla čtyřletá kráva na svět telátka-čtyřčata. Jedno z telátek zahynulo. Jde skutečně o zoologickou senzaci. Přitom kráva „neměla mateřství vůbec plánováno“, leč veterinář se při umělém oplodňování spletl.
+_NA USEDLOSTI Alfreda Flügela v Marktschorgastu přivedla čtyřletá kráva na svět telátka-čtyřčata. Jedno z telátek zahynulo. Jde skutečně o zoologickou senzaci. Přitom kráva „neměla mateřství vůbec plánováno“, leč veterinář se při umělém oplodňování spletl._
+
+  
 
 NEJVÍCE DĚTÍ přivedla na svět Němka Bernarda Scheinbergerová, která zemřela v roce 1907 ve věku 56 let. Měla čtyřikrát čtyřčata, sedmkrát trojčata a šestnáctkrát dvojčata. Přivedla na svět 69 dětí. Její manžel ji přežil, znovu se oženil a v následujících dvaceti letech měl se svou druhou ženou dalších 18 dětí. V 77 letech měl kolem sebe 67 dosud žijících dětí.
 
@@ -825,6 +829,8 @@ END END END
 
 (Pokračování příště)
 
-AŽ NYNÍ SE UKÁZALO, že sovětský kosmonaut Jurij Gagarin a americký kosmonaut Virgil Grissom pracovali před smrtí na rukopise knihy se stejným tématem – „Ani nejlepší stroj nemůže nahradit člověka“. Oba si vybrali jako důkaz stejný příklad z praxe Johna Glenna, kdy palubní přístroje udávaly falešné signály, a přesto Glenn dovedl loď k úspěšnému přistání.
+_AŽ NYNÍ SE UKÁZALO, že sovětský kosmonaut Jurij Gagarin a americký kosmonaut Virgil Grissom pracovali před smrtí na rukopise knihy se stejným tématem – „Ani nejlepší stroj nemůže nahradit člověka“. Oba si vybrali jako důkaz stejný příklad z praxe Johna Glenna, kdy palubní přístroje udávaly falešné signály, a přesto Glenn dovedl loď k úspěšnému přistání._
+
+  
 
 KŘEČKY CVIČILI američtí vědci Frank F. Babich, dr. Allan Jacobsen a Suzanne Bubashová. Když se zvířata naučila určitému úkolu, odňali jim vědci z mozku takzvanou ribonukleovou kyselinu (RNK) a vstříkli ji do mozku krysám. Potom učili krysy tomu, čemu se už předtím naučili křečci. „Očkované“ krysy se učily mnohem rychleji než krysy neočkované nebo ty, které dostaly dávku RNK od nevycvičených křečků. Z výsledku pokusu vyvodili vědci závěr, že snad bude jednou možno přenášet injekcemi nebo pilulkami obsah paměti z jednoho člověka na druhého.

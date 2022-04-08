@@ -1,8 +1,8 @@
 ---
+title: ''
+subtitle: Dobyvatelé
 contentType: prose
 ---
-
-Dobyvatelé
 
   
 
@@ -103,5 +103,7 @@ S rukama pod hlavou ležím na kavalci a bosá Zita překračuje kolejnici na 
 „Mám.“
 
 Odhazuji nedojezené dobytčí maso a odstrkuji nedopité víno, co ještě, more thrilling, se nám může nabídnout, vztahuji ruku na padlou císařovnu, jakpak by asi hořela, chceš být bita? Dostane se ti toho. Což nečíhá za láskou zášť?
+
+  
 
 BÍLÝ OREL, jeden z největších a nejvzácnějších lesních dravců, se uhnízdil v samém srdci polského štětínského přístavu. Živí se rybami z Odry, žije úplně sám a naprosto ignoruje zvuky lodních sirén.

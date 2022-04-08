@@ -1,8 +1,8 @@
 ---
+title: "MUŽ A\_ŽENA\n    (Kapesní přehled 20 let jednoho manželství)"
+subtitle: Dobyvatelé
 contentType: prose
 ---
-
-Dobyvatelé
 
   
 
@@ -146,10 +146,9 @@ _Smíš všecko Udělej mi dítě Teď už jsi můj muž_
 
 (Pokračování příště)
 
-TŘI SESTRY WILLIAMSOVY jsou v celém městě Waterwillu (USA) známé jako energické dívky. Vdaly se také všechny najednou a při svatebním obřadu ukázaly svým ženichům manželský program: pěst, váleček na těsto a vězeňský řetěz se železnou koulí.
+  
 
-MUŽ A ŽENA  
-(Kapesní přehled 20 let jednoho manželství)
+TŘI SESTRY WILLIAMSOVY jsou v celém městě Waterwillu (USA) známé jako energické dívky. Vdaly se také všechny najednou a při svatebním obřadu ukázaly svým ženichům manželský program: pěst, váleček na těsto a vězeňský řetěz se železnou koulí.
 
   
 
@@ -269,9 +268,11 @@ Oslavili jsme Yvetinu zletilost (dort s osmnácti svíčkami, bílé růže, se
 
 Nejkrásnější měsíc rokuje říjen. Jsme spolu sami celý den v Krušných horách. Horské louky… milovali jsme je oba. Slunce stoupá z trávy. Je jak kovová, na špičkách rudá jak spálená krvavým větrem. Nechali jsme vůz stát a šli dobrou hodinu pěšky. Utrmáceni a opilí pozdním sluncem… Ve vyhlídkové restauraci Komáří vížka ledový džus s ananasem. A doma hned, ještě před osprchováním, gin z velkých sklenic. Při něm jsme vyjedli celou spíž – zítra ráno nám bude hrozně. Ale to jen proto, abychom přehlušili ten smutek… smutek však křičí stále hlasitěji. Zardousit jej… on zardousí nás. Do gramočenžru až po vrch zběsilý beat. Po nekonečně dlouhé době chceme být zas jednou spolu… To z lásky, z potřeby nebo ze zoufalství? Blížíme se k sobě: dva truchliví zápasníci těžké váhy vstupují ještě jednou do ringu. O nic tu však nejde. Výsledek předem domluven: prohrajem oba. A zítra budem ležet celý den jak zabití _(20. rok manželství)._ Poslední vzrušení: dokonale se zničit.
 
-TRŠICKÝ ZAHRADNÍK Julius Mück vypěstoval trojbarevnou růži. Zpočátku kvete žlutě, později růžově a ke konci tmavočerveně.
+_TRŠICKÝ ZAHRADNÍK Julius Mück vypěstoval trojbarevnou růži. Zpočátku kvete žlutě, později růžově a ke konci tmavočerveně._
 
-JAKÝ MÁME VLASTNĚ ROK? My píšeme 1968, v Indii rok 2511 podle buddhistické éry a rok 2495 podle Džajnové éry. V Iráku mají v kalendáři rok 1388 a v Etiopii 1961. V Japonsku mají teprve rok 43 a v Izraeli již 5729.
+_JAKÝ MÁME VLASTNĚ ROK? My píšeme 1968, v Indii rok 2511 podle buddhistické éry a rok 2495 podle Džajnové éry. V Iráku mají v kalendáři rok 1388 a v Etiopii 1961. V Japonsku mají teprve rok 43 a v Izraeli již 5729._
+
+  
 
 ZA GRAM RŮŽOVÉHO OLEJE se na světovém trhu platí jeden a čtvrt gramu zlata, takže Bulhaři nadarmo neříkají, že růže je nad zlato. Pro zajímavost: gram růžového oleje se vyrobí asi ze dvou tisíc okvětních lístků růže. Bulharsko tento olej vyváží do řady států, především do Francie, jejíž kosmetický průmysl by se bez této vzácné suroviny neobešel.
 

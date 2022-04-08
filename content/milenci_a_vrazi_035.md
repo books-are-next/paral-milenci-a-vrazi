@@ -1,8 +1,11 @@
 ---
+title: |-
+  GENERÁLNÍ UKÁJENÍ… 2000
+      (Celodějinná 360° široká
+      řvavě barevná cirkoráma Panavision)
+subtitle: "Let’s\_Make War And Love"
 contentType: prose
 ---
-
-Let’s Make War And Love
 
   
 
@@ -88,10 +91,6 @@ Mezitím se vrátil do pokoje Stěpa s Yvetou, Stěpa se svezl tleskající Jan
 
 „Kdopak by se Kafky bál! –“ vykřikoval opile Dominik (který však vůbec opilý nebyl, zato systematicky a tvrdě najížděl na Janu Trojanovou) a společnost přijala s jásotem jeho návrh hrát „nějaký hezký společenský hry“, napřed pro zahřátí slavnou Albeeho „Hupky hupky na hostitelku“ a Dominik žertovně povalil hostitelku Janu na pohovku, Evropa Zíbrtová ječela smíchy a šla podržet Janě hlavu, Stěpa však stále nepouštěl Janiny nohy, Alex trochu zapálil ubrus a jedním z posledních modrých ptačích talířků se konečně strefil do rozhoupaného lustru, v rohu sténala Yveta pod Limonem a do tmy pokoje zalehl ještě z kuchyně Břeťův hlas: „Všecko vysyp, tady mají uherák,“ přerušený cinkotem skla, jak si Valtr otvíral zamčený příborník, a pak už bylo slyšet všecko možné, jenže už nikdo nic neposlouchal.
 
-GENERÁLNÍ UKÁJENÍ… 2000  
-(Celodějinná 360° široká  
-řvavě barevná cirkoráma Panavision)
-
   
 
 _Čerstvá červená krev z vnitrozemí a hor vždycky nakonec vtrhne do modrých měst v nížinách a bohatých přístavů Díky tomu se usínající dějepis zas pohne Jako když lokomotiva vrazí do soupravy spacích a jídelních vagonů Jako když muž milostně dobývá ženu_
@@ -102,16 +101,20 @@ _Až to už není k dívání, naštvou se posléze strašně červení lidi sh
 
 _Až si bojovníci nacpou nácky a ukojí se, zmodrají Místo nových grifů s mečem vymýšlejí nové vzorky na parádní tkaniny Dcery barbarů si ostříhají nehty a zas už na něco brnkají Tím pádem samozřejmě potřebují služku Gotika není dvakrát pohodlná na bydlení Nakonec se zjistí, že Římani stavěli nejlíp, a v Římě už zas kvetou orgie v antickém stylu Na rožmberském dvoře se spotřebuje na hlavu čtyři kila masa denně, nepočítaje v to ryby a drůbež Jenže do renesančního salonu se dá nacpat málo zlata, a tak přichází barok Pak ještě zlatější rokoko Potomci germánských nájezdníků snídají párek holoubat, půl tuctu křepelek, osm kvíčal a víno se pije z litrových pohárů V Anglii se říká telecímu „veal“, kdežto teleti „calf“ a praseti „pig“, kdežto vepřovému „pork“, to proto, že jedni pouze pěstují prasata a telata v chlévech, kdežto druzí pouze jedí vepřové a telecí v zámeckých jídelnách Hladoví mají jiný jazyk než bohatí „Že lid má málo chleba?“ žasne královna Marie Antoinetta, „Nechť tedy jí koláče!“ Toto je doba vrcholného rozkvětu věd a umění A když někdo remcá jako ten atentátník na krále Ludvíka, je mu do hrdla nalito roztavené olovo a pak trhán čtyřmi koni Dokud to takhle jde, je to prima Leč ono to jde stále hůř_
 
+  
+
 Perdidistis utilitatem calamitatis: ZTRATILI JSTE UŽITEK POHROMY
 
-Až to už není k dívání, naštvou se posléze strašně červení lidi z pařížských ghett, co se v životě nenajedli, a vtrhnou do paláců A useknou hlavu králi Ludvíkovi a krásné Marii Antoinettě Něžná dívka brnkající na spinet znásilněna revolucionáři Mladý estét popraven na náměstí A aristokraté patří na lucerny Checheche
+_Až to už není k dívání, naštvou se posléze strašně červení lidi z pařížských ghett, co se v životě nenajedli, a vtrhnou do paláců A useknou hlavu králi Ludvíkovi a krásné Marii Antoinettě Něžná dívka brnkající na spinet znásilněna revolucionáři Mladý estét popraven na náměstí A aristokraté patří na lucerny Checheche_
 
 _Až se revolucionáři nasytí revoluce a ukojí se, zmodrají Místo vymýšlení alegorických vozů zdokonalují tkalcovské stavy Dcery barikádníků brnkají na klavír Tím pádem samozřejmě potřebují služku Potomci revolucionářů zakládají proslulé pařížské restauranty Specialita je kachna po rouensku: mladá kačenka dušená v šampaňském s vlastní krví Taky kaviár přijde k chuti Za carů se v Rusku vůbec dobře jí Jenže ne zas všichni, onoť je Rusů mnoho_
 
 _Okresní maršálek šlechty si po snídani zajede na svůj statek, dá si na místě porazit vybrané tele a trhá rukama horké řízky (nedělejme si iluze o spotřebě telecího v rodinách mužiků) a odpoledne z bujnosti rozbíjí čelem zrcadla Velký režisér velkých orgií a carevnin milenec Rasputin tančí v noci nahý v restaurantu Arkadija a ještě o čtyřech ráno pak milostně dobývá ve svém domě sousedku Toto je doba vrcholného rozkvětu věd a umění A když někdo remcá, před odesláním na Sibiř dostane až čtyři tisíce ran na holé tělo, přičemž zákon stanoví, že určené množství ran v případě smrti delikventa při výkonu trestu je třeba vysázet i na mrtvé tělo do plného počtu Dokud to takhle jde, je to prima Leč ono to jde stále hůř_
 
+  
+
 Perdidistis utilitatem calamitatis: ZTRATILI JSTE UŽITEK POHROMY
 
-Až to už není k dívání, naštvou se posléze strašně červení lidi z petrohradských ghett a ruského vnitrozemí, co se v životě nenajedli, a vtrhnou do carova Zimního paláce i do venkovské šlechtické usedlosti v zapadlém michajlovském újezdu Carova rodina postřílena včetně pubertálních princezen a dětí Básník Osip Mandelštam zbit spoluvězni pro krádež z hladu prchá za dráty umřít do sněhu A hraběnky sázeny holým zadkem na rozžhavenou pec Checheche
+_Až to už není k dívání, naštvou se posléze strašně červení lidi z petrohradských ghett a ruského vnitrozemí, co se v životě nenajedli, a vtrhnou do carova Zimního paláce i do venkovské šlechtické usedlosti v zapadlém michajlovském újezdu Carova rodina postřílena včetně pubertálních princezen a dětí Básník Osip Mandelštam zbit spoluvězni pro krádež z hladu prchá za dráty umřít do sněhu A hraběnky sázeny holým zadkem na rozžhavenou pec Checheche_
 
 _My už máme teďka všecko vyhraný Až na věky věkův amen Naši studenti vnikají do tajů jádra atomu Naše dívky brnkají na elektrické kytary Tím pádem samozřejmě přijde vhod ženě ze sociálně slabší skupiny obyvatelstva přivydělat si výpomocí při úklidu v rodině odpovědného pracovníka Žijeme si jak prasata v žitě V USA se spotřebuje 92 kilogramy masa na hlavu Frankfurt nad Mohanem má jedno z nejmodernějších divadel Evropy a v něm tak důmyslnou dekoraci foyeru, že se do ní vešel snad hektar zlatého plechu Při návštěvě Paříže se doporučuje ochutnat národní specialitu: kachna po rouensku Místo staromódních orgií v antickém stylu lze v Paříži soukromě zhlédnout ostřejší show: soulož ženy s oslem na porodnickém křesle Jeden z prvních happenningů byl slalom žlutého auta mezi zavěšenými krvavými čtvrtěmi hovězího masa Specialitou striptýzových kabaretů na Reeperbahnu je „Verwaltigungsschau“, tedy „podívaná na znásilnění“, a „Henkerschau“, což je stylizovaná podívaná, jak kat mučí nahou dívku Minimální povinná konzumace při „Henkerschau“ je kokakola s rumem, ale hosté pijí ponejvíce sekt V Jablonci nad Nisou v kavárně Praha zahájen první „strip-tease“ v zemích socialismu Hlásí se na něj spousty mladých děvčat V ČSSR se na venkově nadbytečným chlebem přikrmují králíci a vepři, v městech pak se háže do popelnic Další „strip-tease“ se chystá v Děčíně Toto je doba vrcholného rozkvětu věd a umění Americký zaměstnanec naftové firmy Aramco v Rijádu omylem podezříval svého domorodého sluhu z krádeže plnicího pera, a když zjistil, že se jedná o jeho vlastní roztržitost, byla již sluhovi uťata pravá ruka Dokud to takhle jde, je to prima Leč ono to jde stále hůř_

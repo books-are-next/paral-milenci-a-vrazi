@@ -1,8 +1,8 @@
 ---
+title: ''
+subtitle: Obležení
 contentType: prose
 ---
-
-Obležení
 
   
 
@@ -230,7 +230,9 @@ Za dveřmi stál chlapec Roman Gráf a mlčel se sklopenýma očima. Do ticha n
 
 To ječel ten ubohý chlapec a vztekle dupal dolů po schodech, celý dům se jakoby rozevíral, slyšet pootevírání dveří, cítit zatajený dech naslouchajících, i pád jablka by teď všichni mohli zaslechnout, chlapec řval svou nenávist z plných plic a celý dům ji hltal jako už jediné nestvůrné ucho.
 
-ŠESTNÁCT LET ČEKAL pan Henry Damman ze Stuttgartu, jehož koníčkem je pěstování kaktusů, na svůj velký okamžik. 16. července letošního roku – hodinu před půlnocí – rozvily se pak konečně jeho tři kaktusy známé pod romantickým označením „Královna noci“. Pan Damman s rodinou, sousedé i odborníci se pak mohli několik hodin potěšit pohledem na krásné květy. K páté hodině ranní „královny“ zvadly. Tyto kaktusy zalévá pan Damman jen jednou za osm neděl, a to jedním náprstkem vody.
+_ŠESTNÁCT LET ČEKAL pan Henry Damman ze Stuttgartu, jehož koníčkem je pěstování kaktusů, na svůj velký okamžik. 16. července letošního roku – hodinu před půlnocí – rozvily se pak konečně jeho tři kaktusy známé pod romantickým označením „Královna noci“. Pan Damman s rodinou, sousedé i odborníci se pak mohli několik hodin potěšit pohledem na krásné květy. K páté hodině ranní „královny“ zvadly. Tyto kaktusy zalévá pan Damman jen jednou za osm neděl, a to jedním náprstkem vody._
+
+  
 
 JEDNA FIRMA na výrobu hudebních automatů v New Yorku nabízí zajímavý automat s návodem k použití: „Při vhození 5 dolarů rozbije automatické kladívko kteroukoli vámi označenou desku.“
 
@@ -446,6 +448,8 @@ __Per eum, cum eo, in eo omnia Svou agonii vám všem__
 
 (Pokračování příště)
 
+  
+
 JEDENADVACETILETÝ obyvatel Tokia usmrtil svého stejně starého spoluobčana, protože ho nechal dlouho čekat před telefonní budkou. Hovor trval 20 minut a tento nápor nervy mladého pachatele nevydržely.
 
   
@@ -462,6 +466,10 @@ Bridžová společnost z prvního patra se trousila na chodbu. Zita horečně m
 
 „Neměli bychom napřed telefonovat policii?“ řekl Frank Secký a především dopil sklenku courvoisier V. S. O. P., o němž reklama tvrdí, že jej pil císař Napoleon.
 
+  
+
 „-o-ja-ja- o-ja-ja- o-ja-ja!“ kňučela Madda, svíjela se, „JOU! JOU! JOU!“ Na svém kavalci vyl Stěpa v novém záchvatu. A dole v přízemí opustil prastarý Teo dveře na schodiště a namáhavě lezl zpátky na svou hromadu lůžkovin až vysoko ke stropu. Může tak starý muž ještě plakat?
+
+  
 
 SRNEC ZABIL SEDM LIDÍ. Na silnici mezi Landsbergem a Schongauem v Bavorsku se srazil západoněmecký osobní vůz se srncem a dostal smyk. Auto, které jelo za ním, na něj v plné rychlosti najelo. Na místě bylo šest ze sedmi lidí z obou vozidel mrtvých, sedmý zemřel ještě před odvozem do nemocnice.

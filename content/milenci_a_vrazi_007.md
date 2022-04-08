@@ -1,12 +1,13 @@
 ---
+title: |-
+  DOBYVATELÉ
+      (Červený ilustrovaný román na pokračování)
+subtitle: ''
 contentType: prose
 ---
 
-DOBYVATELÉ  
-(Červený ilustrovaný román na pokračování)
-
-Zrozen z nenávisti uspořádám  
-štvanici na lásku!…
+> Zrozen z nenávisti uspořádám  
+> štvanici na lásku!…
 
 — Michel de Chelderode
 
@@ -246,12 +247,14 @@ Při foxtrotovém vykročení Borek zakopl o kořen a svalil se do chladné tr
 
 Jak rozsvícený dort čekalo v údolí, rozvalené a přimknuté k roztínajícímu je černému říčnímu údu. Indiánským stepem – sto kroků během a sto dlouhých loveckých – k němu Borek postupoval po asfaltu, betonu a dláždění.
 
+  
+
 NEJSTARŠÍ NEREZIVĚJÍCÍ nůž světa má mezi svými exponáty Tambovské muzeum. Pochází z Indie a byl vyroben z téhož železa jako známý sloup v Dillí, který už šest století stojí pod širým nebem a nedotkla se jej ještě rez.
 
 ## Kdo je kdo  
 Madda Serafinová (19)
 
-Bosá tmavovlasá holčička jen v šatečkách bez kalhotek pod obrubníkem chodníku, kam vítr navál hladké hřebínky béžového spadového prachu, hrne si ručkama prach přes nohy, pokládá se doň na záda a hrne si jej dál přes tělíčko až k bradě. Jako děti v Ostende, Biarritzu, Soči, Cannes a Miami (na pláži v mořském písku pod rodičovským láskyplným pohledem).
+_Bosá tmavovlasá holčička jen v šatečkách bez kalhotek pod obrubníkem chodníku, kam vítr navál hladké hřebínky béžového spadového prachu, hrne si ručkama prach přes nohy, pokládá se doň na záda a hrne si jej dál přes tělíčko až k bradě. Jako děti v Ostende, Biarritzu, Soči, Cannes a Miami (na pláži v mořském písku pod rodičovským láskyplným pohledem)._
 
 _„Ale to přece nesmíš říkat, že tatínka a maminku nepotřebujeme…,“ šeptala zděšeně krásná zlatovlasá učitelka (zpod modré koverkotové sukně jí vykukovala bílá krajka kombiné). Celá třída se smála, když učitelka rvala zničenou sukni a natržené kombiné ze židle natřené uponem. Celá třída žalovala na Maddu, zvedali ruce s očima ještě zvlhlýma smíchem._
 
@@ -573,14 +576,16 @@ Madda vlezla pod houni, zavřela oči a přejížděla si dlaněmi po vlhkém t
 
 „Bude mi potěšením a národním svátkem,“ zašklebil se Alex, odkopl deku a vstal, „a za to?…“
 
-NEČEKANĚ VE VĚZENÍ se octl britský plachtař Frank Rozen­kis, jehož větroň vinou vady v řízení se řítil proti vysoké zdi. V posledním okamžiku se plachtaři podařilo větroň zvednout, přenést se s ním přes zeď a přistát na dvoře za ní. Teprve potom zjistil, že se octl na nádvoří pověstného vězení v Dartmooru, odkud byl po nezbytných formalitách propuštěn.
+_NEČEKANĚ VE VĚZENÍ se octl britský plachtař Frank Rozen­kis, jehož větroň vinou vady v řízení se řítil proti vysoké zdi. V posledním okamžiku se plachtaři podařilo větroň zvednout, přenést se s ním přes zeď a přistát na dvoře za ní. Teprve potom zjistil, že se octl na nádvoří pověstného vězení v Dartmooru, odkud byl po nezbytných formalitách propuštěn._
+
+  
 
 HŮŘ NEŽ TYGR řádil podle zprávy městské policie v Granadě ve Španělsku papoušek, který uletěl z klece na policejní stanici a usadil se na hlavní křižovatce města. Dokonale uměl napodobit zvuk policejní píšťalky a tím vnesl takový chaos do městské dopravy, že zakrátko byla křižovatka a všechny přilehlé ulice přecpány vozy a nadávajícími řidiči. Než se policistům podařilo papouška chytit, způsobil takový chaos na několika místech Granady.
 
 ## Kdo je kdo  
 Alex Serafin (36)
 
-V oněch dávných dobách ještě před světovou válkou byli bratři Serafinové ozdobou chlapeckého chóru regenschoriho pátera Gotta od Nejsvětější Trojice.
+_V oněch dávných dobách ještě před světovou válkou byli bratři Serafinové ozdobou chlapeckého chóru regenschoriho pátera Gotta od Nejsvětější Trojice._
 
 _Když tercián Alex poznal tajemství svého těla, vrhl se do nové rozkoše zmíraje sladkou hrůzou. Ředitel klasického gymnázia si všiml při svých hodinách řečtiny chlapce čichajícího si k nehtům. Alex se mu v ředitelně s pláčem přiznal, slíbil s neřestí skoncovat a dostal višni v čokoládě. Nikdo ze třídy nedostal bonbon od samotného pana ředitele. Alex znovu podléhal, přiznával se a sliboval a za nějaký čas to dělalo slušnou bonboniéru. Některé pasáže svého výkladu přednášel ředitel přes hlavy ostatních nezajímavých žáků jakoby jen samotnému Alexovi._
 
@@ -924,11 +929,15 @@ _Mě až v osmnácti Tempo se zvyšuje Zároveň se spotřebou masa Všichni r�
 
 _A my jeden druhého teď nádherně_
 
+  
+
 („Proboha – – –“ vykřikl ve dveřích Julda Serafin vysokým hlasem.)
 
-ITALSKÝ HEREC Rinaldo Marezzi hostující v Turecku v Sha­kespea­rově hře „Romeo a Julie“ vykoupil v okolí divadla u zelinářů tři metráky shnilých rajčat. Na dotaz obchodníků, zda rajčata potřebuje na házení po Romeovi, odpověděl: Naopak, já sám jsem Romeo.
+_ITALSKÝ HEREC Rinaldo Marezzi hostující v Turecku v Sha­kespea­rově hře „Romeo a Julie“ vykoupil v okolí divadla u zelinářů tři metráky shnilých rajčat. Na dotaz obchodníků, zda rajčata potřebuje na házení po Romeovi, odpověděl: Naopak, já sám jsem Romeo._
 
-POKOJE LÁSKY. Součástí věznice v Ulriksforsu v severním Švédsku jsou jednoduše zařízené pokoje, kde se scházejí vězni se svými manželkami nebo snoubenkami. Správa věznice povoluje až týdenní společný pobyt.
+_POKOJE LÁSKY. Součástí věznice v Ulriksforsu v severním Švédsku jsou jednoduše zařízené pokoje, kde se scházejí vězni se svými manželkami nebo snoubenkami. Správa věznice povoluje až týdenní společný pobyt._
+
+  
 
 V BOJI PROTI POTKANŮM je vlk nejlepším spojencem člověka. Tento názor zastává italský profesor Giovanni Fornaciari, jeden z největších současných zoologů. Podle něho na každý kus drůbeže, kterou vlk v drůbežárně roztrhá, připadá průměrně 300-400 potkanů, které za stejnou dobu zadáví. Proto se obyvatelé vysokohorské vesnice Fellicarolo v Apeninách rozhodli, že nebudou již vlky pronásledovat. Dokonce založili společnost na ochranu vlků. Vlčata, která zabloudí, vychovávají o láhvi mléka a před jejich puštěním na svobodu je očkují.
 
@@ -1156,10 +1165,10 @@ Po schodech vystupoval Julda Serafin a na odpočívadle ustoupil stranou. Za n�
 
 (Pokračování příště)
 
-OBECNĚ SE UZNÁVÁ a nejnovější vědecké výzkumy to potvrdily, že vykřičet se jen tak, zcela bezdůvodně, je nejlepším způsobem, jak se odreagovat a ulehčit nervovému napětí. V Newcastlu v Anglii použili tuto metodu hromadně. Na náměstí se shromáždilo 200 osob jen proto, aby si sami tento způsob „odlehčení“ vyzkoušeli. Po vykřičení se zase, tentokrát už klidnější, rozešli do svých domovů. Akce se má opět opakovat.
+_OBECNĚ SE UZNÁVÁ a nejnovější vědecké výzkumy to potvrdily, že vykřičet se jen tak, zcela bezdůvodně, je nejlepším způsobem, jak se odreagovat a ulehčit nervovému napětí. V Newcastlu v Anglii použili tuto metodu hromadně. Na náměstí se shromáždilo 200 osob jen proto, aby si sami tento způsob „odlehčení“ vyzkoušeli. Po vykřičení se zase, tentokrát už klidnější, rozešli do svých domovů. Akce se má opět opakovat._
 
-V BETUANU V SÚDÁNU SE HRÁLO fotbalové utkání místních rivalů. Fandilo se divoce na obou stranách, zvlášť když rozhodčí nařídil proti místnímu mužstvu pokutový kop. Najednou však bylo řádění fanoušků vystřídáno panikou mezi diváky i hráči. Na hřišti se objevili tři lvi a zvolna kráčeli k brance, kde na pokutové značce už stál připravený míč. Tam se zastavili a teprve po půl hodině opět odešli a zmizeli v nedaleké džungli. Míč, který prokousli, odnesli s sebou.
+_V BETUANU V SÚDÁNU SE HRÁLO fotbalové utkání místních rivalů. Fandilo se divoce na obou stranách, zvlášť když rozhodčí nařídil proti místnímu mužstvu pokutový kop. Najednou však bylo řádění fanoušků vystřídáno panikou mezi diváky i hráči. Na hřišti se objevili tři lvi a zvolna kráčeli k brance, kde na pokutové značce už stál připravený míč. Tam se zastavili a teprve po půl hodině opět odešli a zmizeli v nedaleké džungli. Míč, který prokousli, odnesli s sebou._
 
-AMERICKÝ ZOOLOG G. B. Schaller provádí v národním parku Serengeti v Tanzanii detailní pozorování lvů pomocí malých tranzistorových přístrojů. Ověřil si pravdivost domněnky, že lvi jsou v podstatě velmi líní. Jeden z pozorovaných neušel ve třech týdnech více než 7 km denně. Denně plných 20 hodin odpočíval.
+_AMERICKÝ ZOOLOG G. B. Schaller provádí v národním parku Serengeti v Tanzanii detailní pozorování lvů pomocí malých tranzistorových přístrojů. Ověřil si pravdivost domněnky, že lvi jsou v podstatě velmi líní. Jeden z pozorovaných neušel ve třech týdnech více než 7 km denně. Denně plných 20 hodin odpočíval._
 
-ŽULOVÉ PODZEMNÍ VRSTVY, na nichž je postaveno město Stockholm, se posunuly o 0,15 tisíciny milimetru po dosud nejsilnějším atomovém podzemním výbuchu provedeném v Nevadě. Tento sukusorní pohyb zaznamenaly přístroje stock­holmské fakulty geodezie.
+_ŽULOVÉ PODZEMNÍ VRSTVY, na nichž je postaveno město Stockholm, se posunuly o 0,15 tisíciny milimetru po dosud nejsilnějším atomovém podzemním výbuchu provedeném v Nevadě. Tento sukusorní pohyb zaznamenaly přístroje stock­holmské fakulty geodezie._

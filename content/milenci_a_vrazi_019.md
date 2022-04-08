@@ -1,8 +1,8 @@
 ---
+title: ''
+subtitle: Obležení
 contentType: prose
 ---
-
-Obležení
 
   
 
@@ -80,7 +80,9 @@ To už klapají mé nůžky na náš společný kov.
 
 BANG! BANG! – zní osudově domem – BANG! BANG! – Už jdu, chlapci moji –
 
-KRONIKÁŘ KRIKETOVÉHO KLUBU v bývalé britské kolonii Aden byl velmi pečlivý muž. Vše, co se v klubu dělo, neopomněl zaznamenat. Kuriózní je zápis z 10. srpna 1967: „Hra musela být na našem hřišti pro minometný útok na 10 minut přerušena.“
+_KRONIKÁŘ KRIKETOVÉHO KLUBU v bývalé britské kolonii Aden byl velmi pečlivý muž. Vše, co se v klubu dělo, neopomněl zaznamenat. Kuriózní je zápis z 10. srpna 1967: „Hra musela být na našem hřišti pro minometný útok na 10 minut přerušena.“_
+
+  
 
 NA PROCHÁZKU dlouhou asi 600 km se vydala 67letá paní Else Giffhornová. Vyšla ze svého bydliště v Hammelnu, kde žije se svou dcerou, a cestu ukončí ve Schwieberdingenu, kde bydlí její druhá dcera. Stejnou cestu projela již vlakem a krajina ji tak okouzlila, že se rozhodla ji poznat blíže.
 
@@ -127,5 +129,7 @@ Chodíme se Zitou v mokré trávě a líbáme se ve studeném dešti. Máme st
 Dny plynou. Stromy mizí v šedých oponách, řeku už nevidět. Brzy se stmívá. Sedíme v křeslech, hřejeme prsty sklenky koňaku a díváme se velikým oknem do zahrady. Stále prší a ven už skoro nevidíme. Díváme se, jak po skle splývá déšť.
 
 (Pokračování příště)
+
+  
 
 OCHOČENÝ KANEC. Trochu nezvyklého čtyřnohého přítele místo psa má lesník z Widzenska (štětínský okres). Kdysi nalezl v lese docela malého kance, přinesl ho domů, krmil z láhve a vycvičil ho. Dnes jej kanec provází i do obchodu s taškou na nákup v tlamě, při motocyklových objížďkách rajonem za ním běží, poslouchá rozkazy jako lehnout, počkej, a dokonce i prosí, zkrátka jako dobře vychovaný pes. Je jen trošku větší než křepelák…

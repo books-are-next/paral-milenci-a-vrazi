@@ -1,8 +1,8 @@
 ---
+title: ''
+subtitle: Obležení
 contentType: prose
 ---
-
-Obležení
 
   
 
@@ -108,18 +108,24 @@ A tak jsem přišla o svého syna a směla ho obejmout až po řadě dní, kd
 
 V noci mi oknem přilétl do postele ocelový šíp.
 
+  
+
 DVĚ MYŠI si povídají:
 
 „Před dírou je kočka!!“
 
 „A co chce?“
 
+  
+
+  
+
 KOMISE JAPONSKÝCH VĚDCŮ zjistila v okolí přístavu Sasebo silné radioaktivní zamoření. K zvýšení radioaktivity došlo po návštěvě atomové ponorky Swordfish. Komunistická strana Japonska žádá, aby vláda zakázala přistávání atomových ponorek v japonských přístavech.
 
 ## Kdo je kdo  
 Zita Gráfová (35)
 
-_Bosá světlovlasá holčička jen v šatečkách bez kalhotek pod balvanem, kam vítr navál hladké hřebínky béžového mořského písku, hrne si ručkama písek přes nohy, pokládá se doň na záda a hrne si jej dál přes tělíčko až k bradě (pod láskyplným dohledem rodičů a guvernantky Odette na plážích Deauville, Bournemouthu, Ostende nebo Syltu). Šlechtovi se vyhýbali palčivému slunci Jihu._
+__Bosá světlovlasá holčička jen v šatečkách bez kalhotek pod balvanem, kam vítr navál hladké hřebínky béžového mořského písku, hrne si ručkama písek přes nohy, pokládá se doň na záda a hrne si jej dál přes tělíčko až k bradě (pod láskyplným dohledem rodičů a guvernantky Odette na plážích Deauville, Bournemouthu, Ostende nebo Syltu). Šlechtovi se vyhýbali palčivému slunci Jihu.__
 
 __„Za všech okolností musíš zachovat to, čemu se nedokonale říká vkus,“ vštěpoval jí s úsměvem otec zároveň s francouzštinou, „vždy, i když-quand même.“ Zita vyrůstala zahrnována všemožnou péčí, ale své rodiče vídala jen zřídka. Matka trpící nervovou poruchou prodlévala většinu dnů ve svém pokoji za věčně staženými roletami. „Tady máš korunu a jdi si hrát někam jinam, holčičko,“ řekla jednou Zitě hrající si s dětmi u vchodu do prastarého malostranského domu s rodovým znakem Šlechtů, bílou husou, nad portálem a pokoušela se Zitu odehnat, protože v zamazané holčičce zprvu nepoznala svou vlastní dcerku.__
 
@@ -445,13 +451,15 @@ Před domem čp. 2000 pohlédl bázlivě k Teovu oknu, sklo přetřeno vápnem
 
 Julda povzdychl a těžce vystoupil do druhého patra, v pokoji si klekl k oknu a dlouze se pomodlil, pak svlékl svou plátěnou kajdu, z holého těla si odvázal zčernalý už uzlovitý provaz, zmrskal se jím po ramenou, zádech a prsou, znovu se provazem opásal, oblékl kajdu, chtěl se napít, leč voda netekla a tak po delší modlitbě ulehl, pokřižoval se a ihned usnul s mírným úsměvem na pootevřených rtech.
 
-V PŘEDMĚSTÍ SYDNEY v Austrálii se staví kostel, kam jako první na světě mohou věřící jezdit ke zpovědi autem a ani z něj nemusí vystoupit. Věřící zajede až ke zpovědnici, stiskne příslušné tlačítko, a když se objeví kněz, zajede dovnitř, vyzpovídá se, pomodlí a zase pokračuje v cestě.
+_V PŘEDMĚSTÍ SYDNEY v Austrálii se staví kostel, kam jako první na světě mohou věřící jezdit ke zpovědi autem a ani z něj nemusí vystoupit. Věřící zajede až ke zpovědnici, stiskne příslušné tlačítko, a když se objeví kněz, zajede dovnitř, vyzpovídá se, pomodlí a zase pokračuje v cestě._
+
+  
 
 BRITSKÁ BIBLICKÁ SPOLEČNOST se rozhodla shromáždit pro případ světové katastrofy bible ve všech jazycích a uložit je v pěti bezpečných úkrytech na různých místech zeměkoule v Londýně, New Yorku, Canbeře, Kapském Městě a ve Stuttgartu.
 
 ## _Co je modré_
 
-_ž__ena, duch, slovo, obležení, věk, sytost, park, pobřeží, přístav, postkoitální zklidnění, onanie, masochismus, jezero, velehora, stabilizátor, západ a sever, moudrost, odpoledne, led, stav klidu (buňky biologické nebo elektronické), kultura, bezvětří, demokracie, zmrzlina, pes, palác, benzinová pumpa, mír, podtlak, cukr, umění, dálkově řízený elektronický protiraketový systém, peníze na kontě, podzim a zima, hřeben, svoboda, zahradní květiny, rozumové přesvědčování, kolonista, podrobení se, rokoko, únava, sediment, Mozart, ratio, znalost, moudrost, láska, běloba, anekdota, klid, erotika, lhostejnost, literatura, konec_
+__ž__ena, duch, slovo, obležení, věk, sytost, park, pobřeží, přístav, postkoitální zklidnění, onanie, masochismus, jezero, velehora, stabilizátor, západ a sever, moudrost, odpoledne, led, stav klidu (buňky biologické nebo elektronické), kultura, bezvětří, demokracie, zmrzlina, pes, palác, benzinová pumpa, mír, podtlak, cukr, umění, dálkově řízený elektronický protiraketový systém, peníze na kontě, podzim a zima, hřeben, svoboda, zahradní květiny, rozumové přesvědčování, kolonista, podrobení se, rokoko, únava, sediment, Mozart, ratio, znalost, moudrost, láska, běloba, anekdota, klid, erotika, lhostejnost, literatura, konec__
 
   
 
@@ -531,6 +539,8 @@ Stál jsem nad ním a vtom se mi zatočila hlava z náhlý příšerný jistot
 
 Vůbec jsem už neslyšel, co mi Frank říká, ani jsem si nevšiml, kdy odjel, kdy Madda ke mně přišla, jen jsem pak pocítil její prsty ve své dlani a pevně ji stiskl, _smět pro Tebe vykrvácet_ – obléklas mi na to boxerské rukavice. Dýku si už chlap vezme do ruky sám.
 
+  
+
 ZCELA ZVLÁŠTNÍ TRANSPLANTACI provedli španělští lékaři (nebo snad zvěrolékaři) již před delší dobou. Mladému býku, který se narodil bez ocasu, transplantovali ocas z vola, aby nic nestálo v cestě zápasnické kariéře zvířete. Transplantace se podařila a byla oficiálně zjištěna až poté, kdy býk zahynul v aréně.
 
   
@@ -555,6 +565,8 @@ Najednou jsem v jejich kutlochu a chlapi proti mně, rozhicovaný a jdou na m
 
 (Pokračování příště)
 
-ŘÍJNU 1955 DOBYLA britská jednotka spolu s místními ozbrojenci saúdskou oázu Burajmi, kterou pak Británie přisoudila šejchátu Abu Dhabi, tehdy naprosto pustému území se 7000 zaostalými beduíny. Pak jako náhodou zde byla nalezena obrovská ložiska nafty. Dnes Abu Dhabi produkuje na 12 milionů tun nafty ročně a vládnoucí šejch Šakbút, který ještě před deseti lety bydlel ve stanu a mazal si vlasy velbloudí močí, je dnes jedním z nejbohatších lidí na Středním východě.
+_ŘÍJNU 1955 DOBYLA britská jednotka spolu s místními ozbrojenci saúdskou oázu Burajmi, kterou pak Británie přisoudila šejchátu Abu Dhabi, tehdy naprosto pustému území se 7000 zaostalými beduíny. Pak jako náhodou zde byla nalezena obrovská ložiska nafty. Dnes Abu Dhabi produkuje na 12 milionů tun nafty ročně a vládnoucí šejch Šakbút, který ještě před deseti lety bydlel ve stanu a mazal si vlasy velbloudí močí, je dnes jedním z nejbohatších lidí na Středním východě._
+
+  
 
 DOSAVADNÍ REKORD ve skoku vysokém – 1 m – byl překonán. 1,05 m skočila mladá osmiměsíční sportovkyně s honosným jménem Susi von Oberbeuren. Trenérem je její majitel, zemědělec Arthur Joanni. Místem tréninku je vyřazené tenisové hřiště. V disciplíně běh s překážkami porazila o několik délek svou soupeřku ze sousední vesnice. Za každý skok dostává prémii – jednu láhev piva. Ano, Susi je superštíhlá, růžovoučká, trénovaná prasnice.

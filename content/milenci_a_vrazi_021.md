@@ -1,8 +1,8 @@
 ---
+title: ''
+subtitle: Obležení
 contentType: prose
 ---
-
-Obležení
 
   
 
@@ -236,7 +236,13 @@ Klap! – Klap! – Klap! – Klap! –
 
 Uslyší to Zita při tom děsném randálu z chodby? Propustí tento běsnící dům ještě naše něžné poselství? Tisknu ucho ke kovové trubce. Zito! Má lásko. Můj živote. Má smrti.
 
+  
+
 „MU“ je jednotka v Indii, stará již dva tisíce let. Označuje vzdálenost, na jakou je ještě slyšet bučení krávy.
+
+  
+
+  
 
 DROGU, KTERÁ UDRŽÍ RYBU NAŽIVU bez vody, vyvinul britský ichtyolog Tom Rayensdale. Přípravek s názvem „Propoxate“ se rozpustí ve vodě, v níž jsou ryby. Ty nejprve ztrácejí stabilitu a pak vypadají jako leklé. V tomto stavu je lze dopravovat bez vody v kontejneru. Po vložení do čerstvé vody opět oživnou.
 
@@ -335,6 +341,8 @@ Tři dny jsem to vydržela. Tři dny jsme to s Borkem vydrželi. Třikrát čty
 Třídenní odloučení nám dokázalo, že už bez sebe nemůžeme být. Milujeme se dál už jak posedlí a dál už jak posedlí se mučíme.
 
 Milujeme se na popravčím špalku a v našem změtení už nerozeznat, kdo koho exekvuje, odsouzenec líbá kata a oběť se nastavuje vrahově dýce. Prokurátoři ječí vztekem: ale dokud nás od sebe neodtrhnou, nemůže dojít ke stětí.
+
+  
 
 PAŘÍŽSKÝ SOUD PRO MLADISTVÉ odsoudil dva provinilce k neobvyklému, ale snad výchovnému trestu. O prázdninách musejí pěšky projít stejnou trať, kterou urazili v ukradeném voze.
 
@@ -595,5 +603,7 @@ Z DARCOVHO TELA VYOPEROVALI SRDCE, ponorili ho do fyziologického roztoku (kuch
 – elektrickým šokom uviedli nové srdce do rytmickej činnosti.
 
 Počas celej operácie premývali a polievali transplantované srdce ľadovou vodou.
+
+  
 
 TRESTNÉ POCHODY mají snížit počet opilých řidičů v Turecku. Zjistí-li turecká dopravní policie, že některý řidič jede v podnapilém stavu, vytáhne ho nemilosrdně z vozu a zaveze v policejním autu do opuštěné krajiny, vždy nejméně 25 km od města. Odtamtud musí jít namazaný motorista pěšky.

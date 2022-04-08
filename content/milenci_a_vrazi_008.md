@@ -1,15 +1,16 @@
 ---
+title: |-
+  OBLEŽENÍ
+      (Modrý ilustrovaný román na pokračování)
+subtitle: ''
 contentType: prose
 ---
 
-OBLEŽENÍ  
-(Modrý ilustrovaný román na pokračování)
-
-V přílbách, ve vysokých botách  
-anebo jen v čepicích a polonazí  
-nás vyhubí ohněm a mečem.  
-Bude to velmi krásné,  
-nemůžeme si přát lepší konec…
+> V přílbách, ve vysokých botách  
+> anebo jen v čepicích a polonazí  
+> nás vyhubí ohněm a mečem.  
+> Bude to velmi krásné,  
+> nemůžeme si přát lepší konec…
 
 — Jean Genet
 
@@ -139,16 +140,18 @@ Pětapadesát let: senátorský věk. Vládnout a odpočívat. Bavím se. Chutn
 
 Ze tmy náhle chraptivý temný skřek. Jako zvířecí… To ta cizí dívka. Je už za zdí. Jsou nahoře i dole. Přicházejí.
 
-MILTON EISENHOWER, bankéř a bratr bývalého prezidenta USA, byl vyslán jako zvláštní pověřenec americké vlády do Latinské Ameriky. Po návratu se podivoval: V mnoha amerických státech je obyvatelstvo na pokraji revoluce. Zjistil jsem, že čím víc těmto zemím poskytujeme finanční a jiné pomoci, tím víc nás tam lidé nenávidí.
+_MILTON EISENHOWER, bankéř a bratr bývalého prezidenta USA, byl vyslán jako zvláštní pověřenec americké vlády do Latinské Ameriky. Po návratu se podivoval: V mnoha amerických státech je obyvatelstvo na pokraji revoluce. Zjistil jsem, že čím víc těmto zemím poskytujeme finanční a jiné pomoci, tím víc nás tam lidé nenávidí._
 
-ZA HODINU SPÁNKU by dal 77letý důchodce P. Barnowski ze západoněmecké vesnice Benninghausen svůj rodinný domek! Ale jeho nabídky nemůže nikdo využít. Barnowski již 23 let nezamhouřil oko. Nespí a nespí. Lékaři uváděli Barnowskému příklad Napoleona, který spával často pouze hodinu denně, ale u důchodce příliš nepochodili: Nejsem Napoleon, prohlásil, chci spát. Ani si nedovedete představit, jak toužím po spánku.
+_ZA HODINU SPÁNKU by dal 77letý důchodce P. Barnowski ze západoněmecké vesnice Benninghausen svůj rodinný domek! Ale jeho nabídky nemůže nikdo využít. Barnowski již 23 let nezamhouřil oko. Nespí a nespí. Lékaři uváděli Barnowskému příklad Napoleona, který spával často pouze hodinu denně, ale u důchodce příliš nepochodili: Nejsem Napoleon, prohlásil, chci spát. Ani si nedovedete představit, jak toužím po spánku._
+
+  
 
 MANŽELÉ Henriette a Raymond Coulombelovi z předměstí francouzského města Rouenu se v roce 1948 zásobili asi 7 tunami potravin a pak se uzavřeli do své malé vily. Báli se totiž atomové války a invaze „rudých“. Od té doby – po celých dvacet let – byli tedy prakticky uvězněni. Jen paní Coulombelová vycházela někdy z domu, pro vodu, pro jídlo nebo pro noviny. Teprve v minulých dnech policie odhalila tento „atomový kryt“: skladiště beden se sýrem, konzervami a zatuchlými potravinami. 58letou ženu našli v pološíleném stavu, její 75letý manžel byl už dva měsíce mrtev. Ležel na posteli a byl přikryt různými papíry a svatými obrázky. Mezi nimi našla policie i „dokumenty“ pana Coulombela: sešity, ve kterých chronologicky zaznamenával všechny války, revoluce, ozbrojené puče a povstání od roku 1914.
 
 ## Kdo je kdo  
 Evžen Gráf (55)
 
-V posledním roce posledního velkého evropského míru, kdy po Praze jezdily koňské drožky, dámy nosily zlaté lorňony a pánové v kapsičkách vest zlaté dvacetikoruny s portrétem vládnoucího císaře, sedával u okna starého patricijského domu Gráfů, jehož základy pocházejí z 11. století, prapravnuk správce lobkovického panství, pravnuk pachtýře knížecího lobkovického dvora Zlatodoly, vnuk novoměstského obchodníka suknem a nejstarší syn c. a k. gymnaziálního profesora historie Evžen Gráf v prvním patře vysoko nad tržištěm v Havelské ulici a hrbil se nad učebnicí francouzštiny.
+_V posledním roce posledního velkého evropského míru, kdy po Praze jezdily koňské drožky, dámy nosily zlaté lorňony a pánové v kapsičkách vest zlaté dvacetikoruny s portrétem vládnoucího císaře, sedával u okna starého patricijského domu Gráfů, jehož základy pocházejí z 11. století, prapravnuk správce lobkovického panství, pravnuk pachtýře knížecího lobkovického dvora Zlatodoly, vnuk novoměstského obchodníka suknem a nejstarší syn c. a k. gymnaziálního profesora historie Evžen Gráf v prvním patře vysoko nad tržištěm v Havelské ulici a hrbil se nad učebnicí francouzštiny._
 
 _„Měl by ses, chlapče, raději trochu proskočit,“ opakoval roztržitě otec a nad oválnou mísou domažlických tvarohových koláčků pokračoval v nekonečné při s bratrem Rudolfem a dědem Anselmem, v níž sám hájí myšlenku české národní monarchie pod osvíceným ruským panovníkem z rodu Romanovců proti bratrově federaci svobodných dunajských republik po vzoru Severoamerických států a dědově umírněně reformovanému habsburskému císařství. Vnuk Evžen si chodil ke stolu pro tvarohové koláčky a poslouchal všechny tři nesmiřitelné se stejně mírnou náklonností a stejně mírným posměchem. Vous avez raison – à la maison. Máte pravdu – ale doma. Tvaroh se mu hnusil, ale jídal jej pravidelně a hojně._
 
@@ -468,7 +471,7 @@ Alex se vztekle zvedl a beze slova se vytratil. „Tak snad mi teďka ještě n
 
 Den zmíral v krvavých cárech a Julda na kolenou v horkém pouštním prachu, Pane, smiluj se nad nimi _Vztažené žadonící paže nahého zástupu Rozpukané rty Mouchy v očních koutcích Vodnatelné ženy a jejich modré děti K jejich nohoum Rty vytlačit z jejich vředů hnis a slíbat jej Za ně předhozen šelmám v cirku Pro ně drán žhavým železem Rván jejich psy Jimi kamenován Svou agonii vám všem_
 
-\* \* \*
+* * *
 
   
 
@@ -476,18 +479,20 @@ Jak si laskavý čtenář jistě již povšiml, jsou slíbené ilustrace reprodu
 
 _Aaa bbbbb cc dddddddd E ff gggg hhhhh i jjj KKKKK lll_
 
-\* \* \*
+* * *
 
-V AUSTRALSKÉM MĚSTĚ Smiethfield si mohou automobilisté zvonkem, umístěným na kostele, přivolat kněze, který je vyzpovídá v autě.
+_V AUSTRALSKÉM MĚSTĚ Smiethfield si mohou automobilisté zvonkem, umístěným na kostele, přivolat kněze, který je vyzpovídá v autě._
 
-PROSTŘEDKY, kterými disponuje fond Organizace spojených národů pro pomoc dětem na 1 rok, jsou nižší než prostředky vydávané na zbrojení během dvou hodin.
+_PROSTŘEDKY, kterými disponuje fond Organizace spojených národů pro pomoc dětem na 1 rok, jsou nižší než prostředky vydávané na zbrojení během dvou hodin._
+
+  
 
 NEUVĚŘITELNOU PŘÍHODU prožila osmnáctiletá Jiho­afričanka Anna-Marie Wassermannová. Šla po práci na pláž v Port Elisabethu, aby si trochu zaplavala. Náhle se před ní vynořila velryba asi 7,5 metru dlouhá. Anna-Marie připlavala blíž, aby si ji prohlédla. Velryba se však ponořila a Anna-Marie náhle ucítila něco pod sebou a byla vyzdvižena z vody. Seděla na hřbetě velryby a velkou rychlostí plula do moře. Teprve po několika pokusech se jí podařilo dostat z velrybího hřbetu a doplout ke břehu, kde zůstala vyčerpaně ležet. Ještě celou hodinu pozorovala velrybu, jak se proháněla před pobřežím.
 
 ## Kdo je kdo  
 Julda Serafin (37)
 
-V oněch dávných dobách ještě před světovou válkou byli bratři Serafinové ozdobou chlapeckého chóru regenschoriho pátera Gotta od Nejsvětější Trojice.
+_V oněch dávných dobách ještě před světovou válkou byli bratři Serafinové ozdobou chlapeckého chóru regenschoriho pátera Gotta od Nejsvětější Trojice._
 
 _Když sextán Julda jako nejlepší latinář a nejchudší žák třídy přišel poprvé do nádherné řečkovické vily madam Rapantové, aby tam dvakrát týdně doučoval její dceru Jitku latině, svačil skoro hodinu se samotnou madam nevídané lahůdky na stříbře, zatímco se mladičká Jitka musela procházet dole po zahradě. Julda pociťoval sílící úzkost a podivný nepokoj. Sybaritské svačiny na terase s madam se stále prodlužovaly na úkor latinských lekcí dceři. A jednoho odpoledne připravila madam svačinu přímo ve své ložnici a nutila chlapce pít víno. Když si rozhalila vpředu šat a přitiskla si Juldovu dlaň k pálícímu tělu, spatřil chlapec na zdi nad její hlavou drobný černý krucifix, vytrhl se a s pláčem utekl. Na zahradní pěšince mu zastoupila cestu zbledlá Jitka s pletací jehlicí v ruce. Věděla vše a byla již rozhodnuta probodnout Juldu a hned pak sebe. V horoucí vděčnosti políbilo bledé děvčátko chlapce na čelo a s dětskou grandezzou si přiložilo jeho dlaň na svou plochou hruď. Jako by se vznášel, kráčel pak Julda mezi zahradami přímou pětikilometrovou výpadovkou dolů k městu, v jehož věžích se rozeznívaly zvony, v kapse dívčinu jehlici a v očích slzy palčivého štěstí._
 
@@ -614,5 +619,7 @@ Všude je jí plno. Všude cítím její pach, ona páchne přesto, že se tak z
 Zas se už plíží po chodbě. A teď stojí zas před mými posledními dveřmi.
 
 (Pokračování příště)
+
+  
 
 DEVÍTILETÝ Gerard Day z Peterboroughu v Kanadě si bezstarostně máchal nožičky v jezeře. Pojednou ho noha silně zabolela, vytáhl ji z vody a na palečku mu visela 71 cm dlouhá štika.

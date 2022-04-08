@@ -12,8 +12,8 @@
       "edition": "beletrie"
     },
     "elements": {
-      "title": "MLP-uroven1-zvlastni-pripady MLP-uroven1-PARAL",
-      "subtitle": "MLP-UROVEN2-PARAL",
+      "title": "MLP-uroven1-zvlastni-pripady MLP-uroven1-PARAL MLP-UROVEN2-PARAL",
+      "subtitle": "",
       "h2": "MLP-uroven3-nadpis\n",
       "h3": "",
       "h4": "",
@@ -94,8 +94,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Věnování"
+            "title": "Věnování",
+            "children": []
           },
           {
             "filename": "milenci_a_vrazi_006.md",
@@ -574,211 +574,211 @@
         "xhtml": "milenci_a_vrazi_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "—",
         "subtitleSuggest": "",
         "filename": "milenci_a_vrazi_006.md",
         "xhtml": "milenci_a_vrazi_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DOBYVATELÉ\n    (Červený ilustrovaný román na pokračování)",
         "subtitleSuggest": "",
         "filename": "milenci_a_vrazi_007.md",
         "xhtml": "milenci_a_vrazi_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "OBLEŽENÍ\n    (Modrý ilustrovaný román na pokračování)",
         "subtitleSuggest": "",
         "filename": "milenci_a_vrazi_008.md",
         "xhtml": "milenci_a_vrazi_008.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Dobyvatelé",
         "filename": "milenci_a_vrazi_009.md",
         "xhtml": "milenci_a_vrazi_009.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Obležení",
         "filename": "milenci_a_vrazi_010.md",
         "xhtml": "milenci_a_vrazi_010.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Dobyvatelé",
         "filename": "milenci_a_vrazi_011.md",
         "xhtml": "milenci_a_vrazi_011.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Obležení",
         "filename": "milenci_a_vrazi_012.md",
         "xhtml": "milenci_a_vrazi_012.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Dobyvatelé",
         "filename": "milenci_a_vrazi_013.md",
         "xhtml": "milenci_a_vrazi_013.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Obležení",
         "filename": "milenci_a_vrazi_014.md",
         "xhtml": "milenci_a_vrazi_014.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Dobyvatelé",
         "filename": "milenci_a_vrazi_015.md",
         "xhtml": "milenci_a_vrazi_015.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Obležení, dobyvatelé a milenci",
         "filename": "milenci_a_vrazi_016.md",
         "xhtml": "milenci_a_vrazi_016.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Dobyvatelé",
         "filename": "milenci_a_vrazi_017.md",
         "xhtml": "milenci_a_vrazi_017.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Obležení",
         "filename": "milenci_a_vrazi_018.md",
         "xhtml": "milenci_a_vrazi_018.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Obležení",
         "filename": "milenci_a_vrazi_019.md",
         "xhtml": "milenci_a_vrazi_019.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Dobyvatelé",
         "filename": "milenci_a_vrazi_020.md",
         "xhtml": "milenci_a_vrazi_020.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Obležení",
         "filename": "milenci_a_vrazi_021.md",
         "xhtml": "milenci_a_vrazi_021.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Dobyvatelé",
         "filename": "milenci_a_vrazi_022.md",
         "xhtml": "milenci_a_vrazi_022.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Obležení",
         "filename": "milenci_a_vrazi_023.md",
         "xhtml": "milenci_a_vrazi_023.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Dobyvatelé",
         "filename": "milenci_a_vrazi_024.md",
         "xhtml": "milenci_a_vrazi_024.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Obležení",
         "filename": "milenci_a_vrazi_025.md",
         "xhtml": "milenci_a_vrazi_025.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Dobyvatelé",
         "filename": "milenci_a_vrazi_026.md",
         "xhtml": "milenci_a_vrazi_026.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Obležení",
         "filename": "milenci_a_vrazi_027.md",
         "xhtml": "milenci_a_vrazi_027.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Dobyvatelé",
         "filename": "milenci_a_vrazi_028.md",
         "xhtml": "milenci_a_vrazi_028.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Obležení",
         "filename": "milenci_a_vrazi_029.md",
         "xhtml": "milenci_a_vrazi_029.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Dobyvatelé",
         "filename": "milenci_a_vrazi_030.md",
         "xhtml": "milenci_a_vrazi_030.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Obležení",
         "filename": "milenci_a_vrazi_031.md",
         "xhtml": "milenci_a_vrazi_031.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "MUŽ A ŽENA\n    (Kapesní přehled 20 let jednoho manželství)",
+        "subtitleSuggest": "Dobyvatelé",
         "filename": "milenci_a_vrazi_032.md",
         "xhtml": "milenci_a_vrazi_032.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Dobyvatelé",
         "filename": "milenci_a_vrazi_033.md",
         "xhtml": "milenci_a_vrazi_033.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "KRISTUS V DOMĚ ČP. 2000",
+        "subtitleSuggest": "Obležení",
         "filename": "milenci_a_vrazi_034.md",
         "xhtml": "milenci_a_vrazi_034.xhtml"
       },
       {
-        "titleSuggest": "",
-        "subtitleSuggest": "",
+        "titleSuggest": "GENERÁLNÍ UKÁJENÍ… 2000\n    (Celodějinná 360° široká\n    řvavě barevná cirkoráma Panavision)",
+        "subtitleSuggest": "Let’s Make War And Love",
         "filename": "milenci_a_vrazi_035.md",
         "xhtml": "milenci_a_vrazi_035.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Neztrácíme užitek pohrom?…",
         "filename": "milenci_a_vrazi_036.md",
         "xhtml": "milenci_a_vrazi_036.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Perdidistis utilitatem calamitatis",
         "filename": "milenci_a_vrazi_037.md",
         "xhtml": "milenci_a_vrazi_037.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Dobyvatelé",
         "filename": "milenci_a_vrazi_038.md",
         "xhtml": "milenci_a_vrazi_038.xhtml"
       },
       {
         "titleSuggest": "",
-        "subtitleSuggest": "",
+        "subtitleSuggest": "Obležení",
         "filename": "milenci_a_vrazi_039.md",
         "xhtml": "milenci_a_vrazi_039.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ediční poznámka",
         "subtitleSuggest": "",
         "filename": "milenci_a_vrazi_040.md",
         "xhtml": "milenci_a_vrazi_040.xhtml"
@@ -876,6 +876,6 @@
       "user": "books-are-next",
       "repo": "paral-milenci-a-vrazi"
     },
-    "generatedAt": 1649405933812
+    "generatedAt": 1649406436552
   }
 }

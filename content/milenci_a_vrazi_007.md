@@ -5,8 +5,8 @@ title: |-
 contentType: prose
 ---
 
-> Zrozen z nenávisti uspořádám  
-> štvanici na lásku!…
+_Zrozen z nenávisti uspořádám  
+štvanici na lásku!…_
 
 — Michel de Chelderode
 

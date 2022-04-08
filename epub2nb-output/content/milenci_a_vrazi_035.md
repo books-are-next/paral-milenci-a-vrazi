@@ -1,9 +1,5 @@
 ---
-title: |-
-  GENERÁLNÍ UKÁJENÍ… 2000
-      (Celodějinná 360° široká
-      řvavě barevná cirkoráma Panavision)
-subtitle: "Let’s\_Make War And Love"
+title: "Let’s\_Make War And Love"
 contentType: prose
 ---
 
@@ -90,6 +86,10 @@ Alex porazil PhMr. Břeťu Trakla ve volném stylu, ale velkodušně ho pak zdv
 Mezitím se vrátil do pokoje Stěpa s Yvetou, Stěpa se svezl tleskající Janě k nohám a začal se jí svérázně a neodolatelně dvořit, Yveta se řehtala, ale Limona podráždil její nedopnutý šat a vyťal nevěrnici masitý políček, ani dívčino tvrzení, že „nic nebylo, on se chtěl pořád jenom cucat“, Limona neupokojilo a Yveta, chtějíc si svého chlapce udobřit, prohlásila, že se s ním tímto zasnubuje, a na důkaz odepjala a dala chlapci jednu svou náušnici se safírem v šedé platině.
 
 „Kdopak by se Kafky bál! –“ vykřikoval opile Dominik (který však vůbec opilý nebyl, zato systematicky a tvrdě najížděl na Janu Trojanovou) a společnost přijala s jásotem jeho návrh hrát „nějaký hezký společenský hry“, napřed pro zahřátí slavnou Albeeho „Hupky hupky na hostitelku“ a Dominik žertovně povalil hostitelku Janu na pohovku, Evropa Zíbrtová ječela smíchy a šla podržet Janě hlavu, Stěpa však stále nepouštěl Janiny nohy, Alex trochu zapálil ubrus a jedním z posledních modrých ptačích talířků se konečně strefil do rozhoupaného lustru, v rohu sténala Yveta pod Limonem a do tmy pokoje zalehl ještě z kuchyně Břeťův hlas: „Všecko vysyp, tady mají uherák,“ přerušený cinkotem skla, jak si Valtr otvíral zamčený příborník, a pak už bylo slyšet všecko možné, jenže už nikdo nic neposlouchal.
+
+GENERÁLNÍ UKÁJENÍ… 2000  
+(Celodějinná 360° široká  
+řvavě barevná cirkoráma Panavision)
 
   
 

@@ -1,6 +1,5 @@
 ---
-title: ''
-subtitle: Perdidistis utilitatem calamitatis
+title: Perdidistis utilitatem calamitatis
 contentType: prose
 ---
 

@@ -1,6 +1,5 @@
 ---
-title: ''
-subtitle: Neztrácíme užitek pohrom?…
+title: Neztrácíme užitek pohrom?…
 contentType: prose
 ---
 

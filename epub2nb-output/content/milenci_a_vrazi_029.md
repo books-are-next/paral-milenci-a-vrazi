@@ -1,6 +1,5 @@
 ---
-title: ''
-subtitle: Obležení
+title: Obležení
 contentType: prose
 ---
 

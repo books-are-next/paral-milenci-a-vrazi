@@ -2,16 +2,16 @@
   "author": "Vladimír Páral",
   "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "paral-milenci-a-vrazi-81b28a3",
+  "identifier": "paral-milenci-a-vrazi-17b915c",
   "languagecode": "cs",
   "modified": "2019-03-22T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Milenci a vrazi",
-  "revision": "81b28a3",
+  "revision": "17b915c",
   "generatedAt": {
-    "date": "Fri Apr 08 2022 08:28:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649406517907
+    "date": "Fri Apr 08 2022 08:39:42 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649407182624
   },
   "documents": [
     {
@@ -145,11 +145,11 @@
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Dobyvatelé • Milenci a vrazi",
       "file": "milenci_a_vrazi_009.html",
-      "words": 9960,
-      "chars": 59973,
-      "ideas": 340,
+      "words": 9961,
+      "chars": 59983,
+      "ideas": 341,
       "role": "chapter",
       "order": 5,
       "prev": "milenci_a_vrazi_008.html",
@@ -158,7 +158,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Dobyvatelé",
           "id": null,
           "children": [
             {
@@ -173,11 +173,11 @@
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Obležení • Milenci a vrazi",
       "file": "milenci_a_vrazi_010.html",
-      "words": 9954,
-      "chars": 58815,
-      "ideas": 274,
+      "words": 9955,
+      "chars": 58823,
+      "ideas": 275,
       "role": "chapter",
       "order": 6,
       "prev": "milenci_a_vrazi_009.html",
@@ -186,7 +186,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Obležení",
           "id": null,
           "children": [
             {
@@ -208,11 +208,11 @@
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Dobyvatelé • Milenci a vrazi",
       "file": "milenci_a_vrazi_011.html",
-      "words": 4639,
-      "chars": 27717,
-      "ideas": 137,
+      "words": 4640,
+      "chars": 27727,
+      "ideas": 138,
       "role": "chapter",
       "order": 7,
       "prev": "milenci_a_vrazi_010.html",
@@ -221,18 +221,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Dobyvatelé",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Obležení • Milenci a vrazi",
       "file": "milenci_a_vrazi_012.html",
-      "words": 4845,
-      "chars": 28667,
-      "ideas": 162,
+      "words": 4846,
+      "chars": 28675,
+      "ideas": 163,
       "role": "chapter",
       "order": 8,
       "prev": "milenci_a_vrazi_011.html",
@@ -241,18 +241,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Obležení",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Dobyvatelé • Milenci a vrazi",
       "file": "milenci_a_vrazi_013.html",
-      "words": 7266,
-      "chars": 42574,
-      "ideas": 276,
+      "words": 7267,
+      "chars": 42584,
+      "ideas": 277,
       "role": "chapter",
       "order": 9,
       "prev": "milenci_a_vrazi_012.html",
@@ -261,18 +261,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Dobyvatelé",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Obležení • Milenci a vrazi",
       "file": "milenci_a_vrazi_014.html",
-      "words": 1150,
-      "chars": 6606,
-      "ideas": 32,
+      "words": 1151,
+      "chars": 6614,
+      "ideas": 33,
       "role": "chapter",
       "order": 10,
       "prev": "milenci_a_vrazi_013.html",
@@ -281,18 +281,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Obležení",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Dobyvatelé • Milenci a vrazi",
       "file": "milenci_a_vrazi_015.html",
-      "words": 1587,
-      "chars": 9228,
-      "ideas": 50,
+      "words": 1588,
+      "chars": 9238,
+      "ideas": 51,
       "role": "chapter",
       "order": 11,
       "prev": "milenci_a_vrazi_014.html",
@@ -301,18 +301,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Dobyvatelé",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Obležení, dobyvatelé a milenci • Milenci a vrazi",
       "file": "milenci_a_vrazi_016.html",
-      "words": 1175,
-      "chars": 6403,
-      "ideas": 39,
+      "words": 1179,
+      "chars": 6433,
+      "ideas": 40,
       "role": "chapter",
       "order": 12,
       "prev": "milenci_a_vrazi_015.html",
@@ -321,18 +321,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Obležení, dobyvatelé a milenci",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Dobyvatelé • Milenci a vrazi",
       "file": "milenci_a_vrazi_017.html",
-      "words": 1195,
-      "chars": 6462,
-      "ideas": 40,
+      "words": 1196,
+      "chars": 6472,
+      "ideas": 41,
       "role": "chapter",
       "order": 13,
       "prev": "milenci_a_vrazi_016.html",
@@ -341,18 +341,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Dobyvatelé",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Obležení • Milenci a vrazi",
       "file": "milenci_a_vrazi_018.html",
-      "words": 6788,
-      "chars": 38124,
-      "ideas": 219,
+      "words": 6789,
+      "chars": 38132,
+      "ideas": 220,
       "role": "chapter",
       "order": 14,
       "prev": "milenci_a_vrazi_017.html",
@@ -361,18 +361,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Obležení",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Obležení • Milenci a vrazi",
       "file": "milenci_a_vrazi_019.html",
-      "words": 2840,
-      "chars": 16066,
-      "ideas": 61,
+      "words": 2841,
+      "chars": 16074,
+      "ideas": 62,
       "role": "chapter",
       "order": 15,
       "prev": "milenci_a_vrazi_018.html",
@@ -381,18 +381,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Obležení",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Dobyvatelé • Milenci a vrazi",
       "file": "milenci_a_vrazi_020.html",
-      "words": 6552,
-      "chars": 37646,
-      "ideas": 131,
+      "words": 6553,
+      "chars": 37656,
+      "ideas": 132,
       "role": "chapter",
       "order": 16,
       "prev": "milenci_a_vrazi_019.html",
@@ -401,7 +401,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Dobyvatelé",
           "id": null,
           "children": [
             {
@@ -416,11 +416,11 @@
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Obležení • Milenci a vrazi",
       "file": "milenci_a_vrazi_021.html",
-      "words": 8322,
-      "chars": 47553,
-      "ideas": 289,
+      "words": 8323,
+      "chars": 47561,
+      "ideas": 290,
       "role": "chapter",
       "order": 17,
       "prev": "milenci_a_vrazi_020.html",
@@ -429,18 +429,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Obležení",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Dobyvatelé • Milenci a vrazi",
       "file": "milenci_a_vrazi_022.html",
-      "words": 531,
-      "chars": 3103,
-      "ideas": 11,
+      "words": 532,
+      "chars": 3113,
+      "ideas": 12,
       "role": "chapter",
       "order": 18,
       "prev": "milenci_a_vrazi_021.html",
@@ -449,18 +449,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Dobyvatelé",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Obležení • Milenci a vrazi",
       "file": "milenci_a_vrazi_023.html",
-      "words": 479,
-      "chars": 2775,
-      "ideas": 8,
+      "words": 480,
+      "chars": 2783,
+      "ideas": 9,
       "role": "chapter",
       "order": 19,
       "prev": "milenci_a_vrazi_022.html",
@@ -469,18 +469,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Obležení",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Dobyvatelé • Milenci a vrazi",
       "file": "milenci_a_vrazi_024.html",
-      "words": 525,
-      "chars": 2907,
-      "ideas": 18,
+      "words": 526,
+      "chars": 2917,
+      "ideas": 19,
       "role": "chapter",
       "order": 20,
       "prev": "milenci_a_vrazi_023.html",
@@ -489,18 +489,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Dobyvatelé",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Obležení • Milenci a vrazi",
       "file": "milenci_a_vrazi_025.html",
-      "words": 308,
-      "chars": 1719,
-      "ideas": 5,
+      "words": 309,
+      "chars": 1727,
+      "ideas": 6,
       "role": "chapter",
       "order": 21,
       "prev": "milenci_a_vrazi_024.html",
@@ -509,18 +509,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Obležení",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Dobyvatelé • Milenci a vrazi",
       "file": "milenci_a_vrazi_026.html",
-      "words": 607,
-      "chars": 3574,
-      "ideas": 7,
+      "words": 608,
+      "chars": 3584,
+      "ideas": 8,
       "role": "chapter",
       "order": 22,
       "prev": "milenci_a_vrazi_025.html",
@@ -529,18 +529,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Dobyvatelé",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Obležení • Milenci a vrazi",
       "file": "milenci_a_vrazi_027.html",
-      "words": 386,
-      "chars": 2249,
-      "ideas": 7,
+      "words": 387,
+      "chars": 2257,
+      "ideas": 8,
       "role": "chapter",
       "order": 23,
       "prev": "milenci_a_vrazi_026.html",
@@ -549,18 +549,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Obležení",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Dobyvatelé • Milenci a vrazi",
       "file": "milenci_a_vrazi_028.html",
-      "words": 430,
-      "chars": 2418,
-      "ideas": 24,
+      "words": 431,
+      "chars": 2428,
+      "ideas": 25,
       "role": "chapter",
       "order": 24,
       "prev": "milenci_a_vrazi_027.html",
@@ -569,18 +569,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Dobyvatelé",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Obležení • Milenci a vrazi",
       "file": "milenci_a_vrazi_029.html",
-      "words": 659,
-      "chars": 3923,
-      "ideas": 36,
+      "words": 660,
+      "chars": 3931,
+      "ideas": 37,
       "role": "chapter",
       "order": 25,
       "prev": "milenci_a_vrazi_028.html",
@@ -589,18 +589,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Obležení",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Dobyvatelé • Milenci a vrazi",
       "file": "milenci_a_vrazi_030.html",
-      "words": 2847,
-      "chars": 16899,
-      "ideas": 70,
+      "words": 2848,
+      "chars": 16909,
+      "ideas": 71,
       "role": "chapter",
       "order": 26,
       "prev": "milenci_a_vrazi_029.html",
@@ -609,18 +609,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Dobyvatelé",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Obležení • Milenci a vrazi",
       "file": "milenci_a_vrazi_031.html",
-      "words": 1016,
-      "chars": 5991,
-      "ideas": 29,
+      "words": 1017,
+      "chars": 5999,
+      "ideas": 30,
       "role": "chapter",
       "order": 27,
       "prev": "milenci_a_vrazi_030.html",
@@ -629,18 +629,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Obležení",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "MUŽ A ŽENA\n    (Kapesní přehled 20 let jednoho manželství) • Milenci a vrazi",
+      "title": "Dobyvatelé • Milenci a vrazi",
       "file": "milenci_a_vrazi_032.html",
-      "words": 11720,
-      "chars": 67585,
-      "ideas": 148,
+      "words": 11721,
+      "chars": 67595,
+      "ideas": 149,
       "role": "chapter",
       "order": 28,
       "prev": "milenci_a_vrazi_031.html",
@@ -649,18 +649,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "MUŽ A ŽENA\n(Kapesní přehled 20 let jednoho manželství)",
+          "name": "Dobyvatelé",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Dobyvatelé • Milenci a vrazi",
       "file": "milenci_a_vrazi_033.html",
-      "words": 14978,
-      "chars": 88844,
-      "ideas": 381,
+      "words": 14979,
+      "chars": 88854,
+      "ideas": 382,
       "role": "chapter",
       "order": 29,
       "prev": "milenci_a_vrazi_032.html",
@@ -669,7 +669,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Dobyvatelé",
           "id": null,
           "children": [
             {
@@ -684,11 +684,11 @@
       ]
     },
     {
-      "title": "KRISTUS V DOMĚ ČP. 2000 • Milenci a vrazi",
+      "title": "Obležení • Milenci a vrazi",
       "file": "milenci_a_vrazi_034.html",
-      "words": 14715,
-      "chars": 88207,
-      "ideas": 384,
+      "words": 14716,
+      "chars": 88215,
+      "ideas": 385,
       "role": "chapter",
       "order": 30,
       "prev": "milenci_a_vrazi_033.html",
@@ -697,7 +697,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KRISTUS V DOMĚ ČP. 2000",
+          "name": "Obležení",
           "id": null,
           "children": [
             {
@@ -719,11 +719,11 @@
       ]
     },
     {
-      "title": "GENERÁLNÍ UKÁJENÍ… 2000\n    (Celodějinná 360° široká\n    řvavě barevná cirkoráma Panavision) • Milenci a vrazi",
+      "title": "Let’s Make War And Love • Milenci a vrazi",
       "file": "milenci_a_vrazi_035.html",
-      "words": 2505,
-      "chars": 15194,
-      "ideas": 55,
+      "words": 2510,
+      "chars": 15217,
+      "ideas": 56,
       "role": "chapter",
       "order": 31,
       "prev": "milenci_a_vrazi_034.html",
@@ -732,18 +732,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "GENERÁLNÍ UKÁJENÍ… 2000\n(Celodějinná 360° široká\nřvavě barevná cirkoráma Panavision)",
+          "name": "Let’s Make War And Love",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Neztrácíme užitek pohrom?… • Milenci a vrazi",
       "file": "milenci_a_vrazi_036.html",
-      "words": 346,
-      "chars": 2075,
-      "ideas": 7,
+      "words": 349,
+      "chars": 2101,
+      "ideas": 8,
       "role": "chapter",
       "order": 32,
       "prev": "milenci_a_vrazi_035.html",
@@ -752,18 +752,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Neztrácíme užitek pohrom?…",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Perdidistis utilitatem calamitatis • Milenci a vrazi",
       "file": "milenci_a_vrazi_037.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 3,
+      "chars": 34,
+      "ideas": 1,
       "role": "chapter",
       "order": 33,
       "prev": "milenci_a_vrazi_036.html",
@@ -772,18 +772,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Perdidistis utilitatem calamitatis",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Dobyvatelé • Milenci a vrazi",
       "file": "milenci_a_vrazi_038.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 1,
+      "chars": 10,
+      "ideas": 1,
       "role": "chapter",
       "order": 34,
       "prev": "milenci_a_vrazi_037.html",
@@ -792,18 +792,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Dobyvatelé",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Milenci a vrazi",
+      "title": "Obležení • Milenci a vrazi",
       "file": "milenci_a_vrazi_039.html",
-      "words": 247,
-      "chars": 1392,
-      "ideas": 6,
+      "words": 248,
+      "chars": 1400,
+      "ideas": 7,
       "role": "chapter",
       "order": 35,
       "prev": "milenci_a_vrazi_038.html",
@@ -812,7 +812,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Obležení",
           "id": null,
           "children": []
         }
@@ -881,14 +881,14 @@
   ],
   "totals": {
     "all": {
-      "words": 147774,
-      "chars": 870815,
-      "ideas": 4176
+      "words": 147816,
+      "chars": 871172,
+      "ideas": 4207
     },
     "chapters": {
-      "words": 147659,
-      "chars": 870091,
-      "ideas": 4159
+      "words": 147701,
+      "chars": 870448,
+      "ideas": 4190
     }
   }
 }

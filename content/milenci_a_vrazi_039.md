@@ -13,6 +13,6 @@ Jdu vstříc… Vrhá se na mne hned u dveří a uchvacuje mě. V týlu mi zn
 
 (Pokračování příště)
 
-Ústí nad Labem, Brno, zámek Dobříš, Vysoké Tatry, Karlovy Vary, Zlaté písky, Hamburk, Gagra
+_Ústí nad Labem, Brno, zámek Dobříš, Vysoké Tatry, Karlovy Vary, Zlaté písky, Hamburk, Gagra_
 
 _18. srpna 1966 – 13. srpna 1968_

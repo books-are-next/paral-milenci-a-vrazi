@@ -431,7 +431,7 @@ A tak děkan, _můj muži,_ tohle je právě ta potřebná forsáž, vrazím ti
 
 A náhle Julda Serafin vstává, obrací se ke mně zády, už nevidím ty jeho strašný tři oči, už koukám po něm níž, _můj muž_ si pod oknem kleká a ruce dává před sebe pryč, k jeho ledvině už mám jen dva metry, už jen dva kroky a předpažit, teď už dokážu všecko, jsem silnej a statečnej, už nad vším, už jako bůh jen s hvězdama –
 
-_Pane, smiluj se nad nimi, neboť nevědí co činí_
+__Pane, smiluj se nad nimi, neboť nevědí co činí__
 
 __Obléklas mi na to boxerské rukavice Dýku si už chlap vezme do ruky sám Maddo Má holko krásná jako bohyně Má squaw Já pro Tebe bych měl krvácet__
 

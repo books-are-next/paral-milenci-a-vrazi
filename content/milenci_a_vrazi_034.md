@@ -670,7 +670,7 @@ KRISTUS V DOMĚ ČP. 2000
 
 — _Ev. Sv. Jana_ 1, 14
 
-Dům čp. 2000 si časem zvykl na pomyšlení, že Iša, Teův syn, by konečně případně mohl být i bůh, ačkoliv to přece nejde – v každém případě však šířící se pověst o jeho podivných činech, z nichž některé by bylo lze s maximem dobré vůle nazvat zázraky, budila touhu využít prakticky nového nájemníka z přízemí.
+_Dům čp. 2000 si časem zvykl na pomyšlení, že Iša, Teův syn, by konečně případně mohl být i bůh, ačkoliv to přece nejde – v každém případě však šířící se pověst o jeho podivných činech, z nichž některé by bylo lze s maximem dobré vůle nazvat zázraky, budila touhu využít prakticky nového nájemníka z přízemí._
 
 Jedna z prvních seancí se konala v dívčí svobodárně ve druhém patře. PhMr. Břeťa Trakl zapadl do jednoho, jeho choť Jitka do druhého červeného křesla u stolku se skleněnou deskou, na červené válendě naslouchala Broňa pod Renoirovými Milenci v trávě. Jako k televizoru, nejsme-li si jisti poutavostí programu – a kdopak má dnes nazbyt času na pouhé povídání? – rozložil si Břeťa na kolenou svou nerozlučnou _Naši domácnost_ a „Deník výdajů“ vedený Jitkou, ustaraně zjišťoval, že na levé stránce „Předpoklad“ v kolonce „Mléko, máslo, sýr“ povolená částka Kčs 63,10 je již překročena o Kčs 8,15 v odpovídající kolonce pravé stránky „Skutečnost“, a s těžkým srdcem vpisoval toto manko varovně červeně. Jitka zašívala otřepený lem Břeťových černých trenek uvažujíc, jak uzurpovat koupelnu pro dnešní praní, a přitom neustále myslela na dítě pod svým srdcem trnouc hrůzou, že to budou dvojčata, a Broňa, pilujíc si nehet malíčku, chystala se ihned po seanci narvat se do koupelny před Jitkou, protože ji čekalo důležité rande s Borkem Trojanem v domě u řeky –
 

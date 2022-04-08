@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:47e93c1b-1884-4c77-a98b-1f87cba0a0d4" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Milenci a vrazi</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>—</text>
+      </navLabel>
+      <content src="Text/milenci_a_vrazi_006.xhtml#toc_marker-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>DOBYVATELÉ</text>
+      </navLabel>
+      <content src="Text/milenci_a_vrazi_007.xhtml#toc_marker-2"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Kdo je kdo Madda Serafinová (19)</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_007.xhtml#x.12447"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Kdo je kdo Alex Serafin (36)</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_007.xhtml#x.12450"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>OBLEŽENÍ</text>
+      </navLabel>
+      <content src="Text/milenci_a_vrazi_008.xhtml#toc_marker-3"/>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Kdo je kdo Evžen Gráf (55)</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_008.xhtml#x.12456"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Kdo je kdo Julda Serafin (37)</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_008.xhtml#x.12459"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Dobyvatelé</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_009.xhtml#toc_marker-3-1"/>
+        <navPoint id="navPoint-9" playOrder="9">
+          <navLabel>
+            <text>Co je červené</text>
+          </navLabel>
+          <content src="Text/milenci_a_vrazi_009.xhtml#toc_marker-3-1-1"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Obležení</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_010.xhtml#toc_marker-3-2"/>
+        <navPoint id="navPoint-11" playOrder="11">
+          <navLabel>
+            <text>Kdo je kdo Zita Gráfová (35)</text>
+          </navLabel>
+          <content src="Text/milenci_a_vrazi_010.xhtml#toc_marker-3-2-1"/>
+        </navPoint>
+        <navPoint id="navPoint-12" playOrder="12">
+          <navLabel>
+            <text>Co je modré</text>
+          </navLabel>
+          <content src="Text/milenci_a_vrazi_010.xhtml#toc_marker-3-2-2"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Dobyvatelé</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_011.xhtml#toc_marker-3-3"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Obležení</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_012.xhtml#toc_marker-3-4"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Dobyvatelé</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_013.xhtml#toc_marker-3-5"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Obležení</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_014.xhtml#toc_marker-3-6"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Dobyvatelé</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_015.xhtml#toc_marker-3-7"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Obležení, dobyvatelé a milenci</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_016.xhtml#toc_marker-3-8"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Dobyvatelé</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_017.xhtml#toc_marker-3-9"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Obležení</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_018.xhtml#toc_marker-3-10"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Obležení</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_019.xhtml#toc_marker-3-11"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Dobyvatelé</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_020.xhtml#toc_marker-3-12"/>
+        <navPoint id="navPoint-23" playOrder="23">
+          <navLabel>
+            <text>Kdo je kdo Jana Rybářová (19)</text>
+          </navLabel>
+          <content src="Text/milenci_a_vrazi_020.xhtml#toc_marker-3-12-1"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Obležení</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_021.xhtml#toc_marker-3-13"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Dobyvatelé</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_022.xhtml#toc_marker-3-14"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Obležení</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_023.xhtml#toc_marker-3-15"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Dobyvatelé</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_024.xhtml#toc_marker-3-16"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Obležení</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_025.xhtml#toc_marker-3-17"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Dobyvatelé</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_026.xhtml#toc_marker-3-18"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Obležení</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_027.xhtml#toc_marker-3-19"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Dobyvatelé</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_028.xhtml#toc_marker-3-20"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Obležení</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_029.xhtml#toc_marker-3-21"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Dobyvatelé</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_030.xhtml#toc_marker-3-22"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Obležení</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_031.xhtml#toc_marker-3-23"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Dobyvatelé</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_032.xhtml#toc_marker-3-24"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>MUŽ A ŽENA (Kapesní přehled 20 let jednoho manželství)</text>
+      </navLabel>
+      <content src="Text/milenci_a_vrazi_032.xhtml#toc_marker-4"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>LET’S MAKE LOVE NOT WAR</text>
+      </navLabel>
+      <content src="Text/milenci_a_vrazi_032.xhtml#toc_marker-5"/>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Dobyvatelé</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_033.xhtml#toc_marker-5-1"/>
+        <navPoint id="navPoint-39" playOrder="39">
+          <navLabel>
+            <text>Kdo je kdo Broňa Berková (19)</text>
+          </navLabel>
+          <content src="Text/milenci_a_vrazi_033.xhtml#toc_marker-5-1-1"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Obležení</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_034.xhtml#toc_marker-5-2"/>
+        <navPoint id="navPoint-41" playOrder="41">
+          <navLabel>
+            <text>Kdo je kdo Yveta Trojanová (19)</text>
+          </navLabel>
+          <content src="Text/milenci_a_vrazi_034.xhtml#toc_marker-5-2-1"/>
+        </navPoint>
+        <navPoint id="navPoint-42" playOrder="42">
+          <navLabel>
+            <text>Kdo je kdo Borek Trojan (45)</text>
+          </navLabel>
+          <content src="Text/milenci_a_vrazi_034.xhtml#toc_marker-5-2-2"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>KRISTUS V DOMĚ ČP. 2000</text>
+      </navLabel>
+      <content src="Text/milenci_a_vrazi_034.xhtml#toc_marker-6"/>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Let’s Make War And Love</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_035.xhtml#toc_marker-6-1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>GENERÁLNÍ UKÁJENÍ… 2000 (Celodějinná 360° širokářvavě barevná cirkoráma Panavision)</text>
+      </navLabel>
+      <content src="Text/milenci_a_vrazi_035.xhtml#toc_marker-7"/>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Neztrácíme užitek pohrom?…</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_036.xhtml#toc_marker-7-1"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Perdidistis utilitatem calamitatis</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_037.xhtml#toc_marker-7-2"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Dobyvatelé</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_038.xhtml#toc_marker-7-3"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Obležení</text>
+        </navLabel>
+        <content src="Text/milenci_a_vrazi_039.xhtml#toc_marker-7-4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Ediční poznámka</text>
+      </navLabel>
+      <content src="Text/milenci_a_vrazi_040.xhtml#toc_marker-8"/>
+    </navPoint>
+  </navMap>
+</ncx>

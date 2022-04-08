@@ -665,8 +665,8 @@ NA BLEŠÍM TRHU v roce 1933 koupil Angličan Robert Savage, obchodník s rám
 
 KRISTUS V DOMĚ ČP. 2000
 
-> A slovo tělem učiněno jest  
-> a přebývalo mezi námi
+_A slovo tělem učiněno jest  
+a přebývalo mezi námi_
 
 — _Ev. Sv. Jana_ 1, 14
 

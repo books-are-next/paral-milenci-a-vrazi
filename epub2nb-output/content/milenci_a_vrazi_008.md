@@ -5,11 +5,11 @@ title: |-
 contentType: prose
 ---
 
-> V přílbách, ve vysokých botách  
-> anebo jen v čepicích a polonazí  
-> nás vyhubí ohněm a mečem.  
-> Bude to velmi krásné,  
-> nemůžeme si přát lepší konec…
+_V přílbách, ve vysokých botách  
+anebo jen v čepicích a polonazí  
+nás vyhubí ohněm a mečem.  
+Bude to velmi krásné,  
+nemůžeme si přát lepší konec…_
 
 — Jean Genet
 

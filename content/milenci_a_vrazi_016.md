@@ -1,6 +1,5 @@
 ---
-title: ''
-subtitle: "Obležení, dobyvatelé a\_milenci"
+title: "Obležení, dobyvatelé a\_milenci"
 contentType: prose
 ---
 

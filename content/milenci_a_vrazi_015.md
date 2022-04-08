@@ -1,6 +1,5 @@
 ---
-title: ''
-subtitle: Dobyvatelé
+title: Dobyvatelé
 contentType: prose
 ---
 

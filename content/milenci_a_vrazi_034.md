@@ -1,6 +1,5 @@
 ---
-title: "KRISTUS V\_DOMĚ ČP.\_2000"
-subtitle: Obležení
+title: Obležení
 contentType: prose
 ---
 
@@ -663,6 +662,8 @@ _Z KOPULE CIRKUSU SE ZŘÍTILA v březnu letošního roku artistka Marie Sonnt
   
 
 NA BLEŠÍM TRHU v roce 1933 koupil Angličan Robert Savage, obchodník s rámy, v Northamptonu za necelou libru šterlinků hezký rám s obrazem. Rám vyleštil, prodal se značným ziskem a obraz uložil do kouta. Po 33 letech se zjistilo, že je to Rubensovo arcidílo Paridův soud, které se až dosud považovalo za ztracené. Znalci tvrdí, že bude vydražen v Londýně nejméně za 250 000 dolarů. Dvaaosmdesátiletá vdova po Robertu Savageovi (nynější majitelka obrazu) sdělila, že její muž Robert vždycky říkal, že je to docela dobrý obraz.
+
+KRISTUS V DOMĚ ČP. 2000
 
 > A slovo tělem učiněno jest  
 > a přebývalo mezi námi

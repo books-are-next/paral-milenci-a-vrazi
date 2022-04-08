@@ -1,6 +1,5 @@
 ---
-title: "MUŽ A\_ŽENA\n    (Kapesní přehled 20 let jednoho manželství)"
-subtitle: Dobyvatelé
+title: Dobyvatelé
 contentType: prose
 ---
 
@@ -149,6 +148,9 @@ _Smíš všecko Udělej mi dítě Teď už jsi můj muž_
   
 
 TŘI SESTRY WILLIAMSOVY jsou v celém městě Waterwillu (USA) známé jako energické dívky. Vdaly se také všechny najednou a při svatebním obřadu ukázaly svým ženichům manželský program: pěst, váleček na těsto a vězeňský řetěz se železnou koulí.
+
+MUŽ A ŽENA  
+**(Kapesní přehled 20 let jednoho manželství)**
 
   
 

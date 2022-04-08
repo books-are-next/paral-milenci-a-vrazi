@@ -464,7 +464,7 @@ _Spolu si proklestíme cestu nahoru Když jsme spolu, přemůžeme celý svět J
 
 _Jsme chytří a silní Máme hlad A umíme dobře počítat_
 
-_Dostanem co chcem My vyhrajem_
+__Dostanem co chcem My vyhrajem__
 
 _NA USEDLOSTI Alfreda Flügela v Marktschorgastu přivedla čtyřletá kráva na svět telátka-čtyřčata. Jedno z telátek zahynulo. Jde skutečně o zoologickou senzaci. Přitom kráva „neměla mateřství vůbec plánováno“, leč veterinář se při umělém oplodňování spletl._
 

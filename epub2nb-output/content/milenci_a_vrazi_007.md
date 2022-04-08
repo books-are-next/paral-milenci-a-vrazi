@@ -912,7 +912,7 @@ Contemplor meliora proboque, deteriora sequor.
 
 „Ne. Ty seš ďábel.“
 
-Z krve, mléka a šťav Holčičích vzpomínek na vánoční koledy Ženského nářku v mokrém listí A lázeňských fontán Devastované země, vody a vzduchu Básniček z devítiletky Sirén revoluce A kvílení elmotorů, centrifug a beatu Tohle všecko je teď mý a dělat si s tím můžu, co se mi jen zamane
+_Z krve, mléka a šťav Holčičích vzpomínek na vánoční koledy Ženského nářku v mokrém listí A lázeňských fontán Devastované země, vody a vzduchu Básniček z devítiletky Sirén revoluce A kvílení elmotorů, centrifug a beatu Tohle všecko je teď mý a dělat si s tím můžu, co se mi jen zamane_
 
 _Nesmíš Dost Prosím tě ne Už vážně dost Pěkně prosím Tohle ne Já moc chci hodně něžnou lásku Pavilony ze skla a z modrého kovu A v nich věčný prameny vody, která uzdravuje A tichou muziku, něco hodně cool a hodně slow A jezírko s barevnými světly pod vodou A labutě…_
 

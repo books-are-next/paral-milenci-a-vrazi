@@ -25,7 +25,7 @@
       "brAfter": "",
       "blockquote": "MLP-citat",
       "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP-dopis-bez1radku-ii\nMLP-text-bez1radku--I\nMLP-venovani",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP-dopis-bez1radku-ii\nMLP-text-bez1radku--I\nMLP-venovani\nMLP-text-bez1radku--I---0-12\nMLP-text-bez1radku--I---12-0\nMLP-text--I---0-12\nMLP-text--I---12-0",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf\nMLP-znak-tucne-11b",
       "remove": "",
       "ignore": ""
@@ -107,7 +107,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "—"
           },
           {
             "filename": "milenci_a_vrazi_007.md",
@@ -119,7 +120,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "DOBYVATELÉ (Červený ilustrovaný román na pokračování)"
           },
           {
             "filename": "milenci_a_vrazi_008.md",
@@ -131,7 +133,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "OBLEŽENÍ (Modrý ilustrovaný román na pokračování)"
           },
           {
             "filename": "milenci_a_vrazi_009.md",
@@ -143,7 +146,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Dobyvatelé"
           },
           {
             "filename": "milenci_a_vrazi_010.md",
@@ -155,7 +159,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Obležení"
           },
           {
             "filename": "milenci_a_vrazi_011.md",
@@ -167,7 +172,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Dobyvatelé"
           },
           {
             "filename": "milenci_a_vrazi_012.md",
@@ -179,7 +185,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Obležení"
           },
           {
             "filename": "milenci_a_vrazi_013.md",
@@ -191,7 +198,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Dobyvatelé"
           },
           {
             "filename": "milenci_a_vrazi_014.md",
@@ -203,7 +211,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Obležení"
           },
           {
             "filename": "milenci_a_vrazi_015.md",
@@ -215,7 +224,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Dobyvatelé"
           },
           {
             "filename": "milenci_a_vrazi_016.md",
@@ -227,7 +237,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Obležení, dobyvatelé a milenci"
           },
           {
             "filename": "milenci_a_vrazi_017.md",
@@ -239,7 +250,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Dobyvatelé"
           },
           {
             "filename": "milenci_a_vrazi_018.md",
@@ -251,7 +263,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Obležení"
           },
           {
             "filename": "milenci_a_vrazi_019.md",
@@ -263,7 +276,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Obležení"
           },
           {
             "filename": "milenci_a_vrazi_020.md",
@@ -275,7 +289,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Dobyvatelé"
           },
           {
             "filename": "milenci_a_vrazi_021.md",
@@ -287,7 +302,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Obležení"
           },
           {
             "filename": "milenci_a_vrazi_022.md",
@@ -299,7 +315,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Dobyvatelé"
           },
           {
             "filename": "milenci_a_vrazi_023.md",
@@ -311,7 +328,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Obležení"
           },
           {
             "filename": "milenci_a_vrazi_024.md",
@@ -323,7 +341,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Dobyvatelé"
           },
           {
             "filename": "milenci_a_vrazi_025.md",
@@ -335,7 +354,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Obležení"
           },
           {
             "filename": "milenci_a_vrazi_026.md",
@@ -347,7 +367,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Dobyvatelé"
           },
           {
             "filename": "milenci_a_vrazi_027.md",
@@ -359,7 +380,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Obležení"
           },
           {
             "filename": "milenci_a_vrazi_028.md",
@@ -371,7 +393,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Dobyvatelé"
           },
           {
             "filename": "milenci_a_vrazi_029.md",
@@ -383,7 +406,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Obležení"
           },
           {
             "filename": "milenci_a_vrazi_030.md",
@@ -395,7 +419,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Dobyvatelé"
           },
           {
             "filename": "milenci_a_vrazi_031.md",
@@ -407,7 +432,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Obležení"
           },
           {
             "filename": "milenci_a_vrazi_032.md",
@@ -419,7 +445,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Dobyvatelé"
           },
           {
             "filename": "milenci_a_vrazi_033.md",
@@ -431,7 +458,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Dobyvatelé"
           },
           {
             "filename": "milenci_a_vrazi_034.md",
@@ -443,7 +471,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Obležení"
           },
           {
             "filename": "milenci_a_vrazi_035.md",
@@ -455,7 +484,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Let’s Make War And Love"
           },
           {
             "filename": "milenci_a_vrazi_036.md",
@@ -467,7 +497,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Neztrácíme užitek pohrom?…"
           },
           {
             "filename": "milenci_a_vrazi_037.md",
@@ -479,7 +510,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Perdidistis utilitatem calamitatis"
           },
           {
             "filename": "milenci_a_vrazi_038.md",
@@ -491,7 +523,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Dobyvatelé"
           },
           {
             "filename": "milenci_a_vrazi_039.md",
@@ -503,7 +536,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Obležení"
           },
           {
             "filename": "milenci_a_vrazi_040.md",
@@ -515,13 +549,14 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Ediční poznámka"
           },
           {
             "filename": "milenci_a_vrazi_041.md",
             "xhtml": "milenci_a_vrazi_041.xhtml",
             "id": 40,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -875,6 +910,6 @@
       "user": "books-are-next",
       "repo": "paral-milenci-a-vrazi"
     },
-    "generatedAt": 1649407118958
+    "generatedAt": 1649407604083
   }
 }

@@ -2,16 +2,16 @@
   "author": "Vladimír Páral",
   "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "paral-milenci-a-vrazi-17b915c",
+  "identifier": "paral-milenci-a-vrazi-3cc23d0",
   "languagecode": "cs",
   "modified": "2019-03-22T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Milenci a vrazi",
-  "revision": "17b915c",
+  "revision": "3cc23d0",
   "generatedAt": {
-    "date": "Fri Apr 08 2022 08:39:42 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649407182624
+    "date": "Fri Apr 08 2022 08:47:42 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649407662993
   },
   "documents": [
     {
@@ -827,7 +827,7 @@
       "role": "chapter",
       "order": 36,
       "prev": "milenci_a_vrazi_039.html",
-      "next": "milenci_a_vrazi_041.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -839,34 +839,14 @@
       ]
     },
     {
-      "title": "Milenci a vrazi",
-      "file": "milenci_a_vrazi_041.html",
-      "words": 52,
-      "chars": 341,
-      "ideas": 13,
-      "role": "chapter",
-      "order": 37,
-      "prev": "milenci_a_vrazi_040.html",
-      "next": "colophon.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "Tiráž • Milenci a vrazi",
       "file": "colophon.html",
-      "words": 108,
-      "chars": 684,
-      "ideas": 13,
+      "words": 160,
+      "chars": 1025,
+      "ideas": 26,
       "role": "colophon",
       "order": null,
-      "prev": "milenci_a_vrazi_041.html",
+      "prev": "milenci_a_vrazi_040.html",
       "next": null,
       "toc": [
         {
@@ -886,9 +866,9 @@
       "ideas": 4207
     },
     "chapters": {
-      "words": 147701,
-      "chars": 870448,
-      "ideas": 4190
+      "words": 147649,
+      "chars": 870107,
+      "ideas": 4177
     }
   }
 }

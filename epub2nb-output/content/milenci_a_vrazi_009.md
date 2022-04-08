@@ -37,7 +37,7 @@ A modrý vzdušný šifonový model košilového střihu, pošitý velikými pe
 
 A v perfektní modré pohádce Madda kroužila pokojem, pokoj se zvětšuje otevíráním dveří a bosí se po kobercích jenjen vznášíte, jak cinká ušlechtilé tenké sklo a bílé cinzano z křišťálu, obrovské bonbony v pruhovaném staniolu a zde čínský vějíř, ó! A zlatý brejličky se zlatým držátkem posázeným drahokamy a dlouhá cigaretová špička z mořské pěny a modré obláčky parfumovaného žlutého tabáku a fialový likér _Parfait Amour,_ do masivního tmavošedého skla kane těžký zlatý Courvoisier Cognac jak med, cestou zpátky Madda už tančila a z pokojů za sebou řada salonů, pak sálů, na televizor je odtud vidět z postele a z obrazovky vyplula sladká tvář zpěváka se zářícím účesem, tančil v arktické revuální krajině mezi otáčejícími se pásy stříbřitě poprášeného skla, sněžnými balustrádami a aranžovanými trsy bílých orchidejí z plastiku, na třpytných skleněných schodištích dívky v bílém v ubíhajících pablescích rotujících leštěných hranolů v pokleku vztahují paže k zrcadlovému oltáři
 
-mýmu trůnu Na kterým se dá sedět i takhle ležet Nikdo nesmí po skleněných schodech sem ke mně nahoru Musej stát dole v chumlu a nanejvýš jen koukat Ale i na to musej bejt řádně oblečený Všecko v bílým Šmudla, Tarzan, Robek, Borek v bílým až po krk Holky Holky vyhnat Kluky taky vyhnat Vymrskat silnouproudým kabelem s hodně tlustým jádrem Alex v bílým až po kotníky jak ministrant Ani chloupek u krku mu nesmí koukat a musí bejt oholenej Odřenej cihlou Starýho Gráfa a Gráfku přivázat dole ke sloupu Nebo mi můžou servírovat ledový drinky Ale po skleněných schodech nahoru nesmí nikdo A Gráfy kabelem po hlavě Sotva jsem přišla, hnali mě do vany jak pouliční šlapku Abych vám nesmrděla jak panu inženýrovi Seckýmu s chotí Jak prašivou Tak oba Gráfy a oba Secký do vany plný napalmu Nebo raději něčeho, co hoří hodně pomalu Ale tohle odbýt někde ve sklepě Tady všecko jen čistý A kolem pavilony ze skla a modrého kovu Ornamenty ze smetany A z věčných pramenů vzhůru vlažný déšť V trávě spí labutě Sem nahoru ke mně nikdo nesmí Jen tichoučká hudba hodně cool a hodně slow Kluk Gráfů Roman Gráf Carevič Má po celým těle kůžičku, jakou mají muži už jen za ušima Ty můžeš sem ke mně nahoru Budem se držet za ruce Pohraju si s tebou Pak tě nejspíš zakousnu
+_mýmu trůnu Na kterým se dá sedět i takhle ležet Nikdo nesmí po skleněných schodech sem ke mně nahoru Musej stát dole v chumlu a nanejvýš jen koukat Ale i na to musej bejt řádně oblečený Všecko v bílým Šmudla, Tarzan, Robek, Borek v bílým až po krk Holky Holky vyhnat Kluky taky vyhnat Vymrskat silnouproudým kabelem s hodně tlustým jádrem Alex v bílým až po kotníky jak ministrant Ani chloupek u krku mu nesmí koukat a musí bejt oholenej Odřenej cihlou Starýho Gráfa a Gráfku přivázat dole ke sloupu Nebo mi můžou servírovat ledový drinky Ale po skleněných schodech nahoru nesmí nikdo A Gráfy kabelem po hlavě Sotva jsem přišla, hnali mě do vany jak pouliční šlapku Abych vám nesmrděla jak panu inženýrovi Seckýmu s chotí Jak prašivou Tak oba Gráfy a oba Secký do vany plný napalmu Nebo raději něčeho, co hoří hodně pomalu Ale tohle odbýt někde ve sklepě Tady všecko jen čistý A kolem pavilony ze skla a modrého kovu Ornamenty ze smetany A z věčných pramenů vzhůru vlažný déšť V trávě spí labutě Sem nahoru ke mně nikdo nesmí Jen tichoučká hudba hodně cool a hodně slow Kluk Gráfů Roman Gráf Carevič Má po celým těle kůžičku, jakou mají muži už jen za ušima Ty můžeš sem ke mně nahoru Budem se držet za ruce Pohraju si s tebou Pak tě nejspíš zakousnu_
 
 Rozvalena na světélkujících polštářích tiskla si Madda bradu ke klíčním kostem, aby mohla patřit na své hladké prsy lesknoucí se potem, na napjatou pleť nervózního břicha a s tichým vrněním se ukazováčky zvolna zkonejšila do slastného bezvědomí.
 
@@ -97,7 +97,7 @@ Až ke konci se trochu rozkurážil, ale nebezpečný to tedy nebylo ani vteřin
 
 Roman Gráf ležel na zádech a Madda ho odpočítávala stále pomaleji, až ustala. Vydrážděna hrou a tiše vrníc kousala ho lehce do brady, ramen a ušních lalůčků. Chlapec se už nepokoušel vymanit se ze sílícího sevření a jeho ruce, ještě dětská útlá zápěstí v těžkých okovech rukavic, objaly tělo tyčící se nad ním.
 
-Já nikdy nedostala žádnou panenku Sama jsem si je musela brát Neboj se, můj bílej chlapečku Budem si spolu jen hrát
+_Já nikdy nedostala žádnou panenku Sama jsem si je musela brát Neboj se, můj bílej chlapečku Budem si spolu jen hrát_
 
 _Čekal jsem Tě šíleně dlouho Četl jsem o Tobě a viděl Tě v kině Hledal jsem Tě na plovárně v tom davu, který mě děsí Ty jsi silná a Ty se nebojíš Ty mě tam přivedeš Spolu nás vezmou_
 
@@ -111,7 +111,7 @@ _Musí to bolet Četl jsem to Chci, aby to bolelo Zkusím Tě štípnout do paž
 
 _Máš masíčko jak kuřátko A bílý maso já zbožňuju Tohle musíš vydržet Můj malej ubohej modrej srnečku na boku Chci do tváře tvůj vlažnej déšť_
 
-Chci pro Tebe smět vykrvácet Obléklas mi na to boxerské rukavice Teď je už nesundám
+_Chci pro Tebe smět vykrvácet Obléklas mi na to boxerské rukavice Teď je už nesundám_
 
 _POZORUHODNÝ SNÍMEK se podařil ve státě Massachusetts (USA) profesoru H. G. Edgertonovi z technologického ústavu. Zachytil jednou třímiliontinou vteřiny let kulky vystřelené z pušky. Na snímku je okamžik, kdy kulka proletěla jablkem._
 
@@ -251,7 +251,7 @@ NA SHROMÁŽDĚNÍ bavorských lesníků referoval ministerský rada mnichovské
 
 ## Co je červené
 
-muž, maso, krev, dobyvatelé, mládí, hlad, džungle, vnitrozemí, ghetto, erekce, znásilnění, sadismus, řeka, poušť, motor, východ a jih, zvědavost, ráno, oheň, stav vzruchu (buňky biologické nebo elektronické), barbarství, tajfun, revoluce, chleba, vlk, podhradí, naftové zřídlo, válka, přetlak, sůl, technologie, kulomet, býti dlužen, jaro a léto, strž, touha po svobodě, tráva, násilí, domorodec, agrese, gotika, svěžest, sopka, jazz, intuice, vůle, fanatismus, nenávist, čerň, urážka, vztek, sex, touha, začátek
+_muž, maso, krev, dobyvatelé, mládí, hlad, džungle, vnitrozemí, ghetto, erekce, znásilnění, sadismus, řeka, poušť, motor, východ a jih, zvědavost, ráno, oheň, stav vzruchu (buňky biologické nebo elektronické), barbarství, tajfun, revoluce, chleba, vlk, podhradí, naftové zřídlo, válka, přetlak, sůl, technologie, kulomet, býti dlužen, jaro a léto, strž, touha po svobodě, tráva, násilí, domorodec, agrese, gotika, svěžest, sopka, jazz, intuice, vůle, fanatismus, nenávist, čerň, urážka, vztek, sex, touha, začátek_
 
   
 
@@ -325,7 +325,7 @@ Atd., atd. a atd.
 
 „Cítím se tak unavená… Tak slabá…,“ šeptala Dáša, přimykajíc se k Alexovi tím poddajněji, čím brutálněji ji svíral svými gorilími pažemi, „… a tak šťastná…,“ Alex se krátce zasmál, hodil ji naznak a přisál se jí k šíji.
 
-Zrozena z neznalosti antikoncepce nebo pro udržení partnera, kvůli získání bytu nebo jako protéza odumřevší manželské lásky v zeměpisném středu Evropy, aby zde prožila svých statisticky průměrných 71,4 let věku Nebude-li ovšem rozhodnuto tenhle koutek termonukleárně vyčistit
+_Zrozena z neznalosti antikoncepce nebo pro udržení partnera, kvůli získání bytu nebo jako protéza odumřevší manželské lásky v zeměpisném středu Evropy, aby zde prožila svých statisticky průměrných 71,4 let věku Nebude-li ovšem rozhodnuto tenhle koutek termonukleárně vyčistit_
 
 _Jako bych s Tebou stoupala na vrchol hory Já už teď nesnesu vidět zas propast Celý život z ní mám úzkost Až budu padat, budu vzhlížet vzhůru_
 
@@ -345,7 +345,7 @@ _Na to máš vedle koupelnu To v Palestině tenkrát nebylo_
 
 _Chtěla bych žít daleko odtud Kde je bezpečí a nikdy se nebude válčit Studentská písnička na bílých plážích Tichého oceánu_
 
-Ty už dávno okupujem „Za deset dnů od okamžiku, kdy byla dána v USA do prodeje deska s poslední písničkou Rolling Stones, bylo jich prodáno 600 000. Písnička se jmenuje Žádost Jejich ďábelského majestátu (Their Satanic Majesties Request)“
+_Ty už dávno okupujem „Za deset dnů od okamžiku, kdy byla dána v USA do prodeje deska s poslední písničkou Rolling Stones, bylo jich prodáno 600 000. Písnička se jmenuje Žádost Jejich ďábelského majestátu (Their Satanic Majesties Request)“_
 
   
 
@@ -679,7 +679,7 @@ Stěpa strhl přikrývky ze dvou kavalců, obratně je přitloukal na horní rá
 
 V šeru Olda už nezačínal kouřit… A i Valtr zapomněl na svůj nejnovější zapalovač.
 
-Tohle je naše Maso a hry Říkáte, že se v této chvíli někde hraje Mozart a Mahler Že žije duch Komenského a Lincolna a Gándhího a další všelijací duši Tak si s nima povídejte, když na to máte školy Nás ten jazyk nikdo neučil Nás ti pánové nebavěj Přesto vyhrajem Proto vyhrajem Tak davaj
+_Tohle je naše Maso a hry Říkáte, že se v této chvíli někde hraje Mozart a Mahler Že žije duch Komenského a Lincolna a Gándhího a další všelijací duši Tak si s nima povídejte, když na to máte školy Nás ten jazyk nikdo neučil Nás ti pánové nebavěj Přesto vyhrajem Proto vyhrajem Tak davaj_
 
 _Pusťte mě Jste špinaví, zarostlí, smrdíte, jste hnusní S váma nechcu_
 
@@ -689,7 +689,7 @@ __Co nadělá chudák holka, když to správnej chlap veme správně do ruky_ _�
 
 _Tak davaj a pocem_
 
-_Vezmem si, co chcem_ _My vyhrajem_
+__Vezmem si, co chcem_ _My vyhrajem__
 
 (Pokračování příště)
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  DOBYVATELÉ
-      (Červený ilustrovaný román na pokračování)
+title: DOBYVATELÉ     (Červený ilustrovaný román na pokračování)
 contentType: prose
 ---
 

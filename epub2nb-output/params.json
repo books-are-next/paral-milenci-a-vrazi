@@ -52,7 +52,7 @@
             "filename": "milenci_a_vrazi_002.md",
             "xhtml": "milenci_a_vrazi_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -614,13 +614,13 @@
         "xhtml": "milenci_a_vrazi_006.xhtml"
       },
       {
-        "titleSuggest": "DOBYVATELÉ\n    (Červený ilustrovaný román na pokračování)",
+        "titleSuggest": "DOBYVATELÉ     (Červený ilustrovaný román na pokračování)",
         "subtitleSuggest": "",
         "filename": "milenci_a_vrazi_007.md",
         "xhtml": "milenci_a_vrazi_007.xhtml"
       },
       {
-        "titleSuggest": "OBLEŽENÍ\n    (Modrý ilustrovaný román na pokračování)",
+        "titleSuggest": "OBLEŽENÍ     (Modrý ilustrovaný román na pokračování)",
         "subtitleSuggest": "",
         "filename": "milenci_a_vrazi_008.md",
         "xhtml": "milenci_a_vrazi_008.xhtml"
@@ -910,6 +910,6 @@
       "user": "books-are-next",
       "repo": "paral-milenci-a-vrazi"
     },
-    "generatedAt": 1649407858477
+    "generatedAt": 1652351588828
   }
 }

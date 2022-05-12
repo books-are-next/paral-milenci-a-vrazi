@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - milenci_a_vrazi_002.html
+  - promo.html
   - milenci_a_vrazi_005.html
   - milenci_a_vrazi_006.html
   - milenci_a_vrazi_007.html

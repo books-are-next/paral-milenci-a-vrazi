@@ -1,7 +1,5 @@
 ---
-title: |-
-  OBLEŽENÍ
-      (Modrý ilustrovaný román na pokračování)
+title: OBLEŽENÍ     (Modrý ilustrovaný román na pokračování)
 contentType: prose
 ---
 

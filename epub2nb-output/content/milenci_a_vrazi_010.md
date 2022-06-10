@@ -3,6 +3,8 @@ title: Obležení
 contentType: prose
 ---
 
+<section>
+
 „Ano, miláčku,“ řekla Zita Gráfová.
 
 „Ale ty mě vůbec neposloucháš,“ řekl Evžen Gráf s tichou výčitkou.
@@ -105,7 +107,9 @@ A tak jsem přišla o svého syna a směla ho obejmout až po řadě dní, kd
 
 V noci mi oknem přilétl do postele ocelový šíp.
 
-  
+</section>
+
+<section>
 
 DVĚ MYŠI si povídají:
 
@@ -150,7 +154,9 @@ __Hned prvního dne (Gráfovi přibyli do Athén v 16.52) si vyšla Zita na tou
 
 __Nezapomenutelné bylo poslední odpoledne, kdy Evžen vyřizoval formality odjezdu a Zita objevila ghetto nejbídnějších. Čtyři muži, děsně odění jen do svrchníků rozevřených na jejich zpocených nahých tělech, zavlekli krásnou dívku do jakési chatrče z vepřovic a vlnitého plechu. Zita v hrůze naslouchala snad hodinu krutým zvukům vyrážejícím ze zborcených vrátek, a když pak dívka konečně vyšla, se vzpřímenou hlavou a hrdým držením těla, Zita sotva potlačila palčivou touhu se jí dotknout a políbit ji.__
 
-  
+</section>
+
+<section>
 
 Tiše si zpívaje metl Julda Serafin svým rýžovým koštětem šerou podlahu rozlehlé a nízké závodní hasičárny, rozséval po širém betonu vonící běloučké dřevěné piliny, a když do sebe pojaly všecku nečistotu země, vymetal je, zšedlé a nabobtnalé, jakoby znavené tou špínou, již musely pozřít, a vyvážel kolečkem ke kotelně, kde toto dřevo poslouživší až do posledního svého vlákenka lehne očistným plamenem.
 
@@ -444,7 +450,9 @@ Před domem čp. 2000 pohlédl bázlivě k Teovu oknu, sklo přetřeno vápnem
 
 Julda povzdychl a těžce vystoupil do druhého patra, v pokoji si klekl k oknu a dlouze se pomodlil, pak svlékl svou plátěnou kajdu, z holého těla si odvázal zčernalý už uzlovitý provaz, zmrskal se jím po ramenou, zádech a prsou, znovu se provazem opásal, oblékl kajdu, chtěl se napít, leč voda netekla a tak po delší modlitbě ulehl, pokřižoval se a ihned usnul s mírným úsměvem na pootevřených rtech.
 
-  
+</section>
+
+<section>
 
 _V PŘEDMĚSTÍ SYDNEY v Austrálii se staví kostel, kam jako první na světě mohou věřící jezdit ke zpovědi autem a ani z něj nemusí vystoupit. Věřící zajede až ke zpovědnici, stiskne příslušné tlačítko, a když se objeví kněz, zajede dovnitř, vyzpovídá se, pomodlí a zase pokračuje v cestě._
 
@@ -454,7 +462,9 @@ BRITSKÁ BIBLICKÁ SPOLEČNOST se rozhodla shromáždit pro případ světové k
 
 __ž__ena, duch, slovo, obležení, věk, sytost, park, pobřeží, přístav, postkoitální zklidnění, onanie, masochismus, jezero, velehora, stabilizátor, západ a sever, moudrost, odpoledne, led, stav klidu (buňky biologické nebo elektronické), kultura, bezvětří, demokracie, zmrzlina, pes, palác, benzinová pumpa, mír, podtlak, cukr, umění, dálkově řízený elektronický protiraketový systém, peníze na kontě, podzim a zima, hřeben, svoboda, zahradní květiny, rozumové přesvědčování, kolonista, podrobení se, rokoko, únava, sediment, Mozart, ratio, znalost, moudrost, láska, běloba, anekdota, klid, erotika, lhostejnost, literatura, konec__
 
-  
+</section>
+
+<section>
 
 Já už nejsem sám! A psychickej mumraj a všech mejch devětadevadesát mindráků se už nekoná! Už se skoro vůbec nepotřebuji! koupat! Už žádnej neurotik a psychopat! Fotříkův známej psychiatr, kterej v jednom kuse mele o komunikaci – jen za tu mou vzal pět stovek – je docela pitomej moula! Všecka ta magie kolem komunikace je blbost, prostě cesta a spojení a řeč prostě jsou! Jako je silnice, řeka, vzduch! Já že bral éter? To musel bejt někdo úplně jinej! A Van de Velde je vůl! Láska je něco úplně jinýho – kdo říká, že já jsem v erotický sféře outsider, ten je vyšmatanej a blbej, jak daleko vidí! A ještě kus za roh! A je vůl!
 
@@ -532,11 +542,15 @@ Stál jsem nad ním a vtom se mi zatočila hlava z náhlý příšerný jistot
 
 Vůbec jsem už neslyšel, co mi Frank říká, ani jsem si nevšiml, kdy odjel, kdy Madda ke mně přišla, jen jsem pak pocítil její prsty ve své dlani a pevně ji stiskl, _smět pro Tebe vykrvácet_ – obléklas mi na to boxerské rukavice. Dýku si už chlap vezme do ruky sám.
 
-  
+</section>
+
+<section>
 
 ZCELA ZVLÁŠTNÍ TRANSPLANTACI provedli španělští lékaři (nebo snad zvěrolékaři) již před delší dobou. Mladému býku, který se narodil bez ocasu, transplantovali ocas z vola, aby nic nestálo v cestě zápasnické kariéře zvířete. Transplantace se podařila a byla oficiálně zjištěna až poté, kdy býk zahynul v aréně.
 
-  
+</section>
+
+<section>
 
 Mám svýho krásnýho čistýho kluka s tělem jak chrt a s jemnýma bílýma rukama kněze, usínáme spolu a držíme se za ruce, sedíme spolu na terase nad ledovým ginfizzem a posloucháme spolu cool a slow muziku, vodíme se za ruce skrz pavilony ze skla a modrýho kovu, kde pršejí nahoru věčný prameny vody, která uzdravuje – Madda uchváceně vydechla a vyběhla ze Sadové kolonády k jezírku, na trávníku dohonila labuť a chytila ji za křídlo.
 
@@ -561,3 +575,5 @@ Najednou jsem v jejich kutlochu a chlapi proti mně, rozhicovaný a jdou na m
 _ŘÍJNU 1955 DOBYLA britská jednotka spolu s místními ozbrojenci saúdskou oázu Burajmi, kterou pak Británie přisoudila šejchátu Abu Dhabi, tehdy naprosto pustému území se 7000 zaostalými beduíny. Pak jako náhodou zde byla nalezena obrovská ložiska nafty. Dnes Abu Dhabi produkuje na 12 milionů tun nafty ročně a vládnoucí šejch Šakbút, který ještě před deseti lety bydlel ve stanu a mazal si vlasy velbloudí močí, je dnes jedním z nejbohatších lidí na Středním východě._
 
 DOSAVADNÍ REKORD ve skoku vysokém – 1 m – byl překonán. 1,05 m skočila mladá osmiměsíční sportovkyně s honosným jménem Susi von Oberbeuren. Trenérem je její majitel, zemědělec Arthur Joanni. Místem tréninku je vyřazené tenisové hřiště. V disciplíně běh s překážkami porazila o několik délek svou soupeřku ze sousední vesnice. Za každý skok dostává prémii – jednu láhev piva. Ano, Susi je superštíhlá, růžovoučká, trénovaná prasnice.
+
+</section>

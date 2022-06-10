@@ -3,6 +3,8 @@ title: Obležení
 contentType: prose
 ---
 
+<section>
+
 Na noční ulici, kde se návěje prachu mrtvě světlaly pod černou hradbou domu, vystoupila Yveta Trojanová z taxíku a vlekla se po schodišti, postála chvíli na schodu před svým prvním patrem, tak tady jsme teď mohli sedět spolu a líbat se na dobrou noc…
 
 Malátně vrazila do svých bílých dveří, na prahu odkopala střevíčky a bez zřejmého záměru prošla chodbou, kuchyní a jídelnou, za sklem příborníku se zaleskly láhve, Yveta odzátkovala zuby taťkův courvoisier a zhluboka se napila, to jen abych dostala chuť na kouření, a zapálila si taťkovu cigaretu Kent, první dneska večer, protože Dominikovi se holky s cigaretou nelíbí. Dominik má studenej čumák a kruté usvědčující oči, proč mermomocí musí vidět všemu až do střev, tihle lidi se prostě neumějí bavit, baví se akorát tím, že jsou zlí… Dominik pro sebe hledá holku, jako se asi kupují koně, vjede jí prsty do zubů a ohmatá stehna, jestli ten kůň bude dobrej tahoun, až si ho zapřáhne do svý káry a budou spolu vedle sebe slintat na náhubek, kapat pot na oj a táhnout a táhnout, až padnou a zcepení –
@@ -89,7 +91,9 @@ Znám to, ale ať se zasmějem, Limon mi řekl spoustu fórů, měl je nachystan
 
 Limonovi se teď už hrát nechce, na hubeným krku mu jezdí ohryzek nahoru a dolů, jako by už polykal, a oči se mu lesknou, šíleně netrpělivej, ale neboj, vždyť dostaneš svoje, ale pojď si předtím ještě chvilku hrát, vždyť to předtím je přece nejlepší – ale Limon taky musí brzo ráno vstávat a já se to bojím říct, abych ho neurazila, ti kluci zdola jsou všichni děsně hrdý a tak, a děsně netrpěliví a taky zlí, připadám si tady najednou úplně cizí, až z toho jde na mě strach, Limon má prsty jak z ocelovýho plechu a jakoby hranatý, bolí to a on je divokej a už vzteklej, jako by mě chtěl spíš zaškrtit než pomilovat, ale já ti dám ráda, když nám bude spolu hezky v tomhle smutným světě, kde je každej sám, a teda smutnej, a kde je přece tak veselý a krásný být spolu, tak pojď, budem se spolu přece MILOVAT, NE VÁLČIT – _utečem odtud spolu A můžeš si vzít i své kamarády s sebou A tví kamarádi svá děvčata a kytary Půjdem spolu od města k městu A pořád za slunkem dál k jihu Bydlet můžem všichni v jedný místnosti Vždyť jsme mladí, a zač bychom se teda styděli Kdo bude mít chuť, půjde ráno do práce A přinese pro všecky mlíko, cigarety a pomeranče A květiny_
 
-  
+</section>
+
+<section>
 
 NŮŽKAMI OZBROJENÁ MLÁDEŽ starého Dubrovníku stříhá na místních ulicích dlouhé vlasy cizím „beatnikům“. Její aktivitu brzdí policie. Mladí Britové, Holanďané, Švédové, západní Němci a jiní cizozemci leží dlouhé hodiny před kostely a paláci. Kolemjdoucích si nevšímají. V kašnách se koupou nahé dívky a pořádají se sexuální orgie. Před návštěvou Dubrovníku je varoval list Politika Expres.
 
@@ -116,7 +120,9 @@ _Po několika prchavých láskách se Yveta milovala se studentem Hannsheinerem,
 
 _Když matka v říjnu odjela na léčení do nervového sanatoria v Gráfenberku, vzal tatínek při své služební cestě do Mnichova Yvetu s sebou. Hned při vystupování z vlaku Yvetu vzrušily početné rodiny řeckých, španělských, portugalských a tureckých „gastarbeiterů“ posedávající na svých rancích v ultramoderní zasklené hale mnichovského nádraží. Když po otcově úspěšném služebním jednání Yveta snědla „Riesenkalbshaxe“, obrovské kilogramové telecí koleno pečené na infragrilu za jedenáct marek, spatřila při podvečerní procházce s tatínkem houfy mladých lidí z celé Evropy, s dlouhými vlasy, kytarami a namnoze bosých, jak se sluní na schodišti staré královské rezidence, a jak slunce klesalo k západu a stoupal stín, poposedávali mladí lidé po schodech výš a výš jak ptáci… „Ahoj, tati,“ řekla Yveta, vystoupila na nejvyšší schod, zula se, usedla na kámen a nastavila tvář posledním paprskům._
 
-  
+</section>
+
+<section>
 
 Velká úřední černá limuzína podnikového ředitele národního podniku Kotex svištěla k hlavnímu městu cestovní rychlostí 80, na rovinkách až 140 kilometrů v hodině, uniformovaný řidič předjížděl desítky vozů, na zadním sedadle v závažném hovoru nad fascikly přísně důvěrných dokumentů náměstek ředitele František Střelák a sám podnikový ředitel, limuzína projížděla ulicemi metropole za varovného řevu klaksonu a se zhoupnutím stanula na betonovém nádvoří generálního ředitelství, vrátný salutoval, šofér otevřel dvířka a oba vedoucí činitelé stoupali budovou do prvního patra. „Tak v sedmnáct nula nula –“ řekl přísně podnikový ředitel a zastavil se.
 
@@ -532,7 +538,9 @@ Prostě se mi zachtělo odpočinku, květin, vína, lásky a hudby… Zemřu ve
 
 Well, well, well. Dokonale se zničit… nebude to aspoň zábavné? ASI JAK KDYŽ POJDE VYKOPNUTÝ PES.
 
-  
+</section>
+
+<section>
 
 _NA ZASEDÁNÍ britské společnosti pro bezpečný provoz na silnicích stojí před řečnickou tribunou světelný semafor. Řečník začne mluvit, jakmile se objeví zelené světlo. Žluté světlo mu připomene, že by už měl svou řeč ukončit. Červené mu ohlašuje, že čas vymezený pro jeho řeč uplynul._
 
@@ -577,15 +585,21 @@ _Jeho neúnavná činnost, při níž nikdy nešetřil sám sebe a které obět
 
 _Padl bojovník, jenž položil svůj život za lepší příští nás všech._
 
-  
+</section>
+
+<section>
 
 (Slečna Broňa Berková se pohřbu nezúčastnila, ježto téhož dne odlétala z ruzyňského letiště se svým snoubencem Ronaldem F. Symingtonem představit se jeho otci a matce, Symington Industries a Symco Enterprises, do Oceanside, Cf., U. S. A.)
 
-  
+</section>
+
+<section>
 
 ROZVEDENÍ MUŽI UMÍRAJÍ častěji než ženatí. Vyplývá to ze statistiky, kterou pořídili pracovníci univerzity v San Francisku. Podle jejich průzkumu se úmrtnost rozvedených pohybuje kolem 26,8 na 100 mužů, zatímco u ženatých je poloviční (12,4). U rozvedených přesahuje normál i počet alkoholiků. Zajímavé je, že všechny nepříznivé ukazatele platí jen u rozvedených mužů. U žen není v tomto směru rozdíl.
 
-  
+</section>
+
+<section>
 
 „Žena jako vy by byla pro mladého Balzaka ještě příliš mladá…,“ říká tiše hrabě.
 
@@ -651,7 +665,9 @@ Pláču stále víc. Takhle jsem snad ještě nebrečela. Zdvihá se ve mně tě
 
 Můj muž horlivě přitakává, líbá mi ruce a já mu vjíždím prsty do jeho vlasů. Jsou už prokvetlé, ale teplé a husté jako tenkrát… I tak krátké, jako uťaté.
 
-  
+</section>
+
+<section>
 
 _Z KOPULE CIRKUSU SE ZŘÍTILA v březnu letošního roku artistka Marie Sonntagová. Duchapřítomně provedla při pádu ještě salto, které zmírnilo náraz. Tři měsíce ležela nehybně s několika zlomeninami nohou a poraněním páteře a pak začala znovu usilovně trénovat. 15. července vystoupila poprvé v programu. Chodí o berlích, při vystoupení má v očích slzy bolesti, leč obecenstvo nic z toho nepozoruje – své číslo předvádí bez chyby._
 
@@ -664,7 +680,9 @@ a přebývalo mezi námi_
 
 — _Ev. Sv. Jana_ 1, 14
 
-  
+</section>
+
+<section>
 
 _Dům čp. 2000 si časem zvykl na pomyšlení, že Iša, Teův syn, by konečně případně mohl být i bůh, ačkoliv to přece nejde – v každém případě však šířící se pověst o jeho podivných činech, z nichž některé by bylo lze s maximem dobré vůle nazvat zázraky, budila touhu využít prakticky nového nájemníka z přízemí._
 
@@ -783,3 +801,5 @@ _„Bože můj, proč jsi mě opustil?“ vykřikl přibitý Iša. Dělali jsme 
 _V neděli dopoledne pak přiběhla Madda Serafinová, Išova zbožňovatelka, k doktorce Dáše Zíbrtové a fanaticky tvrdila, že prý Iša vstal z hrobu a mluvil s ní. Evropa Zíbrtová právě laškovala v posteli se svým druhem Alexem Serafinem a reagovala na tuto fantastickou zvěst chichotáním a kvičením, které bylo lze přičítat jak veselosti nad blábolem bývalé kurvy Maddy, tak rozkošeplným Alexovým hmatům pod přikrývkou._
 
 _A tak Išova story, ostatně krajně nevěrojatná, upadla v zapomenutí v závodě, domě i městě, v němž právě onu neděli začínal filmový festival a rychlostní závody na novém skvělém cyklistickém stadionu, jejž si občané sami vybudovali dobrovolnými brigádami o nedělích a svátcích._
+
+</section>

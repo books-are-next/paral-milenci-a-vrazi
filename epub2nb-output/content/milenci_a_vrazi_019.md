@@ -3,6 +3,8 @@ title: Obležení
 contentType: prose
 ---
 
+<section>
+
 Proč lze při nejhlubší bolesti sedět klidně v křesle? Proč se při ní člověk nekroutí jak raněné zvíře? Proč neskučí, nesténá, nevyje? Když přece bolest i rozkoš se vyjadřuje stejně? Proč se při nejhlubší bolesti člověk nezpotí, neřve a nesvíjí?
 
 „Vezmi si ještě tabletku,“ řekl Evžen Gráf Zitě Gráfové.
@@ -77,13 +79,17 @@ To už klapají mé nůžky na náš společný kov.
 
 BANG! BANG! – zní osudově domem – BANG! BANG! – Už jdu, chlapci moji –
 
-  
+</section>
+
+<section>
 
 _KRONIKÁŘ KRIKETOVÉHO KLUBU v bývalé britské kolonii Aden byl velmi pečlivý muž. Vše, co se v klubu dělo, neopomněl zaznamenat. Kuriózní je zápis z 10. srpna 1967: „Hra musela být na našem hřišti pro minometný útok na 10 minut přerušena.“_
 
 NA PROCHÁZKU dlouhou asi 600 km se vydala 67letá paní Else Giffhornová. Vyšla ze svého bydliště v Hammelnu, kde žije se svou dcerou, a cestu ukončí ve Schwieberdingenu, kde bydlí její druhá dcera. Stejnou cestu projela již vlakem a krajina ji tak okouzlila, že se rozhodla ji poznat blíže.
 
-  
+</section>
+
+<section>
 
 Ve smyčce na konečné stanici vystoupil Borek Trojan z městského autobusu č. 12 a zvolna scházel ze svahu, překřížil asfaltku, brodil se spadlým listím v trávě, došel k vilce ve velké zahradě, odemkl si zahradní branku a pak lakované modřínové dveře pod kovanou lucernou.
 
@@ -128,3 +134,5 @@ Dny plynou. Stromy mizí v šedých oponách, řeku už nevidět. Brzy se stmí
 (Pokračování příště)
 
 OCHOČENÝ KANEC. Trochu nezvyklého čtyřnohého přítele místo psa má lesník z Widzenska (štětínský okres). Kdysi nalezl v lese docela malého kance, přinesl ho domů, krmil z láhve a vycvičil ho. Dnes jej kanec provází i do obchodu s taškou na nákup v tlamě, při motocyklových objížďkách rajonem za ním běží, poslouchá rozkazy jako lehnout, počkej, a dokonce i prosí, zkrátka jako dobře vychovaný pes. Je jen trošku větší než křepelák…
+
+</section>

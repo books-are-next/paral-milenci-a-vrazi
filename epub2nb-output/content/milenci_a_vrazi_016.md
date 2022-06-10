@@ -3,6 +3,8 @@ title: "Obležení, dobyvatelé a\_milenci"
 contentType: prose
 ---
 
+<section>
+
 Zita stála u zdi v šeru chodby svého bytu v prvním poschodí přimykajíc se koleny, stehny, rukama a celým tělem ke kolmé kovové trubce vodovodního potrubí a čekala na Borkův signál shora, na jeho zavolání, třela se tváří o trubku již horkou z jejích polibků, hladila ji a přejížděla po ní rty… Cos to ze mne udělal, zlý kadete. Můj bosý řecký hochu. Kdo z nás dvou je teď svatý Šebestián? Mé tělo se ježí Tvými šípy jak dikobraz. Má kůže však nenasytně prahne po dalších. Mé maso Ti chystá nové doušky krve. Střílej do mne, můj lučištníku! Buď krutý a přesně miř. Nemohu se toho už dočkat – už zabubnuj!
 
 Borek ležel s rukama za hlavou na svém kavalci v pokoji v druhém patře a bosými chodidly se opíral o kolmou kovovou trubku vodovodního potrubí, stačí zabubnovat na ni čtyřikrát kleštěmi jak paličkou do gongu, BANG, a za pár okamžiků stane přede mnou má zajatkyně, ochotná zakusit a podstoupit cokoliv, co mi jen přihraje má zjitřená obrazotvornost, vděčně se podrobí už absolutně všemu a jak vášnivě –
@@ -31,7 +33,9 @@ Borek vedl Zitu travou ke břehu a na navigaci ji přiměl k běhu, poběž se
 
 „Čím asi?“
 
-  
+</section>
+
+<section>
 
 Že jsem tě začal milovat.
 
@@ -69,7 +73,9 @@ A hudba.
 
 A hudba.
 
-  
+</section>
+
+<section>
 
 „Dej mi to koště,“ řekl Borek Zitě.
 
@@ -83,6 +89,10 @@ A hudba.
 
 Ťukáme si na potrubí spojující naše dvě podlaží, kdykoli se nám zamane, já kleštěmi BANG a já nůžkami Klap, ráno, večer i v noci a jsou to dlouhé telegramy, je to pořád jeden telegram s jednoslovným textem: MILUJI. A náš dům zní tím štěstím z kovu a tím štěstím se kov potrubí roztahuje do libovolné délky a my dva nosíme každý svůj konec naší společné trubky stále s sebou, do města i do fabriky, a trubka v obou směrech ve dne v noci vysílá a přijímá náš společný vzkaz jednoho druhému – milujem se a jsme stále spolu.
 
-  
+</section>
+
+<section>
 
 LÁSKA NEZNÁ MEZÍ – to znovu dokázal 27letý Richard Shane a 18letá Mary Holmesová. Oba vězňové v trestnici na Long Islandu v USA se s obtížemi domlouvali odtokovou rourou tak dlouho, až se do sebe zamilovali. Slovo dalo slovo a nakonec se rozhodli, že se vezmou. Vězeňské orgány nestály v cestě. Měly jenom podmínku: párek musí jít k oltáři v poutech.
+
+</section>

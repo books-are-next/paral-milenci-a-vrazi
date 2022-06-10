@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "paral-milenci-a-vrazi-b962fd7",
-  "revision": "b962fd7",
+  "identifier": "paral-milenci-a-vrazi-d804dce",
+  "revision": "d804dce",
   "readingOrder": [
     "promo.html",
     "milenci_a_vrazi_005.html",
@@ -51,8 +51,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:18:46 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870726316
+    "date": "Fri Jun 10 2022 17:53:54 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883634972
   },
   "documents": [
     {
@@ -794,9 +794,9 @@
     {
       "title": "Perdidistis utilitatem calamitatis",
       "file": "milenci_a_vrazi_037.html",
-      "words": 3,
-      "chars": 34,
-      "ideas": 1,
+      "words": 52,
+      "chars": 331,
+      "ideas": 2,
       "role": "chapter",
       "order": 33,
       "prev": "milenci_a_vrazi_036.html",
@@ -814,9 +814,9 @@
     {
       "title": "Dobyvatelé",
       "file": "milenci_a_vrazi_038.html",
-      "words": 1,
-      "chars": 10,
-      "ideas": 1,
+      "words": 71,
+      "chars": 450,
+      "ideas": 2,
       "role": "chapter",
       "order": 34,
       "prev": "milenci_a_vrazi_037.html",
@@ -874,9 +874,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 126,
-      "chars": 792,
-      "ideas": 16,
+      "words": 91,
+      "chars": 600,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "milenci_a_vrazi_040.html",
@@ -894,14 +894,14 @@
   ],
   "totals": {
     "all": {
-      "words": 147782,
-      "chars": 870949,
-      "ideas": 4195
+      "words": 147866,
+      "chars": 871494,
+      "ideas": 4188
     },
     "chapters": {
-      "words": 147649,
-      "chars": 870117,
-      "ideas": 4175
+      "words": 147768,
+      "chars": 870854,
+      "ideas": 4177
     }
   }
 }

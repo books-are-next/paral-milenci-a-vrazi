@@ -3,6 +3,8 @@ title: Dobyvatelé
 contentType: prose
 ---
 
+<section>
+
 Jana Rybářová přecházela koleje na podlaze své svobodárny, jako by tančila, a v duši se jí vzmáhala píseň vítězství: Borek u mě sedí už tři hodiny!
 
 Dělám, že jako žehlím, abych jako něco dělala, protože v tomhle pokoji je jen jedna židle a pak už jen dvě postele. Borek má dnes rande s čarodějnicí a proto ho takhle za každou cenu tady držím. Jak je to snadné… Pokusí se mě už dnes políbit?…
@@ -50,3 +52,5 @@ Konečně, proč by někdo nemohl milovat třeba stoletou černošku?“
 Teď mě políbí. Už stojí proti mně. Kam se dává při líbání horká žehlička? Jak to Evka říkala: hlavně nesrazit se nosy.
 
 Borek stál vyčerpaně, jako by samo povstání ho stálo veškeré síly. Jana přešla po kolejnici, uchopila Borkovu hlavu a jemně ji natočila tváří k sobě. Pak opatrně stiskla rty na mužově ušním lalůčku. A pak, v náhlé intuici, jej lehce sevřela do zubů. Pak silněji.
+
+</section>

@@ -3,6 +3,8 @@ title: Obležení
 contentType: prose
 ---
 
+<section>
+
 Zita si zapálila další cigaretu Kent, vyfoukla šedý kouř ke stropu a dokonale už zvládnutým hlasem řekla Borkovi: „Miluješ ji?“
 
 Borek jen pokrčil rameny. NEPOPÍRÁ TO TEDY… Musím zachovat to, čemu se nedokonale říká vkus, ano, papá, quand même. „Je velice mladá. Líbí se mi.“
@@ -71,8 +73,12 @@ Mathilde de la Mole tisíc let před Stendhalem. Dostavila se tedy. Zbytek té s
 
 (Pokračování příště)
 
-  
+</section>
+
+<section>
 
 23. prosince krátce po poledni explodovalo šest set litrů přehřáté ethylacetát-acetonové směsi, střecha stanice se vznesla do několikametrové výše, načež nespadla přesně na původní místo, aniž by zachovala svou skeletovou strukturu. Nikomu se nic nestalo, jen kus nádvoří Kotexu zmizel pod změtí prasklých trámů, ohnutých nosníků a zprohýbaného sklolaminátu, jakož i čtyř set kilogramů tak živě zreagovavší reakční směsi.
 
 Vedoucí závodu s. Gráf vyhlásil okamžitý nástup veškerého osazenstva k odklizení trosek. Policejní vůz přijel na místo dříve než auto požárníků, sanitka a autobus pro odvoz raněných. Za čtyři hodiny bylo nádvoří závodu opět sjízdné. Pozitivně bylo hodnoceno, že odklizovacích prací se účastnilo i občanstvo přilehlé ulice (s. A. Růžička, propuštěný z Kotexu pro zranění spoludělnice střepem pivní láhve, a choť podnikového ředitele s. Z. Gráfová).
+
+</section>

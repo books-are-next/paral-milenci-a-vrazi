@@ -3,6 +3,8 @@ title: Dobyvatelé
 contentType: prose
 ---
 
+<section>
+
 _„Přes spáleniště, přes krvavé řeky  
 jdem vpřed jak proud  
 jak pomsty hrozný val –“_
@@ -22,3 +24,5 @@ Ale vždyť on to zrovna teď dělá, tak co by na to ještě myslel! Dělá to 
 Jana přistoupila k oknu a pohlédla tvrdě k nebi. Za půlhodinku bude už docela tma. Krátce se pokřižovala: v Boha sice nevěřila, ale chtěla mít všecky dobré mocnosti na své straně.
 
 Ráznými pohyby pak zpřetrhala papírový provázek na balíku, který si dnes přivezla z domu. Opatrně vyjímala červený celofán, svíčku z vánočního stromku a krmnou tykev velikosti dětské hlavy.
+
+</section>

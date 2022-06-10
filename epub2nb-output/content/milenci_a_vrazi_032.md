@@ -3,6 +3,8 @@ title: Dobyvatelé
 contentType: prose
 ---
 
+<section>
+
 Červený budíček z plastiku zněl na své rezonanční desce (na kruhovém sedadle židle) a Jana Rybářová se rychle probírala k vědomí, čeká nás důležitý den, ale copak nějaký den není důležitý? – a Jana zahájila ostrou rozcvičku vypínáním břišních svalů („Holky, budete mít břicha, že po vás budou kluci šílet –“ smála se tělocvikářka na průmyslovce, když tohle učila zrudlé žákyně na ripstolu) a Jana zrudla, až Borek uvidí výsledek mého cvičení… Kdy to už bude? – a aby rozptýlila náhlý zmatek těla, začala rázně s kliky, udělala jich celkem šestadvacet, zas o jeden víc – pak se opatrně ohlédla, zda Madda ještě spí, a protože tomu tak bylo, pátravě si přejížděla svým čtverhranným kapesním zrcátkem podél těla, pleť na zadních stranách stehen stále drsná, krém nepomohl, Jana si potřela zadní strany stehen pálícím tříprocentním salicylovým lihem (pro nebezpečí keratolýzy ordinují lékaři nejvýš dvouprocentní), který si sama namíchala v laboratoři, snad to ještě zavčas zmizí vysušením, a pak si nanesla špetku bílé vazelíny na konečky ňader, aby zvláčněly. Až je bude líbat – –
 
 Oblečená Jana pak seděla na židli těsně u dveří na chodbu a se zatajeným dechem čekala, až Borek z protějších dveří vyjde do práce. Borek je teď špatný, jakoby těžce nemocen, jako by ho ta stará čarodějnice Gráfová poutala ještě i po své smrti, snad dokonce ještě víc, než když byla naživu, tehdy sem Borek přece docházel a tenkrát v sodíkárně – –
@@ -262,7 +264,9 @@ Oslavili jsme Yvetinu zletilost (dort s osmnácti svíčkami, bílé růže, se
 
 Nejkrásnější měsíc rokuje říjen. Jsme spolu sami celý den v Krušných horách. Horské louky… milovali jsme je oba. Slunce stoupá z trávy. Je jak kovová, na špičkách rudá jak spálená krvavým větrem. Nechali jsme vůz stát a šli dobrou hodinu pěšky. Utrmáceni a opilí pozdním sluncem… Ve vyhlídkové restauraci Komáří vížka ledový džus s ananasem. A doma hned, ještě před osprchováním, gin z velkých sklenic. Při něm jsme vyjedli celou spíž – zítra ráno nám bude hrozně. Ale to jen proto, abychom přehlušili ten smutek… smutek však křičí stále hlasitěji. Zardousit jej… on zardousí nás. Do gramočenžru až po vrch zběsilý beat. Po nekonečně dlouhé době chceme být zas jednou spolu… To z lásky, z potřeby nebo ze zoufalství? Blížíme se k sobě: dva truchliví zápasníci těžké váhy vstupují ještě jednou do ringu. O nic tu však nejde. Výsledek předem domluven: prohrajem oba. A zítra budem ležet celý den jak zabití _(20. rok manželství)._ Poslední vzrušení: dokonale se zničit.
 
-  
+</section>
+
+<section>
 
 _TRŠICKÝ ZAHRADNÍK Julius Mück vypěstoval trojbarevnou růži. Zpočátku kvete žlutě, později růžově a ke konci tmavočerveně._
 
@@ -299,3 +303,5 @@ A Dáša Zíbrtová nad svým spícím Alexem vzhlížela vlhkýma očima k I�
 Výroční slavnost se překrásně vydařila. Závodní jídelnou se rozléhala hudba, lidé jako by zapomněli na své rozepře a sváry, smáli se spolu, tančili, objímali se a sálem zněl sílící zpěv… Dominik tančil už jen s Yvetou ve vzdušném objetí a líbali se očima, Borek tančil s Janou a znovu s Broňou… Jana je míjela s úsměvem na parketu, těšíc se ze svého muže, ze své dcery a z jejího něžného nápadníka… A Borkovi stoupalo dojetí k hrdlu, naslouchal Bronině smíchu těsně u své tváře a okouzlen kroužil po hladkém parketu v úžasu, kolik je v lidech radosti a šťasten s nimi se všemi… jako velice mladý hoch.
 
 Když pak nastala noc, vycházeli lidé ze sálu a trousili se tmavým nádvořím do svých domovů. K parkujícímu modrému renaultu došla rozesmátá skupinka, manželé Trojanovi se pohodlně usadili na přední sedadlo svého vozu, Yveta na zadní a vypukl veselý spor, zda do vozu přibrat ještě Dominika, nebo Broňu Berkovou – rozjařená Broňa vdechovala čerstvý vzduch zvracejíc tvář k hvězdám v onom náhlém pocitu prudkého štěstí, jak je krásné žít na tomto světě… jako už mladé dívky blouznívají. V tom se ze tmy s dupáním vyřítil právě procitnuvší Alex Serafin, masitě štípl Broňu do stehna a tvrdě se nakýbloval do auta. Motor vozu naskočil, Broňa s Dominikem zůstali stát na betonu a ze zadního okénka auta na ně cenil zuby plyšový tygr – prudkým vyjížděním auta se rozhoupal, jako by se chystal ke skoku.
+
+</section>

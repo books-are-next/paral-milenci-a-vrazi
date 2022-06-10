@@ -3,6 +3,8 @@ title: Dobyvatelé
 contentType: prose
 ---
 
+<section>
+
 Vyrván spánku řinčením budíku, palčivou erekcí, svíravým hladem a žhnoucí žízní vymotával se Borek Trojan ze svědivých pytlů na betonové podlaze sklepa (jediné štěstí: hlouběji už klesnout nelze) domu čp. 2000, který je můj pořád MÍŇ a MÍŇ, v montércimře jsem přišel o postel a teď uvolněná slíbená svobodárna v druhém patře zcizena, Bogan Tušl se svou březí Jolanou nám ji sprostě ukradli, uloupili, protože násilím, potencovaným právnickými fígly, zradili za kvartýr, který jim panstvo urážlivě ani pořádně nedalo – Tušlovi jsou už pryč, odepsáni, jako by zemřeli a hůře než to – už jsou proti nám na straně modrých nepřátel – sami zmodrali.
 
 Borek Trojan vztekle kopal do zaprášených jutových pytlů a místo mytí skákal bosý po studeném betonu, tady ani ta pitomá výlevka s kohoutkem není a tak jsme přišli i o snídani – náhle utkvěl pohledem na T-kusu hlavního domovního vodovodního potrubí u svých nohou, sehnul se k němu, rázně roztočil kolo bočního ventilu a z potrubí vytryskl mocný vodní proud, nahý Borek křepčil v tomto zjednaném si technickém dešti a otáčením kola libovolně jak Neptun manipuloval veškerým domovním vodstvem – když se v něm dosyta vykoupal a napil, v náhlém vnuknutí zavřel hlavní ventil a zbavil tak vody celý dům. Přejímám velení po dezertéru a velezrádci Tušlovi a od tohoto okamžiku vládnu vodě já. Hlásím: hlavního pramene dobyto.
@@ -153,7 +155,9 @@ Alex zmítající se Dášu pevně rafl (kombinace hlazení a násilí je způs
 
 Ťukání na okno se vystupňovalo do drnčení okenních skel, ale paní doktorka je už nevnímala.
 
-  
+</section>
+
+<section>
 
 Suna chodidla jako provazolezec po laně, pravou nohu patou těsně před špičku levé a levou sunout podle kotníku pravé a přenést na ni váhu těla, jakmile levá pata spočine pevně před pravou špičkou, chodil Borek Trojan s rukama rozpřaženýma jak anděl po kolejnicích svařených do tvaru X na podlaze své svobodárny ve druhém patře, hotová jóga a náramně to pomáhá soustředění (tyhle koleje půjdou se mnou do mých budoucích garsonek, bytů, apartmá a vil jak odřený psací stůl doprovodil Balzaca z podkroví až do jeho pařížského paláce), a v duchu počítal, že jde-li Zita denně průměrně dvakrát z domu ven a zvenčí domů, celkem tedy čtyři jednominutové trasy domovní vrata – Zitin byt v prvním patře, celkem tedy za den pouhé čtyři minuty Zitiny expozice – je to beznadějně málo pro kontaktáž dle Milana Kundery. Jak zvýšit tuto expoziční dobu nebo jak –
 
@@ -537,7 +541,9 @@ Zita se zamkla v sousedním pokoji a bílé dveře nehnutě strmí přede mnou
 
 Jak dlouho jsem tam stál, to se už nikdy nedovím, vím jen to, už jen vzpomínám – nebo se mi to jen zdálo? – že i tato bílá poslední branka se pohnula a pootevřela a mezi bílými dřevy se rozšířila temná skulina. A docela už šílený jsem mumlal ta šílenstvím vnuknutá slova A VYKONAT, ta příšerná a spíš než milencova slova – slova vrahova.
 
-  
+</section>
+
+<section>
 
 __Můj neobratný a prudký chlapče Má náhrado za syna Domorodče z horkého vnitrozemí Červený ďáble ze řvoucího ghetta Vtáhni už do mého modrého přístavu Šebestiáne, jakž jsem chtěla, aby se jmenoval můj syn Nikdy mi nic nedovolili Můj svatý ne na nebi, leč krásně můj tady dole na zemi Ústy Ti vytahám šípy z Tvého těla a celé celičké je zulíbám Můj kadete z kasáren v džungli Shoď už ty těžké boty Můj bosý řecký hochu Dovol mi třít Ti nohy svými vlasy Paní de Renal je Juliánovi líbala__
 
@@ -558,3 +564,5 @@ __Má katastrofo Má potopo__
 (Pokračování příště)
 
 LIDOVÉ HNUTÍ za osvobození Angoly (MPLA) oznámilo v Brazzavillu, že jeho jednotky zcela zničily přístav Benguela v jižní Angole. Partyzáni také vyhodili do vzduchu vojenský vlak naložený těžkými zbraněmi.
+
+</section>

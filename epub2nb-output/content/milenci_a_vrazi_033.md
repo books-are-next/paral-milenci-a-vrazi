@@ -3,6 +3,8 @@ title: Dobyvatelé
 contentType: prose
 ---
 
+<section>
+
 Ostře červené a ostře vybroušené nehty zaťaté do podušky a nad okrajem přikrývky číhající zelené oči za dlouhými prohnutými brvami, střehla Broňa Berková každé hnutí své nenáviděné – a nenávidící – spolubydlící (v dívčí svobodárně ve druhém patře domu čp. 2000) Jitky Traklové. U nás tady začíná každý den hned od rána bojem o koupelnu, o vařič, o nádobí, o místo… o místo tady jde celkově: pro ně se Jitka vdala za stejně mladého PhMr. Břeťu Trakla (z mužské svobodárny naproti přes chodbu), pro ně zlikvidovala naši tehdejší spolubydlící Maddu Serafinovou a nyní už se svým mužem likviduje mne, aby získala místo a postupně uchvátila celý pokoj pro sebe – ale to mám skočit z okna jen proto, že se té mrše podařilo se vdát?
 
 Jitka náhle odhodila cíp přikrývky a v téže vteřině dopadly její paty na koberec, rychlejší Broňa se však střelhbitě vymrštila o zlomek oné vteřiny dříve a již běžela do koupelny – já vím, mohla bych vstát prostě o čtvrt hodiny dřív, ale proč bych se kvůli té svini ani pořádně nevyspala? Však mně naschvál by vstávala třeba o hodinu dřív, i to už tady bylo – Broňa vběhla do koupelny, co nejhlučněji za sebou práskla dveřmi a zamkla se uvnitř na dva západy: teď si tady pobudu tak hodinku a naše Jitunka se dnes zase neumyje, tenhle měsíc vedu 14:8.
@@ -231,7 +233,9 @@ Byli jsme spolu v té chatě u řeky… od toho dne už mockrát.
 
 Knockout za knockoutem. Borek v mém objetí rudne, ztrácí dech až chroptí – nebere si toho příliš?… – ale on to _chce_ mít kruté – jako by se mnou spíše umíral, než se těšil… po milování leží jak zavražděný.
 
-  
+</section>
+
+<section>
 
 SINGAPURSKÝ SPORTOVNÍ POTÁPĚČ 37letý T. Buxton zabil po hodinovém boji u pobřeží západní Malajsie více než tři metry dlouhého a 182 kilogramy vážícího bílého žraloka. Nejdříve ho dvakrát postřelil podvodní puškou a nakonec mu zasadil smrtelnou ránu dýkou. Považuje se to za jeden z největších úlovků pod vodou v Asii.
 
@@ -258,7 +262,9 @@ _Matčinou smrtí a otcovým propuštěním z domovnictví pro sílící pijan
 
 __Za své první mimořádné prémie si Broňa zaplatila čtyřdenní zájezd do východního Berlína. První tři drahocenné dny uplynuly prohlížením únavných muzeí, až poslední den v Postupimi Broně vše vynahradil. Okouzlena procházela císařským sídlem Sanssouci v parku s jezírky a pavilony, Neuer Palais ji omráčil pyšnou ledově třpytnou nádherou svých sálů, za zády průvodce překročila červenou šňůru, dělící návštěvníky od nábytku císařů, a fascinována ryla svými dlouhými rudými nehty do hlubokých řezeb starého stříbrného dřeva.__
 
-  
+</section>
+
+<section>
 
 Připravena ke skoku střehla Jitka Traklová každé hnutí své nenáviděné – a nenávidící – spolubydlící, té bestie Broni Berkové, a jakmile se jí zazdálo, že Broňa zavírá oči, vyskočila Jitka z postele – sprostá Broňa se ovšem naschvál vyřítila do dveří dřív, aby zase okupovala koupelnu jen pro sebe… Takhle bydlet je už přece zoufalý –
 
@@ -464,13 +470,17 @@ _Jsme chytří a silní Máme hlad A umíme dobře počítat_
 
 __Dostanem co chcem My vyhrajem__
 
-  
+</section>
+
+<section>
 
 _NA USEDLOSTI Alfreda Flügela v Marktschorgastu přivedla čtyřletá kráva na svět telátka-čtyřčata. Jedno z telátek zahynulo. Jde skutečně o zoologickou senzaci. Přitom kráva „neměla mateřství vůbec plánováno“, leč veterinář se při umělém oplodňování spletl._
 
 NEJVÍCE DĚTÍ přivedla na svět Němka Bernarda Scheinbergerová, která zemřela v roce 1907 ve věku 56 let. Měla čtyřikrát čtyřčata, sedmkrát trojčata a šestnáctkrát dvojčata. Přivedla na svět 69 dětí. Její manžel ji přežil, znovu se oženil a v následujících dvaceti letech měl se svou druhou ženou dalších 18 dětí. V 77 letech měl kolem sebe 67 dosud žijících dětí.
 
-  
+</section>
+
+<section>
 
 begin integer i, j, count;
 
@@ -516,7 +526,9 @@ goto L2;
 
 L10: end program;
 
-  
+</section>
+
+<section>
 
 Opřen zády o zeď dílny, stranou slavícího davu, hleděl šéfmontér Stěpa lhostejně na konstrukci obrovité haly, kterou právě dokončil, „… abychom tedy znovu a lépe, poučeni chybami minulosti a rozvíjejíce moderní technologii, zvládli nejnáročnější úkoly ve službách našeho konečného cíle, osvobození člověka,“ kafral do mikrofonu bledej chlap, to bude asi ten jejich zdejší direktor, Trojan nebo jak se zas jmenuje, celej čas zalezlej a až teď si přišel lízat šlehačku, Stěpa si odplivl skrze zuby a nenávistně hleděl na shluk kolem řečnického pódia, vypasený úřednický krysy tady choděj v bílých pláštích jak apatykáři, šašci papíroví, celej den se válejí v kanclech, kde si dali namontovat už i ventilátory, chlastají kafe a kofolu s kusama ledu a nechají se obskakovat těmahle svýma kurvičkama ze školy, po šichtě je klátějí na stolech a nechají si za to proplácet přesčasy – Stěpova tvář bělela, jako by mu všecka krev stékala z obličeje a šíje dolů do těla, hleděl na skupinku smějících se děvčat v bílých pláštích a odhadoval, která pod svým pláštěm má jen podprsenku.
 
@@ -773,3 +785,5 @@ END END END
 _AŽ NYNÍ SE UKÁZALO, že sovětský kosmonaut Jurij Gagarin a americký kosmonaut Virgil Grissom pracovali před smrtí na rukopise knihy se stejným tématem – „Ani nejlepší stroj nemůže nahradit člověka“. Oba si vybrali jako důkaz stejný příklad z praxe Johna Glenna, kdy palubní přístroje udávaly falešné signály, a přesto Glenn dovedl loď k úspěšnému přistání._
 
 KŘEČKY CVIČILI američtí vědci Frank F. Babich, dr. Allan Jacobsen a Suzanne Bubashová. Když se zvířata naučila určitému úkolu, odňali jim vědci z mozku takzvanou ribonukleovou kyselinu (RNK) a vstříkli ji do mozku krysám. Potom učili krysy tomu, čemu se už předtím naučili křečci. „Očkované“ krysy se učily mnohem rychleji než krysy neočkované nebo ty, které dostaly dávku RNK od nevycvičených křečků. Z výsledku pokusu vyvodili vědci závěr, že snad bude jednou možno přenášet injekcemi nebo pilulkami obsah paměti z jednoho člověka na druhého.
+
+</section>

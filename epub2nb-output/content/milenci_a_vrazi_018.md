@@ -3,6 +3,8 @@ title: Obležení
 contentType: prose
 ---
 
+<section>
+
 Julda se pokřižoval na čele, na rtech a na prsou, dotkl se čelem podlahy pod oknem, vstal, přešel chodbu v druhém patře domu čp. 2000 a zaklepal na dveře protější svobodárny. Borek Trojan ležel s rukama za hlavou na svém kavalci a bosými chodidly objímal kolmou kovovou trubku vodovodního potrubí.
 
 „Paní doktorka Zíbrtová zde není?“ optal se Julda tiše.
@@ -227,13 +229,17 @@ Za dveřmi stál chlapec Roman Gráf a mlčel se sklopenýma očima. Do ticha n
 
 To ječel ten ubohý chlapec a vztekle dupal dolů po schodech, celý dům se jakoby rozevíral, slyšet pootevírání dveří, cítit zatajený dech naslouchajících, i pád jablka by teď všichni mohli zaslechnout, chlapec řval svou nenávist z plných plic a celý dům ji hltal jako už jediné nestvůrné ucho.
 
-  
+</section>
+
+<section>
 
 _ŠESTNÁCT LET ČEKAL pan Henry Damman ze Stuttgartu, jehož koníčkem je pěstování kaktusů, na svůj velký okamžik. 16. července letošního roku – hodinu před půlnocí – rozvily se pak konečně jeho tři kaktusy známé pod romantickým označením „Královna noci“. Pan Damman s rodinou, sousedé i odborníci se pak mohli několik hodin potěšit pohledem na krásné květy. K páté hodině ranní „královny“ zvadly. Tyto kaktusy zalévá pan Damman jen jednou za osm neděl, a to jedním náprstkem vody._
 
 JEDNA FIRMA na výrobu hudebních automatů v New Yorku nabízí zajímavý automat s návodem k použití: „Při vhození 5 dolarů rozbije automatické kladívko kteroukoli vámi označenou desku.“
 
-  
+</section>
+
+<section>
 
 No tak já tady bohužel pořád ještě jsem, abyste na mě nezapomněli – Roman Gráf, nejzbytečnější člověk na světě a ten kluk, co všem už jen překáží.
 
@@ -327,25 +333,35 @@ Fotřík doma spí a viditelně se bojí, aby mi zas nemusel mluvit do duše. T
 
 Procházel jsem se naší ulicí a s tmou vešel do domu, ještě nebylo moc pozdě. Starej Teo chrupal ve svým přízemí –
 
-  
+</section>
+
+<section>
 
 Prastarý Teo těžce slezl ze své hromady peřin a polštářů, nyní stojí u dveří vedoucích na schodiště a mlčky naslouchá.
 
 Čeká, co udělají lidé… nebo to už ví? Proč tedy slezl ze svých lůžkovin? Že by ještě doufal…
 
-  
+</section>
+
+<section>
 
 – a naproti v montércimře zvuky, který je líp neposlouchat –
 
-  
+</section>
+
+<section>
 
 „-o-ja-ja-, o-ja-ja-“ skučí Madda rozkoší a Olda se nad ní vzpíná na pažích, aby ji lépe viděl pod sebou, navíc si na to rozsvítil a ze sousedního kavalce je sleduje Stěpa na pokraji dalšího záchvatu.
 
-  
+</section>
+
+<section>
 
 – a tak stoupám po schodech a z našeho prvního patra smích a pobavené hlasy. Je čtvrtek, náš jour fixe, a naši s panem inženýrem Seckým a paní doktorkou Zíbrtovou hrají bridž. Trochu dupám, stane se něco? Samozřejmě se nestane nic. Co sám neudělám –
 
-  
+</section>
+
+<section>
 
 „Jeden kříž,“ licituje Zita Gráfová. „To jde Roman po schodech…“
 
@@ -365,7 +381,9 @@ Prastarý Teo těžce slezl ze své hromady peřin a polštářů, nyní stojí
 
 „Čtyři kříže,“ licituje Zita.
 
-  
+</section>
+
+<section>
 
 Druhé patro, místo činu. Dveře _mýho muže._ Z protějších dveří hlasy a hádka. Proč není pan inženýr Trojan dnes s paní Gráfovou? Ale to má hned několik příčin: paní Gráfová má dnes svůj jour fixe a tak pan inženýr Trojan využil volného odpoledne k načerpání nových pohlavních sil. Další příčina, ta nejpitomejší, je ten pitomej kluk Roman, kerej nám pořád překáží. Trochu dupám. Nikomu nic nevadí.
 
@@ -391,7 +409,9 @@ Klepu na dveře, _můj muž_ mi otevírá, vstupuji dovnitř – ta úžasná u
 
 Jdu blíž k _svýmu muži,_ musím přece přijít k němu docela blízko, když nemám revolver, jenom kratičkou kudličku, kterou do něho musím vrazit úplně celou… a možná několikrát – Nejhorší ze všeho jsou ty kroky přímo proti němu, když se na mě dívá a usmívá se… Kdyby byla třeba tma nebo já se k němu vplížil zezadu a nepozorovanej… MUSÍM NĚCO DĚLAT, beru jeho kufr do ruky, je poloprázdnej a mlátím s ním o stůl a řvu, řvu zoufale a ze všech sil, snad to někoho přiláká, ten můj řev, snad ještě někdo přijde, řvu co nejhlasitějc a na celej dům řvu – „Tohle že jsou všecky tvý věci?! Komu to chceš nakecat?! Dyť je to skoro prázdný!! Ale mě neobelžeš!! Lumpe!! Grázle!! Bachaři!!! Fízle!!! –“ –
 
-  
+</section>
+
+<section>
 
 Nad kolejemi v bývalé dívčí svobodárně ve druhém patře sedí tři muži na dvou kavalcích a už druhou hodinu se handrkují o tento prostor.
 
@@ -419,7 +439,9 @@ A Borek vstal, leč Alex ho strhl zas zpátky na kavalec. „Asi se tam schyluj
 
 „Přišla by docela vhod nějaká větší mela,“ šeptá Bogan, „vyrazili bychom Juldu i s tou děvkou, vy byste šli místo nich – copak oni nebydlí v bývalé mužské svobodárně? – a tady se zas obnoví právo a rozhodnutí vedení…“
 
-  
+</section>
+
+<section>
 
 – řvu pořád víc, už zoufale, už víc to nejde… A už chápu, že v tomhle domě se nestane už nic, co já sám neudělám.
 
@@ -429,7 +451,9 @@ A tak děkan, _můj muži,_ tohle je právě ta potřebná forsáž, vrazím ti
 
 A náhle Julda Serafin vstává, obrací se ke mně zády, už nevidím ty jeho strašný tři oči, už koukám po něm níž, _můj muž_ si pod oknem kleká a ruce dává před sebe pryč, k jeho ledvině už mám jen dva metry, už jen dva kroky a předpažit, teď už dokážu všecko, jsem silnej a statečnej, už nad vším, už jako bůh jen s hvězdama –
 
-  
+</section>
+
+<section>
 
 __Pane, smiluj se nad nimi, neboť nevědí co činí__
 
@@ -449,11 +473,15 @@ __Per eum, cum eo, in eo omnia Svou agonii vám všem__
 
 JEDENADVACETILETÝ obyvatel Tokia usmrtil svého stejně starého spoluobčana, protože ho nechal dlouho čekat před telefonní budkou. Hovor trval 20 minut a tento nápor nervy mladého pachatele nevydržely.
 
-  
+</section>
+
+<section>
 
 „Myslím, že zakrátko dosvědčíme pěknou vraždičku,“ ušklíbl se Alex, když domem zazněl první skřek, „a za pár dní se budem stěhovat do lepšího…,“ a chutě se zakousl do bloku uzeného. Bogan s Borkem na sebe mlčky hleděli a ve zracích obou mladých mužů se zrcadlilo napjaté soustředění.
 
-  
+</section>
+
+<section>
 
 Bridžová společnost z prvního patra se trousila na chodbu. Zita horečně mumlá chlapecké jméno.
 
@@ -463,10 +491,16 @@ Bridžová společnost z prvního patra se trousila na chodbu. Zita horečně m
 
 „Neměli bychom napřed telefonovat policii?“ řekl Frank Secký a především dopil sklenku courvoisier V. S. O. P., o němž reklama tvrdí, že jej pil císař Napoleon.
 
-  
+</section>
+
+<section>
 
 „-o-ja-ja- o-ja-ja- o-ja-ja!“ kňučela Madda, svíjela se, „JOU! JOU! JOU!“ Na svém kavalci vyl Stěpa v novém záchvatu. A dole v přízemí opustil prastarý Teo dveře na schodiště a namáhavě lezl zpátky na svou hromadu lůžkovin až vysoko ke stropu. Může tak starý muž ještě plakat?
 
-  
+</section>
+
+<section>
 
 SRNEC ZABIL SEDM LIDÍ. Na silnici mezi Landsbergem a Schongauem v Bavorsku se srazil západoněmecký osobní vůz se srncem a dostal smyk. Auto, které jelo za ním, na něj v plné rychlosti najelo. Na místě bylo šest ze sedmi lidí z obou vozidel mrtvých, sedmý zemřel ještě před odvozem do nemocnice.
+
+</section>

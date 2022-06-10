@@ -3,6 +3,8 @@ title: Obležení
 contentType: prose
 ---
 
+<section>
+
 Vše ztratilo svůj smysl. Mýdlo už jen studí. Křeslo zas pálí. Jsem vajgl dokouřené cigarety, kolečko vychladlého popela na vyplivnutém ocucaném žmolku. Lampa v městě s bombardovanou elektrárnou. Zkyslé těsto. Masný odpadek. Vinný rmut – ale to si už příliš lichotíš, ma chère. Spíš lógr necudné epizodky maloměstské paničky. Zkrátka: konec. _Jsem už moc stará,_ víte?
 
 Zita Gráfová si zuby otevřela další láhev bílého kubánského rumu Ronda a žíznivě se napila. Julián Borek mě přišel už jen zastřelit. Já ho taky zabila: zkojila jsem jeho lásku i jeho nenávist. Mrtvý střelec a oběť živá… ale to se dá snadno napravit. Teď už jen: jak? Plynem? Evžen nikdy neměl revolver, já bych z něj neuměla vystřelit. Sešlosti věkem mi teď každou hodinu přibývá sice rok, jenže já těch hodin už moc nevydržím.
@@ -57,8 +59,12 @@ Provlečením konce řemene kovovou přezkou upravila si Zita smyčku a volným
 
 Zita Gráfová se pokřižovala, pohlédla ke stropu a prudce odkopla opěradlo. Samozřejmě nevzlétla. Zůstala viset za krk.
 
-  
+</section>
+
+<section>
 
 _JEDEN ZE 78 KANDIDÁTŮ SMRTI z věznice San Quentino v San Francisku, odsouzený k smrti pro loupežné přepadení spojené s vraždou v roce 1965, si podal stížnost k Nejvyššímu soudu Kalifornie, protože poprava nebyla ještě provedena. Čekání na smrt je prý krutějším trestem než poprava, míní sedmadvacetiletý odsouzenec._
 
 51LETÝ Američan ze Seattlu obětoval život pro své dvě děti, s nimiž byl na společné horské túře. V horách byli překvapeni sněhovou bouří provázenou náhlým poklesem teploty. Otec obě děti zabalil do svého těžkého pláště a skryl je v malé jeskyňce, jejíž vchod zatarasil svým tělem, a tak děti chránil před ledovým větrem. Vydržel tak několik hodin, než přišla záchranná horská služba. Našla jej už zmrzlého, ale děti byly celkem v pořádku.
+
+</section>

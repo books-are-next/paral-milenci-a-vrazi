@@ -3,6 +3,8 @@ title: Dobyvatelé
 contentType: prose
 ---
 
+<section>
+
 Bílými dveřmi ze Zitiny ložnice a nechat za sebou otevřenu nejvnitřnější hradní bránu, teď už ji před námi nikdo nezavře, dobyli jsme klíče od přístavu a od samé přístavní tvrze – Borek Trojan nahý (vítězné uniformě úctu!) prošel zvolna chodbou kolem kořenáčů s filodendrony a palmami a vkročil do koupelny bytu v prvním patře, napustil si vanu teplou vodou a spustil se do ní jako uchvatitel do trůnu padlé říše. Hlásím: přístavu dobyto.
 
 „Neutop se mi tam, miláčku –“ šeptá padlá císařovna Zita a klepe ZEVNĚ na NAŠE dveře koupacího salonu, „… nemáš hlad?“
@@ -101,6 +103,10 @@ S rukama pod hlavou ležím na kavalci a bosá Zita překračuje kolejnici na 
 
 Odhazuji nedojezené dobytčí maso a odstrkuji nedopité víno, co ještě, more thrilling, se nám může nabídnout, vztahuji ruku na padlou císařovnu, jakpak by asi hořela, chceš být bita? Dostane se ti toho. Což nečíhá za láskou zášť?
 
-  
+</section>
+
+<section>
 
 BÍLÝ OREL, jeden z největších a nejvzácnějších lesních dravců, se uhnízdil v samém srdci polského štětínského přístavu. Živí se rybami z Odry, žije úplně sám a naprosto ignoruje zvuky lodních sirén.
+
+</section>

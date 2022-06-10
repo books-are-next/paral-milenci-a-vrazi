@@ -3,8 +3,6 @@ title: Dobyvatelé
 contentType: prose
 ---
 
-  
-
 Bílými dveřmi ze Zitiny ložnice a nechat za sebou otevřenu nejvnitřnější hradní bránu, teď už ji před námi nikdo nezavře, dobyli jsme klíče od přístavu a od samé přístavní tvrze – Borek Trojan nahý (vítězné uniformě úctu!) prošel zvolna chodbou kolem kořenáčů s filodendrony a palmami a vkročil do koupelny bytu v prvním patře, napustil si vanu teplou vodou a spustil se do ní jako uchvatitel do trůnu padlé říše. Hlásím: přístavu dobyto.
 
 „Neutop se mi tam, miláčku –“ šeptá padlá císařovna Zita a klepe ZEVNĚ na NAŠE dveře koupacího salonu, „… nemáš hlad?“

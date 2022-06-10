@@ -3,8 +3,6 @@ title: Obležení
 contentType: prose
 ---
 
-  
-
 Na noční ulici, kde se návěje prachu mrtvě světlaly pod černou hradbou domu, vystoupila Yveta Trojanová z taxíku a vlekla se po schodišti, postála chvíli na schodu před svým prvním patrem, tak tady jsme teď mohli sedět spolu a líbat se na dobrou noc…
 
 Malátně vrazila do svých bílých dveří, na prahu odkopala střevíčky a bez zřejmého záměru prošla chodbou, kuchyní a jídelnou, za sklem příborníku se zaleskly láhve, Yveta odzátkovala zuby taťkův courvoisier a zhluboka se napila, to jen abych dostala chuť na kouření, a zapálila si taťkovu cigaretu Kent, první dneska večer, protože Dominikovi se holky s cigaretou nelíbí. Dominik má studenej čumák a kruté usvědčující oči, proč mermomocí musí vidět všemu až do střev, tihle lidi se prostě neumějí bavit, baví se akorát tím, že jsou zlí… Dominik pro sebe hledá holku, jako se asi kupují koně, vjede jí prsty do zubů a ohmatá stehna, jestli ten kůň bude dobrej tahoun, až si ho zapřáhne do svý káry a budou spolu vedle sebe slintat na náhubek, kapat pot na oj a táhnout a táhnout, až padnou a zcepení –
@@ -534,23 +532,19 @@ Prostě se mi zachtělo odpočinku, květin, vína, lásky a hudby… Zemřu ve
 
 Well, well, well. Dokonale se zničit… nebude to aspoň zábavné? ASI JAK KDYŽ POJDE VYKOPNUTÝ PES.
 
+  
+
 _NA ZASEDÁNÍ britské společnosti pro bezpečný provoz na silnicích stojí před řečnickou tribunou světelný semafor. Řečník začne mluvit, jakmile se objeví zelené světlo. Žluté světlo mu připomene, že by už měl svou řeč ukončit. Červené mu ohlašuje, že čas vymezený pro jeho řeč uplynul._
 
 _HŘBITOVNÍ KLUB existuje ve Vídni. Jeho členové mají právo na velkém území Ústředního vídeňského hřbitova, kde odpočívají Beethoven, Brahms, Schubert a otec a syn Straussovi, lovit koroptve a bažanty._
-
-  
 
 HOTEL HOŘEL JEDNÍM PLAMENEM a jeho hosté stáli shromážděni před ním. „Jen se nikdy ničím nerozčilovat,“ povídá jeden host, „Já jsem se v klidu oblékl, zapálil jsem si cigaretu, pak se mi ještě nelíbil uzel na kravatě, proto jsem si ji uvázal ještě jednou. Tak jsem chladnokrevný.“
 
 „Skutečně?“ poznamenal jeden divák, „ale proč jste si neoblékl kalhoty?“
 
-  
-
 _KILOGRAM ŽELEZA, proměněný v rez, váží tři kilogramy._
 
 _HLOUBKOVÉ VRTY LEDOVÉ POKRÝVKY skončila nedávno americká vědecká expozice v Antarktidě. Jak se ukázalo, led má sílu 2,5 km. První výzkumy skal pod ledovou pokrývkou ukázaly, že v Antarktidě byly kdysi sopky._
-
-  
 
 ITALSKÁ VOJENSKÁ SPRÁVA oznámila Xaveriovi Strusimu, italskému vojákovi z první světové války bydlícímu v městečku Massfrabei, že mu nebude vyplácen jeho důchod ve výši našich asi 150 korun do té doby, dokud nenahradí vojenský kabát, který ztratil v první světové válce.
 
@@ -657,9 +651,9 @@ Pláču stále víc. Takhle jsem snad ještě nebrečela. Zdvihá se ve mně tě
 
 Můj muž horlivě přitakává, líbá mi ruce a já mu vjíždím prsty do jeho vlasů. Jsou už prokvetlé, ale teplé a husté jako tenkrát… I tak krátké, jako uťaté.
 
-_Z KOPULE CIRKUSU SE ZŘÍTILA v březnu letošního roku artistka Marie Sonntagová. Duchapřítomně provedla při pádu ještě salto, které zmírnilo náraz. Tři měsíce ležela nehybně s několika zlomeninami nohou a poraněním páteře a pak začala znovu usilovně trénovat. 15. července vystoupila poprvé v programu. Chodí o berlích, při vystoupení má v očích slzy bolesti, leč obecenstvo nic z toho nepozoruje – své číslo předvádí bez chyby._
-
   
+
+_Z KOPULE CIRKUSU SE ZŘÍTILA v březnu letošního roku artistka Marie Sonntagová. Duchapřítomně provedla při pádu ještě salto, které zmírnilo náraz. Tři měsíce ležela nehybně s několika zlomeninami nohou a poraněním páteře a pak začala znovu usilovně trénovat. 15. července vystoupila poprvé v programu. Chodí o berlích, při vystoupení má v očích slzy bolesti, leč obecenstvo nic z toho nepozoruje – své číslo předvádí bez chyby._
 
 NA BLEŠÍM TRHU v roce 1933 koupil Angličan Robert Savage, obchodník s rámy, v Northamptonu za necelou libru šterlinků hezký rám s obrazem. Rám vyleštil, prodal se značným ziskem a obraz uložil do kouta. Po 33 letech se zjistilo, že je to Rubensovo arcidílo Paridův soud, které se až dosud považovalo za ztracené. Znalci tvrdí, že bude vydražen v Londýně nejméně za 250 000 dolarů. Dvaaosmdesátiletá vdova po Robertu Savageovi (nynější majitelka obrazu) sdělila, že její muž Robert vždycky říkal, že je to docela dobrý obraz.
 
@@ -669,6 +663,8 @@ _A slovo tělem učiněno jest
 a přebývalo mezi námi_
 
 — _Ev. Sv. Jana_ 1, 14
+
+  
 
 _Dům čp. 2000 si časem zvykl na pomyšlení, že Iša, Teův syn, by konečně případně mohl být i bůh, ačkoliv to přece nejde – v každém případě však šířící se pověst o jeho podivných činech, z nichž některé by bylo lze s maximem dobré vůle nazvat zázraky, budila touhu využít prakticky nového nájemníka z přízemí._
 

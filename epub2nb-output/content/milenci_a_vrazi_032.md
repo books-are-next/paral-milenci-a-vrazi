@@ -3,13 +3,9 @@ title: Dobyvatelé
 contentType: prose
 ---
 
-  
-
 Červený budíček z plastiku zněl na své rezonanční desce (na kruhovém sedadle židle) a Jana Rybářová se rychle probírala k vědomí, čeká nás důležitý den, ale copak nějaký den není důležitý? – a Jana zahájila ostrou rozcvičku vypínáním břišních svalů („Holky, budete mít břicha, že po vás budou kluci šílet –“ smála se tělocvikářka na průmyslovce, když tohle učila zrudlé žákyně na ripstolu) a Jana zrudla, až Borek uvidí výsledek mého cvičení… Kdy to už bude? – a aby rozptýlila náhlý zmatek těla, začala rázně s kliky, udělala jich celkem šestadvacet, zas o jeden víc – pak se opatrně ohlédla, zda Madda ještě spí, a protože tomu tak bylo, pátravě si přejížděla svým čtverhranným kapesním zrcátkem podél těla, pleť na zadních stranách stehen stále drsná, krém nepomohl, Jana si potřela zadní strany stehen pálícím tříprocentním salicylovým lihem (pro nebezpečí keratolýzy ordinují lékaři nejvýš dvouprocentní), který si sama namíchala v laboratoři, snad to ještě zavčas zmizí vysušením, a pak si nanesla špetku bílé vazelíny na konečky ňader, aby zvláčněly. Až je bude líbat – –
 
 Oblečená Jana pak seděla na židli těsně u dveří na chodbu a se zatajeným dechem čekala, až Borek z protějších dveří vyjde do práce. Borek je teď špatný, jakoby těžce nemocen, jako by ho ta stará čarodějnice Gráfová poutala ještě i po své smrti, snad dokonce ještě víc, než když byla naživu, tehdy sem Borek přece docházel a tenkrát v sodíkárně – –
-
-  
 
 Smrtí čarodějnice se rázem změnil, od toho dne je jakoby z jiného světa, nesmírně znaven, vyčerpán a bledý… a vyhýbá se mi, i očima. Už se mě nepokouší chytat a líbat… Však já zlomím to záhrobní kouzlo mrtvé čarodějnice… vždyť všecky dobré mocnosti jsou na mé straně.
 
@@ -145,14 +141,10 @@ _Smíš všecko Udělej mi dítě Teď už jsi můj muž_
 
 (Pokračování příště)
 
-  
-
 TŘI SESTRY WILLIAMSOVY jsou v celém městě Waterwillu (USA) známé jako energické dívky. Vdaly se také všechny najednou a při svatebním obřadu ukázaly svým ženichům manželský program: pěst, váleček na těsto a vězeňský řetěz se železnou koulí.
 
 MUŽ A ŽENA  
 **(Kapesní přehled 20 let jednoho manželství)**
-
-  
 
 Nazí a po kolena v moři, zády k evropské pevnině, se spojenýma rukama hleděli Borek a Jana k severu, kde za zářným vodním horizontem lze tušit Švédsko… pak se otočili a vystoupili zpět na písečnou pláž _Nacktbadestrandu_. Dovolená novomanželů Trojanových ve východoněmeckém letním táboře na Baltu skončila. Celý rok budeme šetřit a příští léto už určitě pojedeme do Švédska…
 
@@ -270,17 +262,15 @@ Oslavili jsme Yvetinu zletilost (dort s osmnácti svíčkami, bílé růže, se
 
 Nejkrásnější měsíc rokuje říjen. Jsme spolu sami celý den v Krušných horách. Horské louky… milovali jsme je oba. Slunce stoupá z trávy. Je jak kovová, na špičkách rudá jak spálená krvavým větrem. Nechali jsme vůz stát a šli dobrou hodinu pěšky. Utrmáceni a opilí pozdním sluncem… Ve vyhlídkové restauraci Komáří vížka ledový džus s ananasem. A doma hned, ještě před osprchováním, gin z velkých sklenic. Při něm jsme vyjedli celou spíž – zítra ráno nám bude hrozně. Ale to jen proto, abychom přehlušili ten smutek… smutek však křičí stále hlasitěji. Zardousit jej… on zardousí nás. Do gramočenžru až po vrch zběsilý beat. Po nekonečně dlouhé době chceme být zas jednou spolu… To z lásky, z potřeby nebo ze zoufalství? Blížíme se k sobě: dva truchliví zápasníci těžké váhy vstupují ještě jednou do ringu. O nic tu však nejde. Výsledek předem domluven: prohrajem oba. A zítra budem ležet celý den jak zabití _(20. rok manželství)._ Poslední vzrušení: dokonale se zničit.
 
+  
+
 _TRŠICKÝ ZAHRADNÍK Julius Mück vypěstoval trojbarevnou růži. Zpočátku kvete žlutě, později růžově a ke konci tmavočerveně._
 
 _JAKÝ MÁME VLASTNĚ ROK? My píšeme 1968, v Indii rok 2511 podle buddhistické éry a rok 2495 podle Džajnové éry. V Iráku mají v kalendáři rok 1388 a v Etiopii 1961. V Japonsku mají teprve rok 43 a v Izraeli již 5729._
 
-  
-
 ZA GRAM RŮŽOVÉHO OLEJE se na světovém trhu platí jeden a čtvrt gramu zlata, takže Bulhaři nadarmo neříkají, že růže je nad zlato. Pro zajímavost: gram růžového oleje se vyrobí asi ze dvou tisíc okvětních lístků růže. Bulharsko tento olej vyváží do řady států, především do Francie, jejíž kosmetický průmysl by se bez této vzácné suroviny neobešel.
 
 LET’S MAKE LOVE NOT WAR
-
-  
 
 Modrý renault s plyšovým tygrem na zadním okénku prudce zabrzdil na továrním nádvoří Kotexu. Manželé Borek a Jana Trojanovi přijeli s dcerou Yvetou a sousedkou z domu čp. 2000 slečnou Broňou Berkovou na večerní podnikovou výroční slavnost v závodní jídelně. Dvířka auta bouchala a čtveřice ve veselém hovoru kráčela k ozářeným girlandám nad vchodem. Plyšový tygr v zamčeném autě ospale vyhlížel za sklem.
 

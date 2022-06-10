@@ -3,8 +3,6 @@ title: Obležení
 contentType: prose
 ---
 
-  
-
 Ve smyčce na konečné vystoupil Borek Trojan z městského autobusu č. 12 a zvolna scházel ze svahu, překřížil asfaltku, brodil se spadlým listím v trávě, došel k vilce ve velké zahradě, odemkl si zahradní branku a pak lakované modřínové dveře pod kovanou lucernou.
 
 Chodím čtyřmi pokoji. Beru si z ledničky kousek šunky a nedojezený jej odhazuji. Doušek vodky přímo z lahve, snad obnoví chuť k jídlu. Žlutý pokoj nemám rád. Zita chce, abychom v něm bydleli. V pánském pokoji je tma už celý den. Kožené tapety by se měly na zimu sundávat – to je už zima? Nejvíce sedávám v pokoji s velikým oknem na zahradu a k řece. Se sklenkou koňaku. Řeku už nevidět. Teče tam ještě? Nutno přiložit do krbu.
@@ -238,10 +236,6 @@ Uslyší to Zita při tom děsném randálu z chodby? Propustí tento běsníc�
   
 
 „MU“ je jednotka v Indii, stará již dva tisíce let. Označuje vzdálenost, na jakou je ještě slyšet bučení krávy.
-
-  
-
-  
 
 DROGU, KTERÁ UDRŽÍ RYBU NAŽIVU bez vody, vyvinul britský ichtyolog Tom Rayensdale. Přípravek s názvem „Propoxate“ se rozpustí ve vodě, v níž jsou ryby. Ty nejprve ztrácejí stabilitu a pak vypadají jako leklé. V tomto stavu je lze dopravovat bez vody v kontejneru. Po vložení do čerstvé vody opět oživnou.
 
@@ -540,8 +534,6 @@ Jana odchází a zavírá přede mnou dveře. Zamknout se však tyto dveře ned
 „Já už jdu…“ (a ve dveřích:) „… budu si vás teď představovat… kdykoliv se mi zachce –“
 
 Hodila po mně tenisku. Smál jsem se. Kdy naposledy? Jana je velice mladá. Proč velice? Přiměřeně mladá. Scházím po schodech dolů. Ještě v prvním patře se snažím uchovat si vůni žehlení, tu vůni ženské čistoty a něčeho jako… domova.
-
-  
 
 Zita seděla na kraji pohovky v pokoji s velikým oknem do zahrady a přestala se už dívat na hodinky.
 

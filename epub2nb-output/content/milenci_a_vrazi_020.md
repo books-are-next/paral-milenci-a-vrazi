@@ -3,8 +3,6 @@ title: Dobyvatelé
 contentType: prose
 ---
 
-  
-
 Ještě než červený budíček z plastiku dozněl na své rezonanční desce (na kruhovém sedadle jediné židle v montércimře) stála Jana Rybářová u okna a natáčela tvář vzhůru, aby v ranní mlze viděla sám vrchlík nebeské polokoule, a když se jí zazdálo, že slibuje modř, zaradovala se: bude krásný den! A protože laciný budíček zvonil dnes pro změnu zas o čtrnáct minut dříve (včera o jedenáct minut později, stál šedesát korun a to jsou pro mne velké peníze), postávala Jana u okna a v jitřním chladu si tiskla přeložené paže k tělu v noční bavlněné košilce (po mamince: ač sterým praním zprůsvitněla a srazila se o dobrou čtvrtinu, sahala pořád hluboko pod kolena), vzhlížela vzhůru a radovala se, že bude krásný den. Spolubydlící Madda Serafinová měla ještě půlnoc.
 
 Jana rozhodila své lůžkoviny (tj. nepovlečenou svědivou houni s podezřelými tvrdými skvrnami, směšně krátké prostěradlo protýkané spinkami ze slamníku plněného senem a polštářek jak pro pejska před boudu), aby vyvětraly, a na sousedním prázdném kavalci (žijeme si zde luxusně: pro dvě holky pět kavalců!) začala ostrou rozcvičku vypínáním břišních svalů („Holky, budete mít břicha, že po vás budou kluci šílet –“ smála se tělocvikářka na průmyslovce, když tohle učila zrudlé žákyně na ripstolu) a po bohaté sestavě cviků všestranně rozvíjejících svalstvo celého těla končila dvacítkou kliků na podlaze, dvacítkou poctivou a tvrdou, dvacetkrát s napjatým tělem dolů až po dotek konečků prsů se zemí, Jana udělala kliků třiadvacet a z posledních sil výskokem do vzpažení, těžce oddychující, zrudlá, zbrocená potem a šťastná, že jich svede už třiadvacet, je nádherný být mladá zdravá holka, Jana roztočila kohoutek naplno a nastavovala tvrdě tryskajícímu vodnímu kuželi tvář, ramena, ňadra (ráda, že Madda dosud spí, neboť Jana se styděla mýt se před družkou nahá) a hltavě chlemtala, až pocit hladu poněkud zeslábl, oblékla se, postavila plechový hrneček mléka na vařič a budila Maddu.
@@ -233,15 +231,13 @@ U svých ochránců. Což to není hlavní úkol mužů? Žena má za něj toli
 
 Není mi dosud dvacet, ale muže už asi opravdu potřebuji. Zasloužím si ho. Mám na něho právo. CHCI HO – a tak ho budu mít.
 
-_WILLIAM TUBMAN, dvaasedmdesátiletý prezident africké republiky Libérie, vysvětloval nedávno v Monrovii novinářům důvody studentského neklidu v Evropě: „Evropské děti jsou od mládí živeny kravským mlékem. To v nich rozvíjí jakýsi kravský instinkt, jenž se jednoho dne promění ve zvířecí zlobu. Ta je ovládá v době studií.“_
-
   
+
+_WILLIAM TUBMAN, dvaasedmdesátiletý prezident africké republiky Libérie, vysvětloval nedávno v Monrovii novinářům důvody studentského neklidu v Evropě: „Evropské děti jsou od mládí živeny kravským mlékem. To v nich rozvíjí jakýsi kravský instinkt, jenž se jednoho dne promění ve zvířecí zlobu. Ta je ovládá v době studií.“_
 
 V JEDNÉ AMERICKÉ NEMOCNICI se svobodné sestry horlivě snažily získat pozornost mladých lékařů, kteří byli jejich vynalézavostí brzy unaveni. Jeden lékař se vracel po osmnáctihodinové službě pozdě v noci domů. Pod stěračem svého vozu našel lístek: „Jmenuji se Julie Andersenová. Zavolejte mi na číslo 4939975.“
 
 Nevšímavě lístek roztrhal a zahodil. Teprve druhý den ráno si všiml, že pravá strana jeho vozu je téměř demolována nárazem.
-
-  
 
 V MĚSTEČKU COLUMBUS v USA se připravovala velká svatba. Pozvaní hosté v poslední minutě dostali od nevěsty telegram, v němž je žádala, aby si na svatebním oznámení škrtli jméno ženicha Cliff Gardena a vepsali si místo něho Hugha Barnese. Dále telegram oznamoval, že místo a datum sňatku zůstává v platnosti.
 

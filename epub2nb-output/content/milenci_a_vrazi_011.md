@@ -3,8 +3,6 @@ title: Dobyvatelé
 contentType: prose
 ---
 
-  
-
 Tož já si teda taky něco vydobudu z týhle chvilky, která se teď už asi protáhne, bejt ubohá voběť mi už zas nesedí a panenku na hraní vám teda dělat nebudu, co se dá dělat, když se nedá nic dělat a kousat umím jako vy a líp, su ségra Alexa Ďábla, seš mi z duše vodpornej, tlustej Valtříku a svedeš se jen vytahovat, Borek zas hned aut, potřeboval bys napřed s ženskou asi tak dvouletý zajíždění, onánku, Stěpa je ubohý zlý zvíře a Olda, Olda… „Oldo… Oldo… Oldo – – o-ja-ja! o-ja-ja! o-ja-ja! JOU! – –“
 
 A najednou jsem to poprvé v životě měla, ďábel Olda mi to udělal. Poprvé až v devatenácti – to je šílený: co teda bylo to všecko předtím – „… Oldo… Olinku… Oldříšku…“ – a to modrý blues? To asi musí zůstat muzikou… nebo se mi to jen zdálo.
@@ -284,7 +282,5 @@ Z chvilky bylo posléze šestačtyřicet minut, když se Boganovi otevřely dve
 A s ocelovým šípem skrytým v nohavici kulhal Bogan Tušl šerem chodby Bílého domu (noha neohebná jak po těžkém zranění) a v duši jásal, MÁME BYT, svůj byt docela jen pro sebe a pro naše maličké, co už brzo přijde, budeme mít každý svůj pokoj, _po_ _obědě na balkoně koňak Budeme se scházet v jídelně a zas se rozejdeme U okna čekám s cigaretou, zda dnes přijde má milenka_ a už klepe, s mou ženou v mém bytě, máme byt, máme byt, máme byt, BYT-PRO-TUŠLA… už je!! Mám byt… a za dva roky budu náměstek, život je nádherný, zázraky se dějí, mám byt – a světlé obdélníky skleněných výplní čtyřiceti kancelářských dveří se vyklenuly do vrchlíku nebe a hvězdičky nasedaly na tu novou galaxii a s dětským jásotem sjížděly Boganovi do klína.
 
 (Pokračování příště)
-
-  
 
 ZLOSTNĚ ODPLIVUJÍ staří šejkové na poušti před mladými muži svého kmene. Náčelníci Beduínů už nerozumějí světu, neboť mladí nechtějí žít ve stanech, chtějí se stěhovat do obytných domů. První sídliště Beduínů se zahradami vzniká v Tel Beerscheba v negevské poušti. Mladí totiž říkají: „Černý stan z kozí kůže je špatná ochrana před letním horkem a studenými větry; kromě toho je to nezdravé.“

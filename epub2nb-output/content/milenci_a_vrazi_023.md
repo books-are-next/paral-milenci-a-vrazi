@@ -3,8 +3,6 @@ title: Obležení
 contentType: prose
 ---
 
-  
-
 Zita Gráfová polkla librium a čekala, až začne zabírat. Zítra je svatého Mikuláše a tento večer jsme vždycky Romanovi – au au. Dohodli jsme se s Evženem, že o Mikuláši dnes ani nepromluvíme. Ale já stejně nemohu zapomenout na ty páté prosince, kdy jsme s Evženem v noci vstávali a bosí se plížili s naditou punčochou a talířem cukroví pokojem k oknu našeho spícího chlapce –
 
 Asi bych už měla zemřít. Už to stačilo. Borek jezdí k řece stále řidčeji. Chodím kolem vodovodní trubky: náš milostný telegraf se už odmlčel. Co dělá Borek, když hledí na tutéž trubku, jež vede až ke mně dolů? Proč mě aspoň nepohladí – francouzákem. Borek zřejmě doufá, že ignorováním našeho telegrafu se mu zdaří přijet na chatu k řece jiný den než já… leč já ho tam čekám každý den.

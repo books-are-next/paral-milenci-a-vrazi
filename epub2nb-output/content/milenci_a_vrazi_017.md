@@ -3,8 +3,6 @@ title: Dobyvatelé
 contentType: prose
 ---
 
-  
-
 „– JOU…,“ třeštící Madda otvírala oči, Olda plul v rudé mlze nad ní a v ní a najednou zmizel, „Oldo –“
 
 Olda už stál u okna zády k Maddě a kouřil parfémovanou cigaretu se zlatým náustkem.

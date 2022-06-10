@@ -91,19 +91,21 @@ GENERÁLNÍ UKÁJENÍ… 2000
 (Celodějinná 360° široká  
 řvavě barevná cirkoráma Panavision)
 
-  
-
 _Čerstvá červená krev z vnitrozemí a hor vždycky nakonec vtrhne do modrých měst v nížinách a bohatých přístavů Díky tomu se usínající dějepis zas pohne Jako když lokomotiva vrazí do soupravy spacích a jídelních vagonů Jako když muž milostně dobývá ženu_
 
 _Římani si žili jak prasata v žitě_ _Patricijská dáma si na kožešině připouští hezkého mladého otroka, jehož opomněl manžel senátor dát vykleštit_ _Až se to senátor doví, urychleně své opominutí napraví_ _Statkář si po obědě žene mladou otrokyni na travičku do stínu fíkovníku_ _Veselá společnost před orgií hoduje na lehátcích pod stropem, z něhož prší růže_ _Hory pečení_ _Pávi krmení jen ořechy a mandlemi na ostrově Chios_ _Murény živené otročím masem_ _Když už stolovník nemůže žrát, namočí si paví péro do oleje a vyzvracev se, usedá s obnoveným apetitem k dalšímu chodu_ _Toto je doba vrcholného rozkvětu věd a umění_ _A když někdo remcá, je ukřižován jako těch šest tisíc na Via Appia nebo ten židovský demagog v Jeruzalémě, po delším bičování samozřejmě a s trnovou korunou na hlavě_ _Dokud to takhle jde, je to prima_ _Leč ono to jde stále hůř_
 
 _Až to už není k dívání, naštvou se posléze strašně červení lidi shora z Evropy a vtrhnou do pádské nížiny A zapálí bílé přístavy Vjíždějí na koních do atrií vil Něžná dívka brnkající na lyru znásilněna vojáky Mladý básník ubit na schodišti chrámu A chudák starej Archimed propíchnut nad svou geometrií na písku Checheche_
 
+  
+
 __Až si bojovníci nacpou nácky a ukojí se, zmodrají Místo nových grifů s mečem vymýšlejí nové vzorky na parádní tkaniny Dcery barbarů si ostříhají nehty a zas už na něco brnkají Tím pádem samozřejmě potřebují služku Gotika není dvakrát pohodlná na bydlení Nakonec se zjistí, že Římani stavěli nejlíp, a v Římě už zas kvetou orgie v antickém stylu Na rožmberském dvoře se spotřebuje na hlavu čtyři kila masa denně, nepočítaje v to ryby a drůbež Jenže do renesančního salonu se dá nacpat málo zlata, a tak přichází barok Pak ještě zlatější rokoko Potomci germánských nájezdníků snídají párek holoubat, půl tuctu křepelek, osm kvíčal a víno se pije z litrových pohárů V Anglii se říká telecímu „veal“, kdežto teleti „calf“ a praseti „pig“, kdežto vepřovému „pork“, to proto, že jedni pouze pěstují prasata a telata v chlévech, kdežto druzí pouze jedí vepřové a telecí v zámeckých jídelnách Hladoví mají jiný jazyk než bohatí „Že lid má málo chleba?“ žasne královna Marie Antoinetta, „Nechť tedy jí koláče!“ Toto je doba vrcholného rozkvětu věd a umění A když někdo remcá jako ten atentátník na krále Ludvíka, je mu do hrdla nalito roztavené olovo a pak trhán čtyřmi koni Dokud to takhle jde, je to prima Leč ono to jde stále hůř__
 
   
 
 Perdidistis utilitatem calamitatis: ZTRATILI JSTE UŽITEK POHROMY
+
+  
 
 _Až to už není k dívání, naštvou se posléze strašně červení lidi z pařížských ghett, co se v životě nenajedli, a vtrhnou do paláců A useknou hlavu králi Ludvíkovi a krásné Marii Antoinettě Něžná dívka brnkající na spinet znásilněna revolucionáři Mladý estét popraven na náměstí A aristokraté patří na lucerny Checheche_
 
@@ -114,6 +116,8 @@ _Okresní maršálek šlechty si po snídani zajede na svůj statek, dá si na m
   
 
 Perdidistis utilitatem calamitatis: ZTRATILI JSTE UŽITEK POHROMY
+
+  
 
 _Až to už není k dívání, naštvou se posléze strašně červení lidi z petrohradských ghett a ruského vnitrozemí, co se v životě nenajedli, a vtrhnou do carova Zimního paláce i do venkovské šlechtické usedlosti v zapadlém michajlovském újezdu Carova rodina postřílena včetně pubertálních princezen a dětí Básník Osip Mandelštam zbit spoluvězni pro krádež z hladu prchá za dráty umřít do sněhu A hraběnky sázeny holým zadkem na rozžhavenou pec Checheche_
 

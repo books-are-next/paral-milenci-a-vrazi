@@ -3,8 +3,6 @@ title: Dobyvatelé
 contentType: prose
 ---
 
-  
-
 Vyrván spánku řinčením budíku, palčivou erekcí, svíravým hladem a žhnoucí žízní vymotával se Borek Trojan ze svědivých pytlů na betonové podlaze sklepa (jediné štěstí: hlouběji už klesnout nelze) domu čp. 2000, který je můj pořád MÍŇ a MÍŇ, v montércimře jsem přišel o postel a teď uvolněná slíbená svobodárna v druhém patře zcizena, Bogan Tušl se svou březí Jolanou nám ji sprostě ukradli, uloupili, protože násilím, potencovaným právnickými fígly, zradili za kvartýr, který jim panstvo urážlivě ani pořádně nedalo – Tušlovi jsou už pryč, odepsáni, jako by zemřeli a hůře než to – už jsou proti nám na straně modrých nepřátel – sami zmodrali.
 
 Borek Trojan vztekle kopal do zaprášených jutových pytlů a místo mytí skákal bosý po studeném betonu, tady ani ta pitomá výlevka s kohoutkem není a tak jsme přišli i o snídani – náhle utkvěl pohledem na T-kusu hlavního domovního vodovodního potrubí u svých nohou, sehnul se k němu, rázně roztočil kolo bočního ventilu a z potrubí vytryskl mocný vodní proud, nahý Borek křepčil v tomto zjednaném si technickém dešti a otáčením kola libovolně jak Neptun manipuloval veškerým domovním vodstvem – když se v něm dosyta vykoupal a napil, v náhlém vnuknutí zavřel hlavní ventil a zbavil tak vody celý dům. Přejímám velení po dezertéru a velezrádci Tušlovi a od tohoto okamžiku vládnu vodě já. Hlásím: hlavního pramene dobyto.
@@ -539,6 +537,8 @@ Zita se zamkla v sousedním pokoji a bílé dveře nehnutě strmí přede mnou
 
 Jak dlouho jsem tam stál, to se už nikdy nedovím, vím jen to, už jen vzpomínám – nebo se mi to jen zdálo? – že i tato bílá poslední branka se pohnula a pootevřela a mezi bílými dřevy se rozšířila temná skulina. A docela už šílený jsem mumlal ta šílenstvím vnuknutá slova A VYKONAT, ta příšerná a spíš než milencova slova – slova vrahova.
 
+  
+
 __Můj neobratný a prudký chlapče Má náhrado za syna Domorodče z horkého vnitrozemí Červený ďáble ze řvoucího ghetta Vtáhni už do mého modrého přístavu Šebestiáne, jakž jsem chtěla, aby se jmenoval můj syn Nikdy mi nic nedovolili Můj svatý ne na nebi, leč krásně můj tady dole na zemi Ústy Ti vytahám šípy z Tvého těla a celé celičké je zulíbám Můj kadete z kasáren v džungli Shoď už ty těžké boty Můj bosý řecký hochu Dovol mi třít Ti nohy svými vlasy Paní de Renal je Juliánovi líbala__
 
 __Chci Ti líbat kotníky Stojíš na bílém piedestalu jak něžná socha Madony Budu Ti říkat Bereniké Vidím totéž co Ty, modrý přístav nad modrou zátokou Vcházím doň za Tebou A spolu hudbu jak šepot lehounce zčeřeného moře__
@@ -556,7 +556,5 @@ __Lásko moje__
 __Má katastrofo Má potopo__
 
 (Pokračování příště)
-
-  
 
 LIDOVÉ HNUTÍ za osvobození Angoly (MPLA) oznámilo v Brazzavillu, že jeho jednotky zcela zničily přístav Benguela v jižní Angole. Partyzáni také vyhodili do vzduchu vojenský vlak naložený těžkými zbraněmi.

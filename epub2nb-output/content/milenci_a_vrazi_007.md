@@ -8,8 +8,6 @@ _Zrozen z nenávisti uspořádám
 
 — Michel de Chelderode
 
-  
-
 Vyrván spánku řinčením budíku, palčivou erekcí a krátkou ostrou bolestí při odtržení prostěradla pevně přischlého k tomu citlivému konečku těla doběhl Borek k výlevce na zdi a rychle zneklidněn prudkostí touhy svého těla (procitnuvší dříve než tělo samo) roztočil kohoutek naplno a nastavoval tvrdě tryskajícímu vodnímu kuželi tvář, ramena, prsa a hltavě chlemtal, až pocit hladu poněkud zeslábl. Nahý poskakoval (ručníky jsou jen pro mastňáky) v ranním nízkém a ostrém červnovém slunci a zalykal se bezdůvodnou, totální, tou zběsilou radostí, jež bere dech a svírá svalstvo křečí.
 
 Modrošedé kontury závodu, věž, stanice a haly, v jitřním oparu jak kotvící letadlová loď, velkolepá, poutavá a vzrušující technická hračka z kovu pro muže – činnost mladšího směnového technika v ceně Kčs 1082,– měsíčně zabírala inženýru Borkovi Trojanovi sice třetinu fyzikálního času, ale pouhé zlomky vitální energie. Co všechno by se tady dalo dělat –
@@ -171,8 +169,6 @@ Dívka se usmála první a pak zas. V bílých šatech a bílých střevíčk
 „Jak se jmenuješ?… Já jsem Borek. Borek Trojan. A ty?“
 
 „Ich? Inge. Ingeborg Boehm.“
-
-  
 
 _and Ingeborg Boehm, another German girl_… _blanc de blanc_
 
@@ -573,9 +569,9 @@ Madda vlezla pod houni, zavřela oči a přejížděla si dlaněmi po vlhkém t
 
 „Bude mi potěšením a národním svátkem,“ zašklebil se Alex, odkopl deku a vstal, „a za to?…“
 
-_NEČEKANĚ VE VĚZENÍ se octl britský plachtař Frank Rozen­kis, jehož větroň vinou vady v řízení se řítil proti vysoké zdi. V posledním okamžiku se plachtaři podařilo větroň zvednout, přenést se s ním přes zeď a přistát na dvoře za ní. Teprve potom zjistil, že se octl na nádvoří pověstného vězení v Dartmooru, odkud byl po nezbytných formalitách propuštěn._
-
   
+
+_NEČEKANĚ VE VĚZENÍ se octl britský plachtař Frank Rozen­kis, jehož větroň vinou vady v řízení se řítil proti vysoké zdi. V posledním okamžiku se plachtaři podařilo větroň zvednout, přenést se s ním přes zeď a přistát na dvoře za ní. Teprve potom zjistil, že se octl na nádvoří pověstného vězení v Dartmooru, odkud byl po nezbytných formalitách propuštěn._
 
 HŮŘ NEŽ TYGR řádil podle zprávy městské policie v Granadě ve Španělsku papoušek, který uletěl z klece na policejní stanici a usadil se na hlavní křižovatce města. Dokonale uměl napodobit zvuk policejní píšťalky a tím vnesl takový chaos do městské dopravy, že zakrátko byla křižovatka a všechny přilehlé ulice přecpány vozy a nadávajícími řidiči. Než se policistům podařilo papouška chytit, způsobil takový chaos na několika místech Granady.
 
@@ -910,6 +906,8 @@ Contemplor meliora proboque, deteriora sequor.
 
 „Ne. Ty seš ďábel.“
 
+  
+
 _Z krve, mléka a šťav Holčičích vzpomínek na vánoční koledy Ženského nářku v mokrém listí A lázeňských fontán Devastované země, vody a vzduchu Básniček z devítiletky Sirén revoluce A kvílení elmotorů, centrifug a beatu Tohle všecko je teď mý a dělat si s tím můžu, co se mi jen zamane_
 
 _Nesmíš Dost Prosím tě ne Už vážně dost Pěkně prosím Tohle ne Já moc chci hodně něžnou lásku Pavilony ze skla a z modrého kovu A v nich věčný prameny vody, která uzdravuje A tichou muziku, něco hodně cool a hodně slow A jezírko s barevnými světly pod vodou A labutě…_
@@ -930,11 +928,11 @@ _A my jeden druhého teď nádherně_
 
 („Proboha – – –“ vykřikl ve dveřích Julda Serafin vysokým hlasem.)
 
+  
+
 _ITALSKÝ HEREC Rinaldo Marezzi hostující v Turecku v Sha­kespea­rově hře „Romeo a Julie“ vykoupil v okolí divadla u zelinářů tři metráky shnilých rajčat. Na dotaz obchodníků, zda rajčata potřebuje na házení po Romeovi, odpověděl: Naopak, já sám jsem Romeo._
 
 _POKOJE LÁSKY. Součástí věznice v Ulriksforsu v severním Švédsku jsou jednoduše zařízené pokoje, kde se scházejí vězni se svými manželkami nebo snoubenkami. Správa věznice povoluje až týdenní společný pobyt._
-
-  
 
 V BOJI PROTI POTKANŮM je vlk nejlepším spojencem člověka. Tento názor zastává italský profesor Giovanni Fornaciari, jeden z největších současných zoologů. Podle něho na každý kus drůbeže, kterou vlk v drůbežárně roztrhá, připadá průměrně 300-400 potkanů, které za stejnou dobu zadáví. Proto se obyvatelé vysokohorské vesnice Fellicarolo v Apeninách rozhodli, že nebudou již vlky pronásledovat. Dokonce založili společnost na ochranu vlků. Vlčata, která zabloudí, vychovávají o láhvi mléka a před jejich puštěním na svobodu je očkují.
 
@@ -945,8 +943,6 @@ Zvenku z nádvoří bylo v okně plánovacího oddělení v prvním patře vi
 V okamžiku, kdy se z šera ve vratech protější haly vynořila malá postavička Schejbala (předseda závodní rady), vymrštil se Bogan ze svého křesílka, střelhbitě prolétl tmavou vlhkou chodbou správní budovy („Bílého domu“) a v prudkém žáru sluncem rozpáleného nádvoří se střemhlav vrhl na drobného mužíka.
 
 „… vždyť tak se už doopravdy přece nedá bydlet, jsme už z toho se ženou zoufalí a Jolana zas tuhle plakala, že by bylo nejlepší už skočit z okna –“ chrlil Bogan z několikacentimetrové vzdálenosti přímo do bledého obličeje nervózně mrkajícího předsedy a neustále zvyšoval hlas (dva kolemjdoucí k nim už otáčeli hlavy a žena táhnoucí kolem vozík se u nich zastavila s otevřenými ústy), „já vím, budem to muset znovu řešit…,“ breptal předseda a ustupoval krok za krokem dozadu,
-
-  
 
 „- vždyť už loni pátého října jste odhlasovali vyřízení do prvního dubna a dneska je dvanáctého června, přece jsem vám dal už dvě potvrzení, že Jolana je v jiném stavu, a tohle ji úplně ničí, když mohl dostat kvartýr Papoušek bez děcka a Ruml, který si hned pak koupil auto –“ útočil tvrdě Bogan, až předseda Schejbal prchl zpět do haly, z níž před chvilkou vyšel.
 

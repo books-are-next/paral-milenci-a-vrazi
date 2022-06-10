@@ -3,8 +3,6 @@ title: Dobyvatelé
 contentType: prose
 ---
 
-  
-
 Ostře červené a ostře vybroušené nehty zaťaté do podušky a nad okrajem přikrývky číhající zelené oči za dlouhými prohnutými brvami, střehla Broňa Berková každé hnutí své nenáviděné – a nenávidící – spolubydlící (v dívčí svobodárně ve druhém patře domu čp. 2000) Jitky Traklové. U nás tady začíná každý den hned od rána bojem o koupelnu, o vařič, o nádobí, o místo… o místo tady jde celkově: pro ně se Jitka vdala za stejně mladého PhMr. Břeťu Trakla (z mužské svobodárny naproti přes chodbu), pro ně zlikvidovala naši tehdejší spolubydlící Maddu Serafinovou a nyní už se svým mužem likviduje mne, aby získala místo a postupně uchvátila celý pokoj pro sebe – ale to mám skočit z okna jen proto, že se té mrše podařilo se vdát?
 
 Jitka náhle odhodila cíp přikrývky a v téže vteřině dopadly její paty na koberec, rychlejší Broňa se však střelhbitě vymrštila o zlomek oné vteřiny dříve a již běžela do koupelny – já vím, mohla bych vstát prostě o čtvrt hodiny dřív, ale proč bych se kvůli té svini ani pořádně nevyspala? Však mně naschvál by vstávala třeba o hodinu dřív, i to už tady bylo – Broňa vběhla do koupelny, co nejhlučněji za sebou práskla dveřmi a zamkla se uvnitř na dva západy: teď si tady pobudu tak hodinku a naše Jitunka se dnes zase neumyje, tenhle měsíc vedu 14:8.
@@ -466,9 +464,9 @@ _Jsme chytří a silní Máme hlad A umíme dobře počítat_
 
 __Dostanem co chcem My vyhrajem__
 
-_NA USEDLOSTI Alfreda Flügela v Marktschorgastu přivedla čtyřletá kráva na svět telátka-čtyřčata. Jedno z telátek zahynulo. Jde skutečně o zoologickou senzaci. Přitom kráva „neměla mateřství vůbec plánováno“, leč veterinář se při umělém oplodňování spletl._
-
   
+
+_NA USEDLOSTI Alfreda Flügela v Marktschorgastu přivedla čtyřletá kráva na svět telátka-čtyřčata. Jedno z telátek zahynulo. Jde skutečně o zoologickou senzaci. Přitom kráva „neměla mateřství vůbec plánováno“, leč veterinář se při umělém oplodňování spletl._
 
 NEJVÍCE DĚTÍ přivedla na svět Němka Bernarda Scheinbergerová, která zemřela v roce 1907 ve věku 56 let. Měla čtyřikrát čtyřčata, sedmkrát trojčata a šestnáctkrát dvojčata. Přivedla na svět 69 dětí. Její manžel ji přežil, znovu se oženil a v následujících dvaceti letech měl se svou druhou ženou dalších 18 dětí. V 77 letech měl kolem sebe 67 dosud žijících dětí.
 
@@ -476,51 +474,29 @@ NEJVÍCE DĚTÍ přivedla na svět Němka Bernarda Scheinbergerová, která zem�
 
 begin integer i, j, count;
 
-  
-
 integer array T3B (1:14), T3A (1:90), T2A (1:1260);
-
-  
 
 switch SSS: = L3, L5;
 
-  
-
 TAPECODE (1, 2, 0, 0);
-
-  
 
 for i: = 1 step 1 until 14 do read (T3B, i, 1);
 
-  
-
 for i: = 1 step 1 until 90 do read (T3A, i, 1);
-
-  
 
 for i: = 1 step 1 until 1260 do read (T2A i, 1);
 
 začal chrlit elektronický počítač SAAB závratnou rychlostí, operátorka N. Nová seděla na své židli u velínu a za jejími zády tiše přecházel mladý (25) pán stroje (programátor n. p. Kotex) inženýr Dominik Neuman, očekávaje v klidu, až mu stroj spočítá za půl hodiny jeho program, který Dominik analyzoval, zpracovával a ladil půl roku, Dominik přecházel po speciálně izolované podlaze mezi speciálně izolovanými stěnami pod speciálně izolovaným stropem, ve světle zářivek o konstantním svitu, vzduchem kondicionovaným do konstantní teploty a vlhkosti, tiše našlapoval ve svých sandálech s podrážkou z mechové gumy, v prostých šedých kalhotech a pracovním šedém plášti přímo na nahém snědém těle, cítil hlad, ale nespěchal jej ukojit, při hladu se nejlépe přemýšlí a s nacpaným břichem se dá akorát svalit se do kanafasu. Dominik přistoupil k tiskárně a začetl se do postupujícího řešení své otázky,
 
-  
-
 J: = 1;
 
-  
-
 if stack (count) = 9999 then goto L10 else
-
-  
 
 if stack (count) = 999 then begin printtext
 
 odpovídal stroj, skvělý švédský kybernet SAAB, v jazyce _algol 60_ (s prvky angličtiny; stejně by mohl odpovídat ve své mateřské švédštině, ruštině nebo jazyce svahili či urdu… ale z tohodle jsme tady už vyrostli), Dominik si přejel špičkou jazyka suché rty, vše je O. K. (nebo dobrý, charašó, gut, bene či jak račte), a nehlučně přešel k velínu, chvíli postál za zády své operátorky, N. Nová byla spolehlivá a přesná skoro jako sám stroj, pod průsvitnou halenkou se jí rýsují snědá sportovní ramena a při pohledu přímo shora vlahé snědé úbočí a temná úžlabinka ňader, Dominik si přejel špičkou jazyka suché rty, je to žena, a popřál si minutu vzrušení a jeho sladkého trnutí, lehce se přimkl tělem k opěradlu operátorčiny židle, a vyplašen náhlou palčivostí prudce vzrostlé touhy přešel rychle opět k tiskárně,
 
-  
-
 L5: count: = count + 1;
-
-  
 
 stack (count): = stack (COUNT + 1);
 
@@ -530,23 +506,13 @@ Náhle „Dzin! Dzin! Bumtaratá!“ závodní kapely Kotexu, na nádvoří davy
 
 Dominik znovu přivřel oči pro poslední sluneční polaskání a vrátil se po schodech dolů zpátky do svého sklepa ke krysám, pohlédl na hodinky, spěšně polkl dvě kostky hroznového cukru a vypil mléko, za deset minut bude výsledek a to už na jídlo nezbude čas.
 
-  
-
 J: = 2;
-
-  
 
 goto L3 end
 
-  
-
 L9: count: = count + 1;
 
-  
-
 goto L2;
-
-  
 
 L10: end program;
 
@@ -682,11 +648,7 @@ To snad byl už příliš dlouhý ten dnešní dvacetihodinový den a příliš
 
 Modrošedé kontury závodu, věž, stanice a haly, v jitřním oparu jak spoutaná letadlová loď zajatá kupeckými konšely, však dole pod čárou ponoru mezi krysami ihned rozběhnu svou strojovnu, osudně důležitou pro další plavbu, jestli vám to ještě nedošlo, vašnostové v auťácích s osobními konty, přežrané panstvo na palubě první třídy a třídy de luxe, chyťte si klobouky, poplaveme z kopce – „Dobré jitro,“ usmála se operátorka N. Nová, „Dobré jitro,“ usmál se Dominik a stroj neprodleně spuštěn: BEGIN COMPARE GENERALIZED GOOD TRANSLATION;
 
-  
-
 INTEGER ARRAY A (1:7); TAPECODE (2, 2, 0, 0); READ (AI, 7);
-
-  
 
 BEGIN INTEGER D, J, K, M, N, MINT, MANT, GOAL, MAX, MIN, ILENGTH, OLENGTH;
 
@@ -704,21 +666,13 @@ Po sklepních schodech dupání a kovovými dveřmi vstoupil inž. dr. Neustu
 
 „Prima. Všecko už jede. Trojan je teď už docela sám – do roka můžem mít nového direktora. Tak o půl čtvrté tady –“ a pevný stisk rukou dvou techniků.
 
-  
-
 NEW DATA: READ (MAX, 1); READ (MIN, 1);
-
-  
 
 BEGIN INTEGER ARRAY SUP, DIST, RULE, INIT, FINAL (1: MAX);
 
 chrlil stroj neúprosně samu nejryzejší absolutní exaktnost, umí jen počítat a jen srovnávat, jeho mozek umí jen dvě číslice: 0 a 1 – ale zvládne jimi projekty gigantické kaskády hydrocentrál, ve mzdových podkladech nalezne chybu ospalé účetní, dokáže sterilitu Trojanova vedení Kotexu nebo vypracuje libovolný počet variant termonukleárního konfliktu, přičemž bere v úvahu například mj. změny počasí nad jižním Labradorem, stav obilních sýpek v Indii, počet a výzbroj argentinských tryskových stíhaček, úbytek strategických zásob kobaltu v Kanadě, kapacitu brněnské zbrojovky a rychlost konvojů v Karibském moři, vše jen dvěma číslicemi, 0 a 1, ve skutečnosti dvěma stavy: proud neprochází – proud prochází, stav klidu a stav vzruchu buňky elektronické stejně jako biologické v lilii, hnijící fekálii, hlemýždím tykadle, býčím varleti, špičce sloního chobotu nebo neuronu lidského mozku, odvěká a věčná pulzace mezi pólem života a pólem smrti, dobra a zla, lásky a nenávisti, bolesti a rozkoše, ďábla a anděla – mezi pólem tmy a pólem světla,
 
-  
-
 PRINTEROPEN (0); PRINTTEXT (12)
-
-  
 
 PRINTTEXT (6) SP LEVEL 5SP SUP 3SP DIST 3SP RULE 3SP INIT 2SP FINAL
 
@@ -730,11 +684,7 @@ a jiný menší stroj v dalším koutě by navíc bezplatně ještě spočíta
 
 jenomže holt císařové, králové, prezidenti, premiéři, diktátoři, předsedkyně, náčelníci a šamani nedosahují, pokud je jich několik pohromadě, důmyslu ani průměrného žáka střední všeobecně vzdělávací školy (SVVŠ), a to už posledních ňákých pár tisíc let – což dokazuje přes 14 000 válek za tu dobu – a tedy po uplynutí těch ňákých pár tisíc let je už pomalu načase položit otázku, kolik tisíc let ještě máme – s kolika ještě válkami, z nichž jedna jediná další by mohla být taky už docela nadobro poslední – trpělivě čekat pod schodišti paláců resp. pod tribunami a před televizními obrazovkami, jak nově to zas ti vrtáci zvrtají a zjebou… nebylo by po uplynutí těch zjebaných tisíciletí pomalu skoro už načase sebrat se a k věci něco říct?… Nebo dokonce do ní říznout? –
 
-  
-
 L: END
-
-  
 
 TYPETEXT END OF TRANSLATION – BEGINNING OF SYNTHESIS
 
@@ -810,26 +760,16 @@ Dva muži proti sobě před počítačem, blahobytný pěstěný elegantní pět
 
 „Tak sbohem,“ zašklebil se direktor Trojan a vyšel na sklepní schodiště.
 
-  
-
 STOP (BEGINNING OF ANALYSIS);
-
-  
 
 STBRL ANALYSIS; TAPECODE (2, 2, 0, 0); WELL TRANSLATE;
 
-  
-
 STOP (READ DEW DATA); GOT NEW DATA
-
-  
 
 END END END
 
 (Pokračování příště)
 
 _AŽ NYNÍ SE UKÁZALO, že sovětský kosmonaut Jurij Gagarin a americký kosmonaut Virgil Grissom pracovali před smrtí na rukopise knihy se stejným tématem – „Ani nejlepší stroj nemůže nahradit člověka“. Oba si vybrali jako důkaz stejný příklad z praxe Johna Glenna, kdy palubní přístroje udávaly falešné signály, a přesto Glenn dovedl loď k úspěšnému přistání._
-
-  
 
 KŘEČKY CVIČILI američtí vědci Frank F. Babich, dr. Allan Jacobsen a Suzanne Bubashová. Když se zvířata naučila určitému úkolu, odňali jim vědci z mozku takzvanou ribonukleovou kyselinu (RNK) a vstříkli ji do mozku krysám. Potom učili krysy tomu, čemu se už předtím naučili křečci. „Očkované“ krysy se učily mnohem rychleji než krysy neočkované nebo ty, které dostaly dávku RNK od nevycvičených křečků. Z výsledku pokusu vyvodili vědci závěr, že snad bude jednou možno přenášet injekcemi nebo pilulkami obsah paměti z jednoho člověka na druhého.

@@ -3,8 +3,6 @@ title: Dobyvatelé
 contentType: prose
 ---
 
-  
-
 Jana stála na ulici v černém dešti z černého nebe a pilně tahala za černou niť mizící ve tmě. Když v prvním patře otevřeli okno, přestala tahat a zůstala tiše stát. Okno se po chvíli zas zavřelo a Jana tahala niť dál. Bude stačit tak ještě hodina? Raději dvě.
 
 Jana tahala niť z noci a pohlížela na zář v okně v druhém patře. Proč ještě nespíš, Borku? Čteš si nebo jen tak přemýšlíš? Myslíš také na mne? Proč si už nechodíš půjčovat cigarety – vždyť já pro tebe koupila pět krabiček tvé značky, Slavia, po sedmi korunách, těch pětatřicet korun by mi stačilo skoro na týden živobytí, ale dala bych ráda víc, třeba celých čtyři sta padesát korun, mé celé jmění… Kde jsi celé dny? Je tě vidět stále méně. Sotva tak dvakrát za den vyjdeš z domu a dvakrát se vrátíš, to jsou celkem jen čtyři krátké cesty domem a u mě jsi už dlouho nezaklepal. Ale až tě zas potkám, co ti řeknu? Já nevím. Ale což to můžeš nevidět?

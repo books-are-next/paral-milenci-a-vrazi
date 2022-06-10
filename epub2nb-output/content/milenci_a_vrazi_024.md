@@ -3,8 +3,6 @@ title: Dobyvatelé
 contentType: prose
 ---
 
-  
-
 „To je slabounkej čajíček,“ smála se Madda, když Jana vykloněná z okna konečně vytáhla svou dětskou hračku: na černé niti zavěšenou vydlabanou tykev vyloženou rudým celofánem a uvnitř hořící svíčka, „toho by se lekl jen hodně už zdrchanej starej paralytik…“
 
 Madda se smála také proto, že Olda ji zrovna lechtal pod kolenem a až pod přísným Janiným pohledem toho nechal (na krátký okamžik a po něm navázal na předchozí už značně výše).

@@ -11,8 +11,6 @@ nemůžeme si přát lepší konec…_
 
 — Jean Genet
 
-  
-
 Pololeže ve své hluboké lenošce, s rukama volně položenýma na chladivém modrém atlasu, s hlavou lehce zabořenou do vysokého měkkého opěradla a s přivřenýma očima vychutnával doktor Evžen Gráf jednoduchou radost spočinutí. Těžký den za námi. Jsou stále těžší. Spinkej chvíli, Evženko.
 
 Náhle z podlahy zdola silný dřevěný úder a hned další. To mám spát ještě tišeji? Bum. Bum. Bum. Co tam dole ten hoch, ten… Borek Trojan, co tam vyvádí? Bum. Bum. Bum. Bum. Bum. Odreagovává přebytek sil. Mládí… Bum. To se tě netýká. Snad ho to brzy omrzí. Take it easy. Bum. Bum. Bum. A bum. Ještě? No tak vidíš. Prostě potřebují k životu hluk. Jako já ticho. Proč Roman nedělá hluk? V šestnácti letech… Ta zábrusová lahvička v jeho aktovce… éter. V šestnácti letech! Říct mu. Beznadějné. Jen ho to utvrdí. Chuť odporu. Kokain nesežene. Jedna z výhod socialismu. My pili zas absint. Porozumět mladým… Zbývá už jim jen pomoci.
@@ -137,11 +135,11 @@ Pětapadesát let: senátorský věk. Vládnout a odpočívat. Bavím se. Chutn
 
 Ze tmy náhle chraptivý temný skřek. Jako zvířecí… To ta cizí dívka. Je už za zdí. Jsou nahoře i dole. Přicházejí.
 
+  
+
 _MILTON EISENHOWER, bankéř a bratr bývalého prezidenta USA, byl vyslán jako zvláštní pověřenec americké vlády do Latinské Ameriky. Po návratu se podivoval: V mnoha amerických státech je obyvatelstvo na pokraji revoluce. Zjistil jsem, že čím víc těmto zemím poskytujeme finanční a jiné pomoci, tím víc nás tam lidé nenávidí._
 
 _ZA HODINU SPÁNKU by dal 77letý důchodce P. Barnowski ze západoněmecké vesnice Benninghausen svůj rodinný domek! Ale jeho nabídky nemůže nikdo využít. Barnowski již 23 let nezamhouřil oko. Nespí a nespí. Lékaři uváděli Barnowskému příklad Napoleona, který spával často pouze hodinu denně, ale u důchodce příliš nepochodili: Nejsem Napoleon, prohlásil, chci spát. Ani si nedovedete představit, jak toužím po spánku._
-
-  
 
 MANŽELÉ Henriette a Raymond Coulombelovi z předměstí francouzského města Rouenu se v roce 1948 zásobili asi 7 tunami potravin a pak se uzavřeli do své malé vily. Báli se totiž atomové války a invaze „rudých“. Od té doby – po celých dvacet let – byli tedy prakticky uvězněni. Jen paní Coulombelová vycházela někdy z domu, pro vodu, pro jídlo nebo pro noviny. Teprve v minulých dnech policie odhalila tento „atomový kryt“: skladiště beden se sýrem, konzervami a zatuchlými potravinami. 58letou ženu našli v pološíleném stavu, její 75letý manžel byl už dva měsíce mrtev. Ležel na posteli a byl přikryt různými papíry a svatými obrázky. Mezi nimi našla policie i „dokumenty“ pana Coulombela: sešity, ve kterých chronologicky zaznamenával všechny války, revoluce, ozbrojené puče a povstání od roku 1914.
 
@@ -410,8 +408,6 @@ Doma v mé posteli Monika v černé podprsence a kalhotkách a u ní Alex v
 
 „Ale no tak vy tady kecáte o nějakejch harantech a zatím nám zavřou kšefty! –“ zděsila se Monika upřímně.
 
-  
-
 „To tady chcete sedět nasucho?! –“
 
 „Mám dole vůz,“ řekl Alex rychle, „a můžu zajet – A víte co? Sebereme se a pojedem do Paláce!…“
@@ -481,8 +477,6 @@ _Aaa bbbbb cc dddddddd E ff gggg hhhhh i jjj KKKKK lll_
 _V AUSTRALSKÉM MĚSTĚ Smiethfield si mohou automobilisté zvonkem, umístěným na kostele, přivolat kněze, který je vyzpovídá v autě._
 
 _PROSTŘEDKY, kterými disponuje fond Organizace spojených národů pro pomoc dětem na 1 rok, jsou nižší než prostředky vydávané na zbrojení během dvou hodin._
-
-  
 
 NEUVĚŘITELNOU PŘÍHODU prožila osmnáctiletá Jiho­afričanka Anna-Marie Wassermannová. Šla po práci na pláž v Port Elisabethu, aby si trochu zaplavala. Náhle se před ní vynořila velryba asi 7,5 metru dlouhá. Anna-Marie připlavala blíž, aby si ji prohlédla. Velryba se však ponořila a Anna-Marie náhle ucítila něco pod sebou a byla vyzdvižena z vody. Seděla na hřbetě velryby a velkou rychlostí plula do moře. Teprve po několika pokusech se jí podařilo dostat z velrybího hřbetu a doplout ke břehu, kde zůstala vyčerpaně ležet. Ještě celou hodinu pozorovala velrybu, jak se proháněla před pobřežím.
 
@@ -616,7 +610,5 @@ Všude je jí plno. Všude cítím její pach, ona páchne přesto, že se tak z
 Zas se už plíží po chodbě. A teď stojí zas před mými posledními dveřmi.
 
 (Pokračování příště)
-
-  
 
 DEVÍTILETÝ Gerard Day z Peterboroughu v Kanadě si bezstarostně máchal nožičky v jezeře. Pojednou ho noha silně zabolela, vytáhl ji z vody a na palečku mu visela 71 cm dlouhá štika.

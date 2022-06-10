@@ -3,8 +3,6 @@ title: Obležení
 contentType: prose
 ---
 
-  
-
 Julda se pokřižoval na čele, na rtech a na prsou, dotkl se čelem podlahy pod oknem, vstal, přešel chodbu v druhém patře domu čp. 2000 a zaklepal na dveře protější svobodárny. Borek Trojan ležel s rukama za hlavou na svém kavalci a bosými chodidly objímal kolmou kovovou trubku vodovodního potrubí.
 
 „Paní doktorka Zíbrtová zde není?“ optal se Julda tiše.
@@ -229,9 +227,9 @@ Za dveřmi stál chlapec Roman Gráf a mlčel se sklopenýma očima. Do ticha n
 
 To ječel ten ubohý chlapec a vztekle dupal dolů po schodech, celý dům se jakoby rozevíral, slyšet pootevírání dveří, cítit zatajený dech naslouchajících, i pád jablka by teď všichni mohli zaslechnout, chlapec řval svou nenávist z plných plic a celý dům ji hltal jako už jediné nestvůrné ucho.
 
-_ŠESTNÁCT LET ČEKAL pan Henry Damman ze Stuttgartu, jehož koníčkem je pěstování kaktusů, na svůj velký okamžik. 16. července letošního roku – hodinu před půlnocí – rozvily se pak konečně jeho tři kaktusy známé pod romantickým označením „Královna noci“. Pan Damman s rodinou, sousedé i odborníci se pak mohli několik hodin potěšit pohledem na krásné květy. K páté hodině ranní „královny“ zvadly. Tyto kaktusy zalévá pan Damman jen jednou za osm neděl, a to jedním náprstkem vody._
-
   
+
+_ŠESTNÁCT LET ČEKAL pan Henry Damman ze Stuttgartu, jehož koníčkem je pěstování kaktusů, na svůj velký okamžik. 16. července letošního roku – hodinu před půlnocí – rozvily se pak konečně jeho tři kaktusy známé pod romantickým označením „Královna noci“. Pan Damman s rodinou, sousedé i odborníci se pak mohli několik hodin potěšit pohledem na krásné květy. K páté hodině ranní „královny“ zvadly. Tyto kaktusy zalévá pan Damman jen jednou za osm neděl, a to jedním náprstkem vody._
 
 JEDNA FIRMA na výrobu hudebních automatů v New Yorku nabízí zajímavý automat s návodem k použití: „Při vhození 5 dolarů rozbije automatické kladívko kteroukoli vámi označenou desku.“
 
@@ -431,6 +429,8 @@ A tak děkan, _můj muži,_ tohle je právě ta potřebná forsáž, vrazím ti
 
 A náhle Julda Serafin vstává, obrací se ke mně zády, už nevidím ty jeho strašný tři oči, už koukám po něm níž, _můj muž_ si pod oknem kleká a ruce dává před sebe pryč, k jeho ledvině už mám jen dva metry, už jen dva kroky a předpažit, teď už dokážu všecko, jsem silnej a statečnej, už nad vším, už jako bůh jen s hvězdama –
 
+  
+
 __Pane, smiluj se nad nimi, neboť nevědí co činí__
 
 __Obléklas mi na to boxerské rukavice Dýku si už chlap vezme do ruky sám Maddo Má holko krásná jako bohyně Má squaw Já pro Tebe bych měl krvácet__
@@ -446,8 +446,6 @@ __Povedou mě středem naší ulice Všecky okna se otevřou jen kvůli mně Vš
 __Per eum, cum eo, in eo omnia Svou agonii vám všem__
 
 (Pokračování příště)
-
-  
 
 JEDENADVACETILETÝ obyvatel Tokia usmrtil svého stejně starého spoluobčana, protože ho nechal dlouho čekat před telefonní budkou. Hovor trval 20 minut a tento nápor nervy mladého pachatele nevydržely.
 

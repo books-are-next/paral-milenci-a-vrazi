@@ -3,6 +3,8 @@ title: Dobyvatelé
 contentType: prose
 ---
 
+<section>
+
 Jana Rybářová přišla do ženské umývárny mezi posledními.
 
 V osmi sprchovacích boxech se mylo čtrnáct zaměstnankyň, dvě v každém boxu, v posledním stará Gráfová sama.
@@ -13,7 +15,9 @@ Jana ovládla Zitin box a osaměla v něm, mezi stěnami ze třpytících se l
 
 Jak je nádherný být mladá zdravá holka – zítra je Štědrý den a tedy zase nadílka, pozítří Hod boží, tisíce let předtím se jmenoval svátek Nepřemožitelného Slunce, MÉHO SLUNCE, které už vzchází, popozítří zas svátek a popopozítří začnou největší svátky mého života, BUDU MÍT SVÉHO MUŽE, přijde leden a přinese víc světla, po něm únor ještě víc, po něm březen ještě víc a po něm duben již plné slunce, po něm máj s vodopády slunce a po něm červen slunce ještě mnohem víc – všecka PO jsou už má, a co jich ještě bude, všecky dobré mocnosti jsou na mé straně, život je nádherný, jak nádherný je být mladá zdravá holka –
 
-  
+</section>
+
+<section>
 
 _KRÁLOVSKÉ SHAKESPEAROVSKÉ DIVADLO v Británii hledá herečku, jež vyhovuje těmto třem podmínkám: je vysoká, atraktivní a především ochotná vystoupit zcela nahá na jevišti divadla ve Stratfordu, a to v úloze Heleny v Marlowově tragédii Doktor Faust. Podle tvrzení režiséra Clifforda Williamse může prý pouze nahá Helena podat v dramatu umělecky hodnotný výkon._
 
@@ -23,7 +27,9 @@ _V LONDÝNĚ byla prodána figurína ze XVI. století. Říká se jí Norimber
 
 TRENÉRKA FOTBALOVÉHO MUŽSTVA v Malmö Gunilla Rosenquistová je pravděpodobně první ženskou trenérkou na světě. Nedávno se zasnoubila se středním útočníkem svého mužstva Larsem Karsonem.
 
-  
+</section>
+
+<section>
 
 „Ty simuluješ!“ vykřikla Dáša Zíbrtová, když spatřila, jak Alex v posteli za jejími zády tře rtuť teploměru prostěradlem, aby tak zvýšil jeho teplotní údaj.
 
@@ -143,8 +149,12 @@ A Borek se otočil a šel od ní pryč, mocné hnutí duše dopadlo jak vlna n
 
 „Tohleto –“ řekl Borek, rázně uchopil Janu za obě ruce a trháním ji přitahoval k sobě, Jana se bránila, Borek útočil… na kolejnicích svařených do tvaru kříže začali se dva mladí lidé se smíchem strkat a prát.
 
-  
+</section>
+
+<section>
 
 _„POSLYŠTE, VY jste mi strašně povědomý. Nebyl jste náhodou někdy vystaven v rakvi v krematoriu?“_
 
 ŠTĚSTÍ MĚL americký kosmonaut Neil Armstrong. Při tréninku přistání na Měsíci došlo k havárii příslušného zařízení. 70 m nad zemí se mu podařilo zachránit se katapultováním. Zařízení spadlo a shořelo. Příčina se vyšetřuje. Již v r. 1966 přivedl Armstrong nouzovým manévrem Gemini 8 zpět na zemi.
+
+</section>

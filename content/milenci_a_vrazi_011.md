@@ -3,6 +3,8 @@ title: Dobyvatelé
 contentType: prose
 ---
 
+<section>
+
 Tož já si teda taky něco vydobudu z týhle chvilky, která se teď už asi protáhne, bejt ubohá voběť mi už zas nesedí a panenku na hraní vám teda dělat nebudu, co se dá dělat, když se nedá nic dělat a kousat umím jako vy a líp, su ségra Alexa Ďábla, seš mi z duše vodpornej, tlustej Valtříku a svedeš se jen vytahovat, Borek zas hned aut, potřeboval bys napřed s ženskou asi tak dvouletý zajíždění, onánku, Stěpa je ubohý zlý zvíře a Olda, Olda… „Oldo… Oldo… Oldo – – o-ja-ja! o-ja-ja! o-ja-ja! JOU! – –“
 
 A najednou jsem to poprvé v životě měla, ďábel Olda mi to udělal. Poprvé až v devatenácti – to je šílený: co teda bylo to všecko předtím – „… Oldo… Olinku… Oldříšku…“ – a to modrý blues? To asi musí zůstat muzikou… nebo se mi to jen zdálo.
@@ -57,11 +59,15 @@ A tak zas stěhování zpátky do bejvalý mužský svobodárny v druhým pat�
 
 Alex se jen zachechtal, v momentě sbalil svůj kufírek a se svým jediným oblekem (a to má, ďábel, s melouchama nejmíň šest tisíc za měsíc) přes ruku se s náma vlídně rozloučil: „Tak čau, ždímačko! Tak zatím, bráško, a pochválen! A ahoj a Wiederschauen – nejdu daleko.“
 
-  
+</section>
+
+<section>
 
 ŠÍLENÝ AKROBATICKÝ POKUS podnikl na tryskovém letadle jeden britský letec: podletěl známý londýnský most Tower Bridge. Britské vojenské orgány nyní vyšetřují, z kterého letiště letoun startoval. Pokus se sice zdařil, ale mohl skončit i hroznou katastrofou – pro letce stejně tak jako pro chodce a automobilisty na mostě.
 
-  
+</section>
+
+<section>
 
 „To je sprostý –“ vypravil ze sebe Borek Trojan hlasem třesoucím se rozhořčením, když po návratu z práce nalezl svůj kavalec obsazen Alexem Serafinem, dalším cůvaksem osazenstva montércimry.
 
@@ -117,11 +123,15 @@ _Na prašivé strupaté kobyle v čele červených vojsk ghetta vtrhnu do oble�
 
 A Borek Trojan upřel na ni své žlutošedé zorničky rozšířené krutou jasnozřivostí předlidského instinktu.
 
-  
+</section>
+
+<section>
 
 UMĚLOU KRÁVU, atrapu z umělých hmot, ale jinak k nerozeznání od živého zvířete, zkonstruovali v USA. Nedává mléko, ale slouží při drezúře koní, kteří se učí zahánět stáda dobytka na rančích. Umělá kráva má tři kolečka skrytá v nohách, která se otáčejí všemi směry, a dálkově ovládaný elektromotor poháněný akumulátorem. Pomocí tohoto zařízení se kráva na pastvě pohybuje jako živá a koně se naučí vyhýbat se ostrým rohům zvířete. Výrobce už prodal 100 kusů těchto krav.
 
-  
+</section>
+
+<section>
 
 „… se situace stala neudržitelnou. Donekonečna se utlačovat nedáme!“ zahřměl řečník. „Nedáme! Nedáme!“ zaburácela masa pod ním a pod taktovkou jeho ruky začala skandovat: „Ne-dá-me! Ne-dá-me! Ne-dá-me!“ a jala se freneticky tleskat.
 
@@ -284,3 +294,5 @@ A s ocelovým šípem skrytým v nohavici kulhal Bogan Tušl šerem chodby B�
 (Pokračování příště)
 
 ZLOSTNĚ ODPLIVUJÍ staří šejkové na poušti před mladými muži svého kmene. Náčelníci Beduínů už nerozumějí světu, neboť mladí nechtějí žít ve stanech, chtějí se stěhovat do obytných domů. První sídliště Beduínů se zahradami vzniká v Tel Beerscheba v negevské poušti. Mladí totiž říkají: „Černý stan z kozí kůže je špatná ochrana před letním horkem a studenými větry; kromě toho je to nezdravé.“
+
+</section>

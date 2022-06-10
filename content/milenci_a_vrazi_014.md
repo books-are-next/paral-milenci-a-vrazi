@@ -3,6 +3,8 @@ title: Obležení
 contentType: prose
 ---
 
+<section>
+
 Vše nabylo nového vzrušujícího smyslu: mýdlo – abych se Ti, Borku, líbila. Křeslo: jsem křeslo a Ty do mne usedáš. Cigareta: jsem cigareta, Ty sirka a stravující očistný oheň, Tys vzduch a já pokorný popel padající vděčně k zemi. Jsem lampa a Ty jsi elektrický proud. Jsem těsto a Tys hnětoucí ruka. Jsem maso a Ty jsi odblaňující nůž –
 
 Zita Gráfová kráčela pouštním béžovým prachem naší ulice uvědomujíc si své tělo, svá ramena, svá ňadra, boky, stehna a svá kolena, své pohlaví, své štěstí a své vítězství. Náš dům je teď domem slavnosti –
@@ -65,6 +67,10 @@ Jeho polibky jsou obratnější a prudší, jeho rozšířené zorničky planou
 
 Než zemřu.
 
-  
+</section>
+
+<section>
 
 DRÁŽĎANŠTÍ POŽÁRNÍCI hasili neobvyklý požár. V jedné z nejstarších hrobek drážďanské Hofkirche vycházel dým ze sarkofágu polské královny a kurfiřtky saské Marie Alžběty, která byla pochována v r. 1818. Když bylo zvednuto víko rakve, vyšlehly plameny. Jako důvod požáru se pokládá oxidace.
+
+</section>

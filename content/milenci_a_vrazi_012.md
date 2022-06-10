@@ -3,6 +3,8 @@ title: Obležení
 contentType: prose
 ---
 
+<section>
+
 Pololeže ve svém laminátovém křesílku, s rukama volně položenýma na chladivém plastiku, s hlavou zvrácenou, aby se mohl opřít týlem o opěradlo, a s přivřenýma očima vychutnával zástupce ekonomického náměstka Bogan Tušl jednoduchou radost spočinutí. Těžký den za námi. Přijdou ještě těžší. Moci aspoň spát – teď hned a co nejdéle…
 
 Náhle z podlahy zdola silný dřevěný úder a hned další. To mám být ještě tišeji? Bum. Bum. Bum. Bum. Co tam ti lidé dole… Musím k nim být zdvořilý. Dokud nemám dekret na byt. Bum. Bum. Bum. Bum. Komise už přestávají chodit. Do bytu i do závodu. Věci se už staly. Bum.
@@ -125,13 +127,17 @@ Dosud hlavní spojenci – ode dneška úhlavní nepřátelé. Je tohle také d
 
 Zvenčí řev a rány do dveří, uvnitř jak v pasti Tušlovi obleženi.
 
-  
+</section>
+
+<section>
 
 _K VOJENSKÉ SLUŽBĚ povolala uruguayská vláda 5000 bankovních úředníků, kteří si chtěli stávkami vynutit zvýšení mezd. Nyní budou mít jiné starosti._
 
 FARMU BOBA NOELLA nedaleko Tarpon Springs (Florida) vykradli několikrát za sebou lupiči. Ani hlídací psi nezabránili neustálým krádežím (banditi je vždy otrávili). Proto si farmář koupil 400kilovou gorilu, přivázal ji na 30metrový řetěz a od té doby má na farmě klid. O gorile pan Bob Noell říká: „Má obrovskou sílu, mohla by přetrhnout i nejsilnější řetěz, ale neudělá to, protože se stala mým nejlepším přítelem…“
 
-  
+</section>
+
+<section>
 
 Po Tušlově odchodu z ředitelny přikázal doktor Gráf sekretářce zavolat inženýra Seckého, tiše zavěsil sluchátko na vidlici a zvolna položil své pěstěné bílé ruce s krásnými štíhlými prsty na stolní desku z černého dubu.
 
@@ -245,7 +251,9 @@ Netoužím už po ničem: ukojen, nasycen, ztichlý. Zbývá už jen vyčkat smr
 
 Pud k smrti.
 
-  
+</section>
+
+<section>
 
 _MNICHOVSKÝ ŠACHOVÝ VELMISTR Wolfgang Unzicker si zahrál v neobvyklé situaci. Nastoupil k simultánní hře proti vězňům ve vězení Straubing._
 
@@ -253,7 +261,9 @@ _O NOVÉM ITALSKÉM PREMIÉROVI Leonovi je známo, že nic tak nenávidí jako 
 
 V ATLANTSKÉM OCEÁNU mezi Islandem a Grónskem se nahromadily masy ledu nevídané od r. 1915. Pilot, který nad těmito prostorami prolétával, prohlásil, že téměř není vidět nezamrzlé volné moře.
 
-  
+</section>
+
+<section>
 
 Zita Gráfová dojela k domu čp. 2000, vypjala motor a sbírala síly k vystoupení z vozu a k cestě po schodech do prvního patra. Co tam budu dělat? Ale co tady? Život: na každém rozcestí se vydat směrem toho menšího nesmyslu. Bezpečně tak záhy zešílíte.
 
@@ -334,3 +344,5 @@ Kdo z nás bude vrah?
 _TŘETÍ ZUBY – Špičáky – začaly růst 52leté paní Erice Hammerové pod korunkou. Velkou radost z nich ovšem nemá. Rostou křivě a narušují pevnost protézy._
 
 GIGANTICKÝ PROJEKT obrovského kanálu, jímž má být vyrovnána neustále klesající hladina Aralského jezera v sovětském Kazachstánu, připravuje početná skupina sovětských odborníků. Úbytku vody v jezeře má být zabráněno přílivem ze sibiřské řeky Ob.
+
+</section>

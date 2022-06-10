@@ -3,6 +3,8 @@ title: Dobyvatelé
 contentType: prose
 ---
 
+<section>
+
 „To je slabounkej čajíček,“ smála se Madda, když Jana vykloněná z okna konečně vytáhla svou dětskou hračku: na černé niti zavěšenou vydlabanou tykev vyloženou rudým celofánem a uvnitř hořící svíčka, „toho by se lekl jen hodně už zdrchanej starej paralytik…“
 
 Madda se smála také proto, že Olda ji zrovna lechtal pod kolenem a až pod přísným Janiným pohledem toho nechal (na krátký okamžik a po něm navázal na předchozí už značně výše).
@@ -38,3 +40,5 @@ Madda odskočila k Alexovi a Olda se začal zouvat.
 V noci pak ležela Jana zachumlaná do dvou přikrývek, víc hlavu přikrytou než tělo, ale až příliš k ní doléhaly zvuky z druhého kavalce, zpocená Jana zatínala zuby a cpala si palce do uší, jak dlouho budu muset ještě všecko toto snášet, chci už svého muže. _S_ _ním bydlet v našem pokoji Jsem už dospělá Jeho objetí A jeho vzdechy slyšet Aby tak vzdychal štěstím jako ten muž v objetí Maddy Udělám všecko, co si bude přát Až to budeme mít my spolu, musí to být VELIKÉ –_
 
 A jednou si vzpomenu na tuhle mikulášskou noc, jako vzpomínám na všecky, které už byly, jak jsme se s bratříčky navzájem budili, abychom viděli svatého Mikuláše a anděla, čerta jsme se báli, stejně to všecko dělal náš tatínek, tatínku, chci, abys věděl, že na tebe pořád myslím a že dělám všecko řádně a dobře, jak má být, jak tys mě to učil, pravda zvítězí a zlo dojde trestu, jak ta zlodějská kočka pojde, předtím zešílí, zlým brambory, uhlí a rány metlou, hodným perník, jablka a pohlazení, budeme mít hodně dětí a spravedlivě je odměníme a ty pak mě a já pak tebe a spolu budem štěstím vzdychat a každý den znovu a znovu.
+
+</section>

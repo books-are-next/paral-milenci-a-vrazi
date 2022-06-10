@@ -3,6 +3,8 @@ title: Neztrácíme užitek pohrom?…
 contentType: prose
 ---
 
+<section>
+
 _Až to už nebude k dívání, naštvou se posléze strašně červení lidé z vnitrozemí Asie, Afriky a Jižní Ameriky, co se v životě nenajedli, a vtrhnou_
 
 _STOP! Je přece civilizace, a je přece pokrok, a je přece technika, a je přece_
@@ -16,3 +18,5 @@ _A s tím teprve se sveze případně i něco dalšího Víc kovu do více t�
 _STOP! Svět přece spěje k dorozumění, míru a lásce_
 
 _Vpravováním kovu do těla Což se bolest a rozkoš nevyjadřuje stejně? Jako když muž milostně dobývá ženu Víc kovu do těla Což vpravit něco tvrdého do těla není vyvrcholením lásky? Checheche Zatím vždy zvítězili hladoví nad sytými Proč by tomu mělo být ausgerechnet teďka opačně? Checheche_
+
+</section>

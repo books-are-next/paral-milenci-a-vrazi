@@ -3,6 +3,8 @@ title: OBLEŽENÍ     (Modrý ilustrovaný román na pokračování)
 contentType: prose
 ---
 
+<section>
+
 _V přílbách, ve vysokých botách  
 anebo jen v čepicích a polonazí  
 nás vyhubí ohněm a mečem.  
@@ -135,7 +137,9 @@ Pětapadesát let: senátorský věk. Vládnout a odpočívat. Bavím se. Chutn
 
 Ze tmy náhle chraptivý temný skřek. Jako zvířecí… To ta cizí dívka. Je už za zdí. Jsou nahoře i dole. Přicházejí.
 
-  
+</section>
+
+<section>
 
 _MILTON EISENHOWER, bankéř a bratr bývalého prezidenta USA, byl vyslán jako zvláštní pověřenec americké vlády do Latinské Ameriky. Po návratu se podivoval: V mnoha amerických státech je obyvatelstvo na pokraji revoluce. Zjistil jsem, že čím víc těmto zemím poskytujeme finanční a jiné pomoci, tím víc nás tam lidé nenávidí._
 
@@ -192,7 +196,9 @@ _Evžen choval silné sympatie pro francouzský Parlamentarismus, angloamerickou
 
 _Evžen Gráf miloval jablka a skutečně je také jídal, denně půl kila. Rovnal si je na skříň, denně prohlížel a jedl ta, která začala hnít. Snědl dvacet tisíc kilogramů nahnilých jablek._
 
-  
+</section>
+
+<section>
 
 To úterý asi tak honem nezapomenu.
 
@@ -466,7 +472,9 @@ Den zmíral v krvavých cárech a Julda na kolenou v horkém pouštním prach
 
 * * *
 
-  
+</section>
+
+<section>
 
 Jak si laskavý čtenář jistě již povšiml, jsou slíbené ilustrace reprodukovány touto grafickou technikou:
 
@@ -509,7 +517,9 @@ _Když konečně nalezl sestřičku Maddu, získal z milosti Tea, správce domu
 
 _Jsa téměř bez potřeb, ochotně vypomáhal sestřičce Maddě, později i skvěle vydělávajícímu bratru Alexovi a všem, které znal nebo neznal, zaskakoval na směny, hlídal děti a navštěvoval nemocné. Per eum, cum eo, in eo omnia. Kromě nejmenších dětí ho všichni považovali za naprostého idiota._
 
-  
+</section>
+
+<section>
 
 (Červen stinných olší na břehu, tichého poledne pod starou lípou, dívčího smíchu nad vodotryskem a chladivě vydechujícího loubí zahradní besídky…): Mezi pahýly opotřebovaných stromů mizela zdupaná tráva pod třemi tisíci potem zbrocených nahých těl jak pobitých vražedným žárem a sražených do hustého lógru masa škvířícího pod olejovým filmem, ostrých pachů a vřeštění přebíjeného nesmyslně výkonnou elektrotechnikou. S modrou taškou společnosti Air France střídavě na břichu, pod paží a přes rameno bloudil Roman Gráf po kilometrovém břehu labské plovárny, hnán touhou a srážen trapností toho všeho tady, sebe sama nejvíce.
 
@@ -612,3 +622,5 @@ Zas se už plíží po chodbě. A teď stojí zas před mými posledními dveř
 (Pokračování příště)
 
 DEVÍTILETÝ Gerard Day z Peterboroughu v Kanadě si bezstarostně máchal nožičky v jezeře. Pojednou ho noha silně zabolela, vytáhl ji z vody a na palečku mu visela 71 cm dlouhá štika.
+
+</section>

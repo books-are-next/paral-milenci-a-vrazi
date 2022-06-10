@@ -3,6 +3,8 @@ title: DOBYVATELÉ     (Červený ilustrovaný román na pokračování)
 contentType: prose
 ---
 
+<section>
+
 _Zrozen z nenávisti uspořádám  
 štvanici na lásku!…_
 
@@ -240,7 +242,9 @@ Při foxtrotovém vykročení Borek zakopl o kořen a svalil se do chladné tr
 
 Jak rozsvícený dort čekalo v údolí, rozvalené a přimknuté k roztínajícímu je černému říčnímu údu. Indiánským stepem – sto kroků během a sto dlouhých loveckých – k němu Borek postupoval po asfaltu, betonu a dláždění.
 
-  
+</section>
+
+<section>
 
 NEJSTARŠÍ NEREZIVĚJÍCÍ nůž světa má mezi svými exponáty Tambovské muzeum. Pochází z Indie a byl vyroben z téhož železa jako známý sloup v Dillí, který už šest století stojí pod širým nebem a nedotkla se jej ještě rez.
 
@@ -273,7 +277,9 @@ _Hned prvního dne (přijela do Varů v 16.52) se intimně sblížila s berber
 
 _Nezapomenutelné bylo poslední odpoledne, kdy Berber odjel a Madda objevila Karlovy Vary. Uchvácena vracela se znovu a znovu do aristokratického Sadového parku a prochodila tam celý večer před odjezdem, fascinována kovovými smetanovými ornamenty Sadové kolonády a umělým jezírkem, pod jehož hladinou zářily barevné reflektory. Na dosah ruky v trávě u cesty spaly dvě labutě._
 
-  
+</section>
+
+<section>
 
 První patro Grandu: pološero, kouř, vedro, řev, sto teenagerů, jeden číšník v propocené košili (sází piva bez ptaní a hned inkasuje) a jeden music-box, Maddina láska.
 
@@ -569,7 +575,9 @@ Madda vlezla pod houni, zavřela oči a přejížděla si dlaněmi po vlhkém t
 
 „Bude mi potěšením a národním svátkem,“ zašklebil se Alex, odkopl deku a vstal, „a za to?…“
 
-  
+</section>
+
+<section>
 
 _NEČEKANĚ VE VĚZENÍ se octl britský plachtař Frank Rozen­kis, jehož větroň vinou vady v řízení se řítil proti vysoké zdi. V posledním okamžiku se plachtaři podařilo větroň zvednout, přenést se s ním přes zeď a přistát na dvoře za ní. Teprve potom zjistil, že se octl na nádvoří pověstného vězení v Dartmooru, odkud byl po nezbytných formalitách propuštěn._
 
@@ -630,7 +638,9 @@ _Alex dovršil svá tovaryšská léta._
 
 _V neděli ráno vystupoval na ústeckém nádrží v plandavém (za poslední léta poněkud zhubl) dvouřadovém obleku z tmavomodrého koverkotu o vysokém procentu viskózové střiže a s černou maturitní kravatou, v ruce papírový kufřík (dar ministra paliv) s několika košilemi, ponožkami, elektrickým holicím strojkem značky Elektrostar a černým jezdeckým bičíkem._
 
-  
+</section>
+
+<section>
 
 Ten čtvrtek asi tak honem nezapomenu.
 
@@ -906,7 +916,9 @@ Contemplor meliora proboque, deteriora sequor.
 
 „Ne. Ty seš ďábel.“
 
-  
+</section>
+
+<section>
 
 _Z krve, mléka a šťav Holčičích vzpomínek na vánoční koledy Ženského nářku v mokrém listí A lázeňských fontán Devastované země, vody a vzduchu Básniček z devítiletky Sirén revoluce A kvílení elmotorů, centrifug a beatu Tohle všecko je teď mý a dělat si s tím můžu, co se mi jen zamane_
 
@@ -924,11 +936,15 @@ _Mě až v osmnácti Tempo se zvyšuje Zároveň se spotřebou masa Všichni r�
 
 _A my jeden druhého teď nádherně_
 
-  
+</section>
+
+<section>
 
 („Proboha – – –“ vykřikl ve dveřích Julda Serafin vysokým hlasem.)
 
-  
+</section>
+
+<section>
 
 _ITALSKÝ HEREC Rinaldo Marezzi hostující v Turecku v Sha­kespea­rově hře „Romeo a Julie“ vykoupil v okolí divadla u zelinářů tři metráky shnilých rajčat. Na dotaz obchodníků, zda rajčata potřebuje na házení po Romeovi, odpověděl: Naopak, já sám jsem Romeo._
 
@@ -936,7 +952,9 @@ _POKOJE LÁSKY. Součástí věznice v Ulriksforsu v severním Švédsku jsou 
 
 V BOJI PROTI POTKANŮM je vlk nejlepším spojencem člověka. Tento názor zastává italský profesor Giovanni Fornaciari, jeden z největších současných zoologů. Podle něho na každý kus drůbeže, kterou vlk v drůbežárně roztrhá, připadá průměrně 300-400 potkanů, které za stejnou dobu zadáví. Proto se obyvatelé vysokohorské vesnice Fellicarolo v Apeninách rozhodli, že nebudou již vlky pronásledovat. Dokonce založili společnost na ochranu vlků. Vlčata, která zabloudí, vychovávají o láhvi mléka a před jejich puštěním na svobodu je očkují.
 
-  
+</section>
+
+<section>
 
 Zvenku z nádvoří bylo v okně plánovacího oddělení v prvním patře vidět jen zelené houští dvou prorůstajících se filodendronů. Ze svého křesílka za nimi, přistaveného těsně k oknu, střehl Bogan Tušl přes svou rachotící elektrickou kalkulačku mezerami mezi listy shora celé nádvoří od vrátnice až ke kotelně a garážím.
 
@@ -1165,3 +1183,5 @@ _V BETUANU V SÚDÁNU SE HRÁLO fotbalové utkání místních rivalů. Fandil
 _AMERICKÝ ZOOLOG G. B. Schaller provádí v národním parku Serengeti v Tanzanii detailní pozorování lvů pomocí malých tranzistorových přístrojů. Ověřil si pravdivost domněnky, že lvi jsou v podstatě velmi líní. Jeden z pozorovaných neušel ve třech týdnech více než 7 km denně. Denně plných 20 hodin odpočíval._
 
 _ŽULOVÉ PODZEMNÍ VRSTVY, na nichž je postaveno město Stockholm, se posunuly o 0,15 tisíciny milimetru po dosud nejsilnějším atomovém podzemním výbuchu provedeném v Nevadě. Tento sukusorní pohyb zaznamenaly přístroje stock­holmské fakulty geodezie._
+
+</section>

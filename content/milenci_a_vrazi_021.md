@@ -3,6 +3,8 @@ title: Obležení
 contentType: prose
 ---
 
+<section>
+
 Ve smyčce na konečné vystoupil Borek Trojan z městského autobusu č. 12 a zvolna scházel ze svahu, překřížil asfaltku, brodil se spadlým listím v trávě, došel k vilce ve velké zahradě, odemkl si zahradní branku a pak lakované modřínové dveře pod kovanou lucernou.
 
 Chodím čtyřmi pokoji. Beru si z ledničky kousek šunky a nedojezený jej odhazuji. Doušek vodky přímo z lahve, snad obnoví chuť k jídlu. Žlutý pokoj nemám rád. Zita chce, abychom v něm bydleli. V pánském pokoji je tma už celý den. Kožené tapety by se měly na zimu sundávat – to je už zima? Nejvíce sedávám v pokoji s velikým oknem na zahradu a k řece. Se sklenkou koňaku. Řeku už nevidět. Teče tam ještě? Nutno přiložit do krbu.
@@ -233,13 +235,17 @@ Klap! – Klap! – Klap! – Klap! –
 
 Uslyší to Zita při tom děsném randálu z chodby? Propustí tento běsnící dům ještě naše něžné poselství? Tisknu ucho ke kovové trubce. Zito! Má lásko. Můj živote. Má smrti.
 
-  
+</section>
+
+<section>
 
 „MU“ je jednotka v Indii, stará již dva tisíce let. Označuje vzdálenost, na jakou je ještě slyšet bučení krávy.
 
 DROGU, KTERÁ UDRŽÍ RYBU NAŽIVU bez vody, vyvinul britský ichtyolog Tom Rayensdale. Přípravek s názvem „Propoxate“ se rozpustí ve vodě, v níž jsou ryby. Ty nejprve ztrácejí stabilitu a pak vypadají jako leklé. V tomto stavu je lze dopravovat bez vody v kontejneru. Po vložení do čerstvé vody opět oživnou.
 
-  
+</section>
+
+<section>
 
 Proč nelze při nejhlubší lásce sedět klidně v křesle? Proč se při ní člověk kroutí jak raněné zvíře? Proč skučí, sténá, vyje? Když přece bolest i rozkoš se vyjadřuje stejně? Proč se při nejhlubší lásce člověk zpotí, řve a svíjí?
 
@@ -335,11 +341,15 @@ Třídenní odloučení nám dokázalo, že už bez sebe nemůžeme být. Miluje
 
 Milujeme se na popravčím špalku a v našem změtení už nerozeznat, kdo koho exekvuje, odsouzenec líbá kata a oběť se nastavuje vrahově dýce. Prokurátoři ječí vztekem: ale dokud nás od sebe neodtrhnou, nemůže dojít ke stětí.
 
-  
+</section>
+
+<section>
 
 PAŘÍŽSKÝ SOUD PRO MLADISTVÉ odsoudil dva provinilce k neobvyklému, ale snad výchovnému trestu. O prázdninách musejí pěšky projít stejnou trať, kterou urazili v ukradeném voze.
 
-  
+</section>
+
+<section>
 
 Se svěšenou hlavou procházel Borek Trojan domem čp. 2000 co nejrychleji, a přece napaden, ve druhém patře, už sotva krok od svých dveří.
 
@@ -367,7 +377,9 @@ Zavřel jsem za sebou dveře a bylo mi špatně od žaludku. Strašná chuť na
 
 „Provedu…,“ říkám sklesle a zdvihá se ve mně vztek. Po něm nenávist. Vlna končí hlubokou depresí. Osmnáct let jsem strávil ve školách, abych se něco naučil a stal se někým, abych to něco mohl začít konat. Jak začínám: drcen ředitelem a jeho náměstkem, všeobecně pohrdán, nenáviděn a tupen, nyní hanebný úkol od Tušla, který mě v případě nezdaru – jako při tom našem návrhu plánu – bezostyšně během vteřiny opustí. Ani velevýkonný Tušl se svou vzteklou fenou Jolanou nesvedli uhájit pokoj proti mně a Alexovi. Proč by se to mělo podařit mně? Úkol pro inženýra chemie: proti jejich vůli přestěhovat dvě dívky z dívčí svobodárny do ubytovny montérů. Trestat totéž, čeho jsem se sám beztrestně dopustil. Biřicem bez naděje na úspěch. Ovšem, nevelí mi ty dívky zastřelit, pouze je přestěhovat. Jaký je v tom vlastně rozdíl? Jako mezi popravčím a polykačem vlastních výkalů. Proč si náhle troufají tohle na mě žádat? Proč náhle už nejsem ostrý?
 
-  
+</section>
+
+<section>
 
 Borek ležel na břichu, jak vzteklé zvíře kousal do třásní přehozu a Zita ho něžně hladila po zádech.
 
@@ -409,7 +421,9 @@ Obléká se. Spodky ode mne, ponožky z Londýna ode mne, bílou košili ode mn
 
 „Dík. Půjdu pěšky.“
 
-  
+</section>
+
+<section>
 
 „Tak užs něco vymyslel?“ zeptal se Bogan Tušl a zamrkal na svého podřízeného Borka Trojana.
 
@@ -557,7 +571,9 @@ Jak vám to bude vyhovovat, pane. Pro zaměstnané muže odpolední seance za sn
 
 Proč vlastně se tak blbě chechtám? Manžel nade mnou udělal kříž, syn bručí v kriminále, frajer zmizel. Sedím rozcuchaná na kraji gauče jen v punčochách, v jedné ruce cigaretu, v druhé flašku, je mi zima a blbě se chechtám. Proč vlastně si myslím, že nejsem děvka? Proč vlastně se blbě chechtám, když bych měla řvát a rvát si vlasy z hlavy?
 
-  
+</section>
+
+<section>
 
 Borek pobaveně sledoval, jak Alex v posteli svědomitě pokašlává, aby u Dáši Zíbrtové vzbudil dojem zánětu průdušek. Alex se pracně potil a vzdychal téměř dojemně. V přestávkách recitoval Ovidia. Alex je štráfek, má klasické gymnázium. Teď jakoby bezděčně předvádí svůj skvělý hrudník těžkého atleta.
 
@@ -579,7 +595,9 @@ Zito, má lásko. Milujeme se jako nikdy – pokolikáté to už říkám? Vrch
 
 Ten poslední červený list na tom zvláštním stromě před oknem – už spadl. Jak také jinak.
 
-  
+</section>
+
+<section>
 
 Z DARCOVHO TELA VYOPEROVALI SRDCE, ponorili ho do fyziologického roztoku (kuchynskej soli) a schladili ho až na teplotu 4 stupne Celsia. Pri tejto temperatúre potrebuje totiž srdcová tkáň iba minimum kyslíka a vyňatý orgán vydrží v takomto podchladení bez funkčného poškodenia aj niekoľko hodín. Vo vedľajšej operačnej sále po dôkladnej anesteziologickej príprave
 
@@ -595,6 +613,10 @@ Z DARCOVHO TELA VYOPEROVALI SRDCE, ponorili ho do fyziologického roztoku (kuch
 
 Počas celej operácie premývali a polievali transplantované srdce ľadovou vodou.
 
-  
+</section>
+
+<section>
 
 TRESTNÉ POCHODY mají snížit počet opilých řidičů v Turecku. Zjistí-li turecká dopravní policie, že některý řidič jede v podnapilém stavu, vytáhne ho nemilosrdně z vozu a zaveze v policejním autu do opuštěné krajiny, vždy nejméně 25 km od města. Odtamtud musí jít namazaný motorista pěšky.
+
+</section>

@@ -3,6 +3,8 @@ title: Dobyvatelé
 contentType: prose
 ---
 
+<section>
+
 „– JOU…,“ třeštící Madda otvírala oči, Olda plul v rudé mlze nad ní a v ní a najednou zmizel, „Oldo –“
 
 Olda už stál u okna zády k Maddě a kouřil parfémovanou cigaretu se zlatým náustkem.
@@ -81,6 +83,10 @@ Roman Gráfovic na mě zas čeká na schodech, stojí tady jak fízl, jak prokur
 
 „Ne! Já nemůžu… fakticky ne, protože… Protože Julda mě s tebou nepustí.“
 
-  
+</section>
+
+<section>
 
 PO DOBU CELÝCH ŠESTI HODIN držel zdivočelý bezprizorný ovčácký pes v šachu dvě auta na místě určeném pro odpočinek na dálnici u Wiedernbrücku. Nepomohl ani zásah policie se železnými tyčemi. Teprve přivolaný pohodný chytil psa do lasa. Naštěstí pes „jen“ pokousal jednoho z řidičů.
+
+</section>

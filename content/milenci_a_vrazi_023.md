@@ -3,6 +3,8 @@ title: Obležení
 contentType: prose
 ---
 
+<section>
+
 Zita Gráfová polkla librium a čekala, až začne zabírat. Zítra je svatého Mikuláše a tento večer jsme vždycky Romanovi – au au. Dohodli jsme se s Evženem, že o Mikuláši dnes ani nepromluvíme. Ale já stejně nemohu zapomenout na ty páté prosince, kdy jsme s Evženem v noci vstávali a bosí se plížili s naditou punčochou a talířem cukroví pokojem k oknu našeho spícího chlapce –
 
 Asi bych už měla zemřít. Už to stačilo. Borek jezdí k řece stále řidčeji. Chodím kolem vodovodní trubky: náš milostný telegraf se už odmlčel. Co dělá Borek, když hledí na tutéž trubku, jež vede až ke mně dolů? Proč mě aspoň nepohladí – francouzákem. Borek zřejmě doufá, že ignorováním našeho telegrafu se mu zdaří přijet na chatu k řece jiný den než já… leč já ho tam čekám každý den.
@@ -18,3 +20,5 @@ V létě je kolem naší chaty hluk, slyšet motory, křik, dětský pláč a 
 Librium začíná zabírat. Konečně. Je to skvělý preparát. Doporučují mi jej dva chemici: inženýr Trojan a doktor Gráf. Stejně neusnu. Díváme se s Evženem na televizi. Už sedmnáct let – ne, tenkrát ještě televize nebyla. To je totéž. Za necelých čtyřicet let snad už umřu sešlostí věkem. Namíchala jsem dva manhattany. Cold cream, pleťovou vodu, zubní pastu, ústní vodu, výplach, síťku na vlasy. Dvě tabletky gastrogelu. Tabletku dormitalu. Tabletku libria. Doušek rondy. Bohové, armády, vlády a sjezdy – prosím už jen o milosrdenství spánku –
 
 Místo něj mi bylo nabídnuto šílenství: z černého nebe se mi snesla do okna bílá umrlčí tvář s rudýma planoucíma očima a děsně zející rudou dírou bezzubých úst – křičím hrůzou… To Roman si přišel pro mikulášskou nadílku.
+
+</section>

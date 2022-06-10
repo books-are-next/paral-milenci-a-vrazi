@@ -3,7 +3,7 @@ title: "Let’s\_Make War And Love"
 contentType: prose
 ---
 
-  
+<section>
 
 Bosa, v bílých šatech na holém těle a s květinami ve vlasech vítala Yveta Trojanová hosty svého večírku v prvním patře domu čp. 2000. Její chlapec Limon už seděl u velkého oválného stolu v jídelně a hladově pokukoval po mísách s pyramidami obložených chlebíčků. Jana Trojanová chlapci s úsměvem naložila vrchovatý talířek a vlídně usazovala manžele Břeťu a Jitku Traklovy k svému stolu. Samí mladí lidé – bude to veselé! Yveta měla kouzelný nápad s tímhle večírkem. Vždyť tady přece všichni žijeme spolu – tak proč se nemít rádi? Vchází doktorka Dáša Zíbrtová a za ní její – po několika epizodkách teď už zřejmě navždy – milenec Alex Serafin, napadaje na levou nohu.
 
@@ -97,15 +97,21 @@ _Římani si žili jak prasata v žitě_ _Patricijská dáma si na kožešině 
 
 _Až to už není k dívání, naštvou se posléze strašně červení lidi shora z Evropy a vtrhnou do pádské nížiny A zapálí bílé přístavy Vjíždějí na koních do atrií vil Něžná dívka brnkající na lyru znásilněna vojáky Mladý básník ubit na schodišti chrámu A chudák starej Archimed propíchnut nad svou geometrií na písku Checheche_
 
-  
+</section>
+
+<section>
 
 __Až si bojovníci nacpou nácky a ukojí se, zmodrají Místo nových grifů s mečem vymýšlejí nové vzorky na parádní tkaniny Dcery barbarů si ostříhají nehty a zas už na něco brnkají Tím pádem samozřejmě potřebují služku Gotika není dvakrát pohodlná na bydlení Nakonec se zjistí, že Římani stavěli nejlíp, a v Římě už zas kvetou orgie v antickém stylu Na rožmberském dvoře se spotřebuje na hlavu čtyři kila masa denně, nepočítaje v to ryby a drůbež Jenže do renesančního salonu se dá nacpat málo zlata, a tak přichází barok Pak ještě zlatější rokoko Potomci germánských nájezdníků snídají párek holoubat, půl tuctu křepelek, osm kvíčal a víno se pije z litrových pohárů V Anglii se říká telecímu „veal“, kdežto teleti „calf“ a praseti „pig“, kdežto vepřovému „pork“, to proto, že jedni pouze pěstují prasata a telata v chlévech, kdežto druzí pouze jedí vepřové a telecí v zámeckých jídelnách Hladoví mají jiný jazyk než bohatí „Že lid má málo chleba?“ žasne královna Marie Antoinetta, „Nechť tedy jí koláče!“ Toto je doba vrcholného rozkvětu věd a umění A když někdo remcá jako ten atentátník na krále Ludvíka, je mu do hrdla nalito roztavené olovo a pak trhán čtyřmi koni Dokud to takhle jde, je to prima Leč ono to jde stále hůř__
 
-  
+</section>
+
+<section>
 
 Perdidistis utilitatem calamitatis: ZTRATILI JSTE UŽITEK POHROMY
 
-  
+</section>
+
+<section>
 
 _Až to už není k dívání, naštvou se posléze strašně červení lidi z pařížských ghett, co se v životě nenajedli, a vtrhnou do paláců A useknou hlavu králi Ludvíkovi a krásné Marii Antoinettě Něžná dívka brnkající na spinet znásilněna revolucionáři Mladý estét popraven na náměstí A aristokraté patří na lucerny Checheche_
 
@@ -113,12 +119,18 @@ _Až se revolucionáři nasytí revoluce a ukojí se, zmodrají Místo vymýšl
 
 _Okresní maršálek šlechty si po snídani zajede na svůj statek, dá si na místě porazit vybrané tele a trhá rukama horké řízky (nedělejme si iluze o spotřebě telecího v rodinách mužiků) a odpoledne z bujnosti rozbíjí čelem zrcadla Velký režisér velkých orgií a carevnin milenec Rasputin tančí v noci nahý v restaurantu Arkadija a ještě o čtyřech ráno pak milostně dobývá ve svém domě sousedku Toto je doba vrcholného rozkvětu věd a umění A když někdo remcá, před odesláním na Sibiř dostane až čtyři tisíce ran na holé tělo, přičemž zákon stanoví, že určené množství ran v případě smrti delikventa při výkonu trestu je třeba vysázet i na mrtvé tělo do plného počtu Dokud to takhle jde, je to prima Leč ono to jde stále hůř_
 
-  
+</section>
+
+<section>
 
 Perdidistis utilitatem calamitatis: ZTRATILI JSTE UŽITEK POHROMY
 
-  
+</section>
+
+<section>
 
 _Až to už není k dívání, naštvou se posléze strašně červení lidi z petrohradských ghett a ruského vnitrozemí, co se v životě nenajedli, a vtrhnou do carova Zimního paláce i do venkovské šlechtické usedlosti v zapadlém michajlovském újezdu Carova rodina postřílena včetně pubertálních princezen a dětí Básník Osip Mandelštam zbit spoluvězni pro krádež z hladu prchá za dráty umřít do sněhu A hraběnky sázeny holým zadkem na rozžhavenou pec Checheche_
 
 _My už máme teďka všecko vyhraný Až na věky věkův amen Naši studenti vnikají do tajů jádra atomu Naše dívky brnkají na elektrické kytary Tím pádem samozřejmě přijde vhod ženě ze sociálně slabší skupiny obyvatelstva přivydělat si výpomocí při úklidu v rodině odpovědného pracovníka Žijeme si jak prasata v žitě V USA se spotřebuje 92 kilogramy masa na hlavu Frankfurt nad Mohanem má jedno z nejmodernějších divadel Evropy a v něm tak důmyslnou dekoraci foyeru, že se do ní vešel snad hektar zlatého plechu Při návštěvě Paříže se doporučuje ochutnat národní specialitu: kachna po rouensku Místo staromódních orgií v antickém stylu lze v Paříži soukromě zhlédnout ostřejší show: soulož ženy s oslem na porodnickém křesle Jeden z prvních happenningů byl slalom žlutého auta mezi zavěšenými krvavými čtvrtěmi hovězího masa Specialitou striptýzových kabaretů na Reeperbahnu je „Verwaltigungsschau“, tedy „podívaná na znásilnění“, a „Henkerschau“, což je stylizovaná podívaná, jak kat mučí nahou dívku Minimální povinná konzumace při „Henkerschau“ je kokakola s rumem, ale hosté pijí ponejvíce sekt V Jablonci nad Nisou v kavárně Praha zahájen první „strip-tease“ v zemích socialismu Hlásí se na něj spousty mladých děvčat V ČSSR se na venkově nadbytečným chlebem přikrmují králíci a vepři, v městech pak se háže do popelnic Další „strip-tease“ se chystá v Děčíně Toto je doba vrcholného rozkvětu věd a umění Americký zaměstnanec naftové firmy Aramco v Rijádu omylem podezříval svého domorodého sluhu z krádeže plnicího pera, a když zjistil, že se jedná o jeho vlastní roztržitost, byla již sluhovi uťata pravá ruka Dokud to takhle jde, je to prima Leč ono to jde stále hůř_
+
+</section>

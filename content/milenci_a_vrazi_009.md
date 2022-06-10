@@ -3,8 +3,6 @@ title: Dobyvatelé
 contentType: prose
 ---
 
-  
-
 Konečně odtáhli.
 
 Chystali se na přespání v té jejich chajdě u řeky snad tři hodiny. Jídla s sebou na týden, pět svetrů pro tři lidi a čtvery tmavé brýle, skleněný kávovar a starý Gráf se ještě ze schodů vrátil pro mucholapku. Pod oknem startování vozu a pak už ticho.
@@ -36,6 +34,8 @@ Vlevo pootevřený Zitin šatník napěchovaný jak parním lisem, vpravo ohromn
 A modrý vzdušný šifonový model košilového střihu, pošitý velikými perlami, s vysokým stojatým límcem až skoro k bradě, který vzadu přechází v uvázanou stuhu – perfektní pohádka.
 
 A v perfektní modré pohádce Madda kroužila pokojem, pokoj se zvětšuje otevíráním dveří a bosí se po kobercích jenjen vznášíte, jak cinká ušlechtilé tenké sklo a bílé cinzano z křišťálu, obrovské bonbony v pruhovaném staniolu a zde čínský vějíř, ó! A zlatý brejličky se zlatým držátkem posázeným drahokamy a dlouhá cigaretová špička z mořské pěny a modré obláčky parfumovaného žlutého tabáku a fialový likér _Parfait Amour,_ do masivního tmavošedého skla kane těžký zlatý Courvoisier Cognac jak med, cestou zpátky Madda už tančila a z pokojů za sebou řada salonů, pak sálů, na televizor je odtud vidět z postele a z obrazovky vyplula sladká tvář zpěváka se zářícím účesem, tančil v arktické revuální krajině mezi otáčejícími se pásy stříbřitě poprášeného skla, sněžnými balustrádami a aranžovanými trsy bílých orchidejí z plastiku, na třpytných skleněných schodištích dívky v bílém v ubíhajících pablescích rotujících leštěných hranolů v pokleku vztahují paže k zrcadlovému oltáři
+
+  
 
 _mýmu trůnu Na kterým se dá sedět i takhle ležet Nikdo nesmí po skleněných schodech sem ke mně nahoru Musej stát dole v chumlu a nanejvýš jen koukat Ale i na to musej bejt řádně oblečený Všecko v bílým Šmudla, Tarzan, Robek, Borek v bílým až po krk Holky Holky vyhnat Kluky taky vyhnat Vymrskat silnouproudým kabelem s hodně tlustým jádrem Alex v bílým až po kotníky jak ministrant Ani chloupek u krku mu nesmí koukat a musí bejt oholenej Odřenej cihlou Starýho Gráfa a Gráfku přivázat dole ke sloupu Nebo mi můžou servírovat ledový drinky Ale po skleněných schodech nahoru nesmí nikdo A Gráfy kabelem po hlavě Sotva jsem přišla, hnali mě do vany jak pouliční šlapku Abych vám nesmrděla jak panu inženýrovi Seckýmu s chotí Jak prašivou Tak oba Gráfy a oba Secký do vany plný napalmu Nebo raději něčeho, co hoří hodně pomalu Ale tohle odbýt někde ve sklepě Tady všecko jen čistý A kolem pavilony ze skla a modrého kovu Ornamenty ze smetany A z věčných pramenů vzhůru vlažný déšť V trávě spí labutě Sem nahoru ke mně nikdo nesmí Jen tichoučká hudba hodně cool a hodně slow Kluk Gráfů Roman Gráf Carevič Má po celým těle kůžičku, jakou mají muži už jen za ušima Ty můžeš sem ke mně nahoru Budem se držet za ruce Pohraju si s tebou Pak tě nejspíš zakousnu_
 
@@ -97,6 +97,8 @@ Až ke konci se trochu rozkurážil, ale nebezpečný to tedy nebylo ani vteřin
 
 Roman Gráf ležel na zádech a Madda ho odpočítávala stále pomaleji, až ustala. Vydrážděna hrou a tiše vrníc kousala ho lehce do brady, ramen a ušních lalůčků. Chlapec se už nepokoušel vymanit se ze sílícího sevření a jeho ruce, ještě dětská útlá zápěstí v těžkých okovech rukavic, objaly tělo tyčící se nad ním.
 
+  
+
 _Já nikdy nedostala žádnou panenku Sama jsem si je musela brát Neboj se, můj bílej chlapečku Budem si spolu jen hrát_
 
 _Čekal jsem Tě šíleně dlouho Četl jsem o Tobě a viděl Tě v kině Hledal jsem Tě na plovárně v tom davu, který mě děsí Ty jsi silná a Ty se nebojíš Ty mě tam přivedeš Spolu nás vezmou_
@@ -113,9 +115,9 @@ _Máš masíčko jak kuřátko A bílý maso já zbožňuju Tohle musíš vydr�
 
 _Chci pro Tebe smět vykrvácet Obléklas mi na to boxerské rukavice Teď je už nesundám_
 
-_POZORUHODNÝ SNÍMEK se podařil ve státě Massachusetts (USA) profesoru H. G. Edgertonovi z technologického ústavu. Zachytil jednou třímiliontinou vteřiny let kulky vystřelené z pušky. Na snímku je okamžik, kdy kulka proletěla jablkem._
-
   
+
+_POZORUHODNÝ SNÍMEK se podařil ve státě Massachusetts (USA) profesoru H. G. Edgertonovi z technologického ústavu. Zachytil jednou třímiliontinou vteřiny let kulky vystřelené z pušky. Na snímku je okamžik, kdy kulka proletěla jablkem._
 
 JEDNA POTRAVINÁŘSKÁ FIRMA v Londýně provedla zkoušku s dětmi mladšími pěti let. Mělo být zjištěno, kterým lahůdkám dávají děti přednost. Na velkém stole byly krémové polévky, drůbeží paštiky, bifteky, čokoládová zmrzlina a poháry s jahodami. Děti snědly všecko bez rozdílu.
 
@@ -243,9 +245,9 @@ V podvečer si Tušlovi zdřímli a před půlnocí se rozřinčel budík.
 
 A s prakem, foukačkou, lukem a šípy se vyplížili do teplé noci.
 
-_SYSTÉMŮ VRAŽEDNÝCH ÚHOZŮ, kopnutí nohou, úderů kolenem, loktem, bodnutí špičkami prstů a jiných zabijáckých knifů, starých jako Čína nebo Japonsko, je řada: kempo, hakuda, kumiuči, aikido, atemi waza. Nejsmrtelnější z nich, který je ve srovnání s džudem nebo s džiu-džitsu jako kobra vedle užovky, je karate. Kara znamená prázdný, te ruka. Dovoleno je v něm všechno, smysl zápasu je zabít. Karateka vysokého stupně, mistr karate, přerazí prázdnou rukou coulové prkno, hřbet koně, rozdrtí pěstí kámen, prorazí prstem zeď._
-
   
+
+_SYSTÉMŮ VRAŽEDNÝCH ÚHOZŮ, kopnutí nohou, úderů kolenem, loktem, bodnutí špičkami prstů a jiných zabijáckých knifů, starých jako Čína nebo Japonsko, je řada: kempo, hakuda, kumiuči, aikido, atemi waza. Nejsmrtelnější z nich, který je ve srovnání s džudem nebo s džiu-džitsu jako kobra vedle užovky, je karate. Kara znamená prázdný, te ruka. Dovoleno je v něm všechno, smysl zápasu je zabít. Karateka vysokého stupně, mistr karate, přerazí prázdnou rukou coulové prkno, hřbet koně, rozdrtí pěstí kámen, prorazí prstem zeď._
 
 NA SHROMÁŽDĚNÍ bavorských lesníků referoval ministerský rada mnichovského ministerstva zemědělství a lesů pan Herrmann Haagen o napjatém poměru mezi pracovníky lesních správ a obyvatelstvem. K odstranění vzájemných nedorozumění doporučil zvláštní „službu obyvatelstvu“. Ať prý lesníci jsou ohleduplní k mileneckým párům v lese a pomohou jim nalézt odlehlá osamělá místečka.
 
@@ -253,6 +255,7 @@ NA SHROMÁŽDĚNÍ bavorských lesníků referoval ministerský rada mnichovské
 
 _muž, maso, krev, dobyvatelé, mládí, hlad, džungle, vnitrozemí, ghetto, erekce, znásilnění, sadismus, řeka, poušť, motor, východ a jih, zvědavost, ráno, oheň, stav vzruchu (buňky biologické nebo elektronické), barbarství, tajfun, revoluce, chleba, vlk, podhradí, naftové zřídlo, válka, přetlak, sůl, technologie, kulomet, býti dlužen, jaro a léto, strž, touha po svobodě, tráva, násilí, domorodec, agrese, gotika, svěžest, sopka, jazz, intuice, vůle, fanatismus, nenávist, čerň, urážka, vztek, sex, touha, začátek_
 
+  
   
 
 Rozvalen v nejvyšším regálu na balících izolační bavlny, jejichž papírové obaly si natrhl pro slast dotyku nahé pokožky s hebkou vatou, vyhlížel Alex Serafin líně ze svého suterénního elektromeziskladu úzkým okénkem na úrovni závodního nádvoří a opíral se nohama o horkou hmotu mocného potrubí u stropu. Okénkem viděl z lidí venku nad sebou pouze nohy a stehna do pasu – což není zbytek už jen pouhý apendix? – a horko miloval.
@@ -324,6 +327,8 @@ Něco lží a něco benzinových par, něco negerských rytmů pralesa a něco
 Atd., atd. a atd.
 
 „Cítím se tak unavená… Tak slabá…,“ šeptala Dáša, přimykajíc se k Alexovi tím poddajněji, čím brutálněji ji svíral svými gorilími pažemi, „… a tak šťastná…,“ Alex se krátce zasmál, hodil ji naznak a přisál se jí k šíji.
+
+  
 
 _Zrozena z neznalosti antikoncepce nebo pro udržení partnera, kvůli získání bytu nebo jako protéza odumřevší manželské lásky v zeměpisném středu Evropy, aby zde prožila svých statisticky průměrných 71,4 let věku Nebude-li ovšem rozhodnuto tenhle koutek termonukleárně vyčistit_
 
@@ -679,6 +684,8 @@ Stěpa strhl přikrývky ze dvou kavalců, obratně je přitloukal na horní rá
 
 V šeru Olda už nezačínal kouřit… A i Valtr zapomněl na svůj nejnovější zapalovač.
 
+  
+
 _Tohle je naše Maso a hry Říkáte, že se v této chvíli někde hraje Mozart a Mahler Že žije duch Komenského a Lincolna a Gándhího a další všelijací duši Tak si s nima povídejte, když na to máte školy Nás ten jazyk nikdo neučil Nás ti pánové nebavěj Přesto vyhrajem Proto vyhrajem Tak davaj_
 
 _Pusťte mě Jste špinaví, zarostlí, smrdíte, jste hnusní S váma nechcu_
@@ -691,10 +698,10 @@ _Tak davaj a pocem_
 
 __Vezmem si, co chcem_ _My vyhrajem__
 
+  
+
 (Pokračování příště)
 
 _ČLOVĚK MÁ JÍST málo, ale desetkrát denně, doporučuje hamburský profesor Kuhnau. Podle jeho názoru je pro lidské zdraví prospěšnější rozdělit si určitou denní dávku potravin na deset jídel, než je sníst na dvakrát nebo na třikrát… Jedině takový způsob jídla vede k dlouhověkosti a k dobrému zdraví._
-
-  
 
 V NĚKTERÝCH ODLEHLÝCH MĚSTECH čínského vnitrozemí musí prý obchodníci na tabule výkladních skříní namalovat nápis „Žádný vchod“, aby zabránili pokusům prostoduchých venkovanů projít sklem.

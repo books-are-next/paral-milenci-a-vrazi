@@ -3,8 +3,6 @@ title: Dobyvatelé
 contentType: prose
 ---
 
-  
-
 Jana Rybářová přecházela koleje na podlaze své svobodárny, jako by tančila, a v duši se jí vzmáhala píseň vítězství: Borek u mě sedí už tři hodiny!
 
 Dělám, že jako žehlím, abych jako něco dělala, protože v tomhle pokoji je jen jedna židle a pak už jen dvě postele. Borek má dnes rande s čarodějnicí a proto ho takhle za každou cenu tady držím. Jak je to snadné… Pokusí se mě už dnes políbit?…

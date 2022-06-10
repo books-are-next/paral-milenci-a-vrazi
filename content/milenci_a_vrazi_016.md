@@ -3,8 +3,6 @@ title: "Obležení, dobyvatelé a\_milenci"
 contentType: prose
 ---
 
-  
-
 Zita stála u zdi v šeru chodby svého bytu v prvním poschodí přimykajíc se koleny, stehny, rukama a celým tělem ke kolmé kovové trubce vodovodního potrubí a čekala na Borkův signál shora, na jeho zavolání, třela se tváří o trubku již horkou z jejích polibků, hladila ji a přejížděla po ní rty… Cos to ze mne udělal, zlý kadete. Můj bosý řecký hochu. Kdo z nás dvou je teď svatý Šebestián? Mé tělo se ježí Tvými šípy jak dikobraz. Má kůže však nenasytně prahne po dalších. Mé maso Ti chystá nové doušky krve. Střílej do mne, můj lučištníku! Buď krutý a přesně miř. Nemohu se toho už dočkat – už zabubnuj!
 
 Borek ležel s rukama za hlavou na svém kavalci v pokoji v druhém patře a bosými chodidly se opíral o kolmou kovovou trubku vodovodního potrubí, stačí zabubnovat na ni čtyřikrát kleštěmi jak paličkou do gongu, BANG, a za pár okamžiků stane přede mnou má zajatkyně, ochotná zakusit a podstoupit cokoliv, co mi jen přihraje má zjitřená obrazotvornost, vděčně se podrobí už absolutně všemu a jak vášnivě –
@@ -32,6 +30,8 @@ Borek vedl Zitu travou ke břehu a na navigaci ji přiměl k běhu, poběž se
 „Dosud ne, až teď. Čím to je?“
 
 „Čím asi?“
+
+  
 
 Že jsem tě začal milovat.
 
@@ -68,6 +68,8 @@ Láska není maso –
 A hudba.
 
 A hudba.
+
+  
 
 „Dej mi to koště,“ řekl Borek Zitě.
 

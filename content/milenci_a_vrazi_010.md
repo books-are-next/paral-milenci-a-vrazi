@@ -3,8 +3,6 @@ title: Obležení
 contentType: prose
 ---
 
-  
-
 „Ano, miláčku,“ řekla Zita Gráfová.
 
 „Ale ty mě vůbec neposloucháš,“ řekl Evžen Gráf s tichou výčitkou.
@@ -114,10 +112,6 @@ DVĚ MYŠI si povídají:
 „Před dírou je kočka!!“
 
 „A co chce?“
-
-  
-
-  
 
 KOMISE JAPONSKÝCH VĚDCŮ zjistila v okolí přístavu Sasebo silné radioaktivní zamoření. K zvýšení radioaktivity došlo po návštěvě atomové ponorky Swordfish. Komunistická strana Japonska žádá, aby vláda zakázala přistávání atomových ponorek v japonských přístavech.
 
@@ -450,9 +444,9 @@ Před domem čp. 2000 pohlédl bázlivě k Teovu oknu, sklo přetřeno vápnem
 
 Julda povzdychl a těžce vystoupil do druhého patra, v pokoji si klekl k oknu a dlouze se pomodlil, pak svlékl svou plátěnou kajdu, z holého těla si odvázal zčernalý už uzlovitý provaz, zmrskal se jím po ramenou, zádech a prsou, znovu se provazem opásal, oblékl kajdu, chtěl se napít, leč voda netekla a tak po delší modlitbě ulehl, pokřižoval se a ihned usnul s mírným úsměvem na pootevřených rtech.
 
-_V PŘEDMĚSTÍ SYDNEY v Austrálii se staví kostel, kam jako první na světě mohou věřící jezdit ke zpovědi autem a ani z něj nemusí vystoupit. Věřící zajede až ke zpovědnici, stiskne příslušné tlačítko, a když se objeví kněz, zajede dovnitř, vyzpovídá se, pomodlí a zase pokračuje v cestě._
-
   
+
+_V PŘEDMĚSTÍ SYDNEY v Austrálii se staví kostel, kam jako první na světě mohou věřící jezdit ke zpovědi autem a ani z něj nemusí vystoupit. Věřící zajede až ke zpovědnici, stiskne příslušné tlačítko, a když se objeví kněz, zajede dovnitř, vyzpovídá se, pomodlí a zase pokračuje v cestě._
 
 BRITSKÁ BIBLICKÁ SPOLEČNOST se rozhodla shromáždit pro případ světové katastrofy bible ve všech jazycích a uložit je v pěti bezpečných úkrytech na různých místech zeměkoule v Londýně, New Yorku, Canbeře, Kapském Městě a ve Stuttgartu.
 
@@ -565,7 +559,5 @@ Najednou jsem v jejich kutlochu a chlapi proti mně, rozhicovaný a jdou na m
 (Pokračování příště)
 
 _ŘÍJNU 1955 DOBYLA britská jednotka spolu s místními ozbrojenci saúdskou oázu Burajmi, kterou pak Británie přisoudila šejchátu Abu Dhabi, tehdy naprosto pustému území se 7000 zaostalými beduíny. Pak jako náhodou zde byla nalezena obrovská ložiska nafty. Dnes Abu Dhabi produkuje na 12 milionů tun nafty ročně a vládnoucí šejch Šakbút, který ještě před deseti lety bydlel ve stanu a mazal si vlasy velbloudí močí, je dnes jedním z nejbohatších lidí na Středním východě._
-
-  
 
 DOSAVADNÍ REKORD ve skoku vysokém – 1 m – byl překonán. 1,05 m skočila mladá osmiměsíční sportovkyně s honosným jménem Susi von Oberbeuren. Trenérem je její majitel, zemědělec Arthur Joanni. Místem tréninku je vyřazené tenisové hřiště. V disciplíně běh s překážkami porazila o několik délek svou soupeřku ze sousední vesnice. Za každý skok dostává prémii – jednu láhev piva. Ano, Susi je superštíhlá, růžovoučká, trénovaná prasnice.

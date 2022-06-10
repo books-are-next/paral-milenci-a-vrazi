@@ -3,8 +3,6 @@ title: Obležení
 contentType: prose
 ---
 
-  
-
 Pololeže ve svém laminátovém křesílku, s rukama volně položenýma na chladivém plastiku, s hlavou zvrácenou, aby se mohl opřít týlem o opěradlo, a s přivřenýma očima vychutnával zástupce ekonomického náměstka Bogan Tušl jednoduchou radost spočinutí. Těžký den za námi. Přijdou ještě těžší. Moci aspoň spát – teď hned a co nejdéle…
 
 Náhle z podlahy zdola silný dřevěný úder a hned další. To mám být ještě tišeji? Bum. Bum. Bum. Bum. Co tam ti lidé dole… Musím k nim být zdvořilý. Dokud nemám dekret na byt. Bum. Bum. Bum. Bum. Komise už přestávají chodit. Do bytu i do závodu. Věci se už staly. Bum.
@@ -127,9 +125,9 @@ Dosud hlavní spojenci – ode dneška úhlavní nepřátelé. Je tohle také d
 
 Zvenčí řev a rány do dveří, uvnitř jak v pasti Tušlovi obleženi.
 
-_K VOJENSKÉ SLUŽBĚ povolala uruguayská vláda 5000 bankovních úředníků, kteří si chtěli stávkami vynutit zvýšení mezd. Nyní budou mít jiné starosti._
-
   
+
+_K VOJENSKÉ SLUŽBĚ povolala uruguayská vláda 5000 bankovních úředníků, kteří si chtěli stávkami vynutit zvýšení mezd. Nyní budou mít jiné starosti._
 
 FARMU BOBA NOELLA nedaleko Tarpon Springs (Florida) vykradli několikrát za sebou lupiči. Ani hlídací psi nezabránili neustálým krádežím (banditi je vždy otrávili). Proto si farmář koupil 400kilovou gorilu, přivázal ji na 30metrový řetěz a od té doby má na farmě klid. O gorile pan Bob Noell říká: „Má obrovskou sílu, mohla by přetrhnout i nejsilnější řetěz, ale neudělá to, protože se stala mým nejlepším přítelem…“
 
@@ -247,11 +245,11 @@ Netoužím už po ničem: ukojen, nasycen, ztichlý. Zbývá už jen vyčkat smr
 
 Pud k smrti.
 
+  
+
 _MNICHOVSKÝ ŠACHOVÝ VELMISTR Wolfgang Unzicker si zahrál v neobvyklé situaci. Nastoupil k simultánní hře proti vězňům ve vězení Straubing._
 
 _O NOVÉM ITALSKÉM PREMIÉROVI Leonovi je známo, že nic tak nenávidí jako muže bez kravaty. Když ještě byl předsedou italské sněmovny, proslul tím, že kdykoliv se na zasedání objevil poslanec bez kravaty, jen tak v rozhalence, dal mu doručit kravatu se svou vizitkou. Říká se také, že někteří poslanci této vlastnosti svého předsedy hodně využívali._
-
-  
 
 V ATLANTSKÉM OCEÁNU mezi Islandem a Grónskem se nahromadily masy ledu nevídané od r. 1915. Pilot, který nad těmito prostorami prolétával, prohlásil, že téměř není vidět nezamrzlé volné moře.
 
@@ -334,7 +332,5 @@ Kdo z nás bude vrah?
 (Pokračování příště)
 
 _TŘETÍ ZUBY – Špičáky – začaly růst 52leté paní Erice Hammerové pod korunkou. Velkou radost z nich ovšem nemá. Rostou křivě a narušují pevnost protézy._
-
-  
 
 GIGANTICKÝ PROJEKT obrovského kanálu, jímž má být vyrovnána neustále klesající hladina Aralského jezera v sovětském Kazachstánu, připravuje početná skupina sovětských odborníků. Úbytku vody v jezeře má být zabráněno přílivem ze sibiřské řeky Ob.

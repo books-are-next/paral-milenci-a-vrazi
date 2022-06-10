@@ -3,8 +3,6 @@ title: Obležení
 contentType: prose
 ---
 
-  
-
 Zita si zapálila další cigaretu Kent, vyfoukla šedý kouř ke stropu a dokonale už zvládnutým hlasem řekla Borkovi: „Miluješ ji?“
 
 Borek jen pokrčil rameny. NEPOPÍRÁ TO TEDY… Musím zachovat to, čemu se nedokonale říká vkus, ano, papá, quand même. „Je velice mladá. Líbí se mi.“

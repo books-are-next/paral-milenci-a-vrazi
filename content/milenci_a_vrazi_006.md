@@ -3,8 +3,6 @@ title: —
 contentType: prose
 ---
 
-  
-
 Šest kruhových zrcadel v umyvadlech na rozpukané, vydřené a zryté podlaze se leskne jak šest moří na mikromapě Země. Z vod vystupuje osm bílých sloupků dvou postelí přiražených k sobě, takže všech osm noh je ponořeno v oněch šesti (čtyři vnitřní nohy ve dvou vnitřních) lavorech (ochrana proti mravencům). Od přístupové pelesti se zdvihá směrem k oknu a skoro ke stropu měkká hora devíti matrací, tří peřin a šesti polštářů. Všechno je to už hezky staré (Teo je prastarý) a vše – bílá smaltovaná umyvadla, bílý lak postelí a bílé povlaky – v šeru místnosti opticky splývá do bělavého vysokého oblaku.
 
 Starý Teo na něm leží až docela nahoře, těsně u horních tabulek ohromného osmidílného okna. Okenní sklo je zevnitř natřeno vápnem, do něhož Teo vyryl nehty labyrint tisíců vlasových čar tak hustě, že při nepatrných pohybech hlavy se mu stroboskopicky (jako když jedete rychle podél tyčkového plotu) skládá celý obraz nebe a ulice před domem, zatímco Teo sám zůstává zvenčí neviděn za vápenným nátěrem podobně oblačné barvy.

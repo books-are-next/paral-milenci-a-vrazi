@@ -3,8 +3,6 @@ title: Obležení
 contentType: prose
 ---
 
-  
-
 Zita parkovala ve svém voze na rohu Jateční ulice a jakmile za kapkami na předním skle spatřila Borkovu siluetu, zavřela oči štěstím a sáhla po startéru.
 
 Borek mi nemohl odmítnout: zatelefonovala jsem mu, že čekám a zavěsila. Přichází s rukama v kapsách a s hlavou schýlenou. Před deštěm? Nebo jako přichází vězeň k autu, jež ho bude eskortovat k výslechu? To je teď jedno. Teď už jedeme. Můj chlapec sedí vedle mne a kdykoliv ho mohu vidět v zrcátku.

@@ -7,8 +7,6 @@ _„Přes spáleniště, přes krvavé řeky
 jdem vpřed jak proud  
 jak pomsty hrozný val –“_
 
-  
-
 zpívala Jana Rybářová svěžím dívčím hlasem onu starou svazáckou píseň drhnouc vkleče podlahu své svobodárny v druhém patře, pak ještě přetřela mokrým hadrem kolejnice na zemi, umyla si ruce, protáhla si záda, jak nádherný je být mladá zdravá holka – naučila se dvacet nových švédských slovíček a odměnila se chvilkou četby rytířského románu „Ivanhoe“.
 
 S myšlenkou na krále Richarda Lví srdce pak přehodila přes stůl houni, přes ni prostěradlo a jala se žehlit své nové šaty, které si sama ušila podle střihového vzoru ve východoněmeckém časopise „Praktische Mode“ z bílé buničinové střiže za Kčs 18,– za metr šíře 80 cm. Nedělní podvečer pokojně uplýval, dnes je pátého prosince: dnes v noci chodí nadělovat svatý Mikuláš s andělem a čertem.

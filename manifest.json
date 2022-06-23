@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "paral-milenci-a-vrazi-0dc8faf",
-  "revision": "0dc8faf",
+  "identifier": "paral-milenci-a-vrazi-f204740",
+  "revision": "f204740",
   "readingOrder": [
     "promo.html",
     "milenci_a_vrazi_005.html",
@@ -51,8 +51,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:54:27 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272467637
+    "date": "Thu Jun 23 2022 10:19:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655979568017
   },
   "documents": [
     {

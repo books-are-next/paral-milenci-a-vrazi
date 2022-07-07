@@ -51,7 +51,7 @@ readingOrder:
   - milenci_a_vrazi_038.html
   - milenci_a_vrazi_039.html
   - milenci_a_vrazi_040.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

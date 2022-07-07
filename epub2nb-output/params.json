@@ -64,7 +64,7 @@
             "filename": "milenci_a_vrazi_003.md",
             "xhtml": "milenci_a_vrazi_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -76,7 +76,7 @@
             "filename": "milenci_a_vrazi_004.md",
             "xhtml": "milenci_a_vrazi_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -556,7 +556,7 @@
             "filename": "milenci_a_vrazi_041.md",
             "xhtml": "milenci_a_vrazi_041.xhtml",
             "id": 40,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -910,6 +910,6 @@
       "user": "books-are-next",
       "repo": "paral-milenci-a-vrazi"
     },
-    "generatedAt": 1655979313764
+    "generatedAt": 1657182285804
   }
 }

@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "paral-milenci-a-vrazi-f204740",
-  "revision": "f204740",
+  "identifier": "paral-milenci-a-vrazi-ae09bd2",
+  "revision": "ae09bd2",
   "readingOrder": [
     "promo.html",
     "milenci_a_vrazi_005.html",
@@ -48,11 +48,11 @@
     "milenci_a_vrazi_038.html",
     "milenci_a_vrazi_039.html",
     "milenci_a_vrazi_040.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:19:28 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979568017
+    "date": "Thu Jul 07 2022 08:35:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182930285
   },
   "documents": [
     {
@@ -121,7 +121,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "DOBYVATELÉ     (Červený ilustrovaný román na pokračování)",
+          "name": "DOBYVATELÉ     (Červený ilustrovaný román na pokračování)",
           "id": null,
           "children": [
             {
@@ -156,7 +156,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "OBLEŽENÍ     (Modrý ilustrovaný román na pokračování)",
+          "name": "OBLEŽENÍ     (Modrý ilustrovaný román na pokračování)",
           "id": null,
           "children": [
             {
@@ -860,7 +860,7 @@
       "role": "chapter",
       "order": 36,
       "prev": "milenci_a_vrazi_039.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -873,11 +873,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 145,
-      "chars": 927,
+      "chars": 926,
       "ideas": 17,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "milenci_a_vrazi_040.html",
       "next": null,
@@ -894,8 +894,8 @@
   ],
   "totals": {
     "all": {
-      "words": 147920,
-      "chars": 871821,
+      "words": 147919,
+      "chars": 871825,
       "ideas": 4198
     },
     "chapters": {

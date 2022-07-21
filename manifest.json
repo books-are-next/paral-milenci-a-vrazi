@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "paral-milenci-a-vrazi-a2be048",
-  "revision": "a2be048",
+  "identifier": "paral-milenci-a-vrazi-1753c83",
+  "revision": "1753c83",
   "readingOrder": [
     "promo.html",
     "milenci_a_vrazi_005.html",
@@ -51,8 +51,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:03:59 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188239415
+    "date": "Thu Jul 21 2022 14:36:22 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414182071
   },
   "documents": [
     {
@@ -875,7 +875,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 145,
-      "chars": 926,
+      "chars": 927,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -894,8 +894,8 @@
   ],
   "totals": {
     "all": {
-      "words": 147919,
-      "chars": 871825,
+      "words": 147920,
+      "chars": 871821,
       "ideas": 4198
     },
     "chapters": {
